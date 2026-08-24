@@ -1,0 +1,2235 @@
+{
+ "at": "2026-08-21T18:40+00:00",
+ "cats": {
+  "الخليج": [
+   {
+    "head": "الكويت.. الداخلية تعلن ضبط 22 متهما وتكشف ما عثرت عليه بحوزتهم",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWRlWUxuMVVkSWoxeGVlSi1zMm5ITVFoazFFcnB0N0F3eEwyZVhha2tIOGZpQ0l3SHZTLU9Jc0FDN045ZDJ6empvSmp3Vmsya2Y0VjJyS2pWS1plV09wZk9nMmNtYVNEdzB3WHdWRVZkX3RrREpzWU51T1czQ1VyTE5hdnpGYTdHVmVseF9UUTg1bjl4VnfSAaABQVVfeXFMUDRPMTMwbEswMXZ2eGg3bGNuanJKRk9OU1JfZS1MemZ5aTcwY0ZHTDRjOV9pdGRUT3RkcjluUHEwNVlNVDRwbFRzakxsY2NlRnp2QUVSQnNNS0szQUNVRGRBTjR4S19jRzVscVJVSEVNU1drNG5iYjRkdkxoRVpiamZBcFRGVFJFTkJJd1BYVU1LQ3hRbk1vZlh3QndYbXpvNg?oc=5",
+    "fa": false,
+    "at": "2026-08-20T05:59+00:00",
+    "he": "Kuwait Interior Ministry Arrests 22 Suspects, Details Seized Items",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "السعودية.. الأمن يعلن ضبط وافدتين \"مارستا الدعارة\" في المدينة",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnhnVkxTd1RsVWdBLXVCM0JYMEhITGhCa3dJd0lSVmRJeHFUOHBzd1o0OEpLczhqVHJQQlVaMUJlRU04aFhxZ3MwOHpUSEpJR1NoeW43MElIWWdmNEZUb1hPaXp0WnA3ZVhIaG5PRmhzZVVzSEk0WWEzTUdDSDkzUmYtTGJabTdhWkZjbkw0T3NSOU9vQ2tseF9CSWhRNDhQWDJodXg3Q0k5SldhVTV4d2xWSUbSAb8BQVVfeXFMTmw4MnhMWkdCUWhUS3FJWFo2N2t3VndrTl9remluOFUtWWhnTkF6Nk81XzRUVkJJbmxiMW5yMGRER1VrZXpRbXRmSDZ0MDRQZy1vMENkMjJfaFZBN3JJajhnREZnSnBqRXprZ0lGN2tBa3F3TVZRZGUyUzh1U24xcWUxU0JLTkhoaFFJWC1lT3Vxb1gzX0JkLUh6Vk5vVXFMSThVUHlrbXVlX0dqbTI3N1VVaVFRY1VIdm84R0JPSGc?oc=5",
+    "fa": false,
+    "at": "2026-08-21T05:03+00:00",
+    "he": "Saudi Security Forces Arrest Two Expatriate Women for Prostitution in Medina",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "السعودية تدخل سباق حواسيب الذكاء الاصطناعي.. \"هيوماين\" تكشف أول جهاز",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPNnh0UVloOE1naXBtd25xVFYybFltYzgtVW1ldXFDUWFBcHVOdzF6VF9SMmRrRlhVcWZnaFJkVmF2UmJ1NUtZbjBmcmRwM0hQbm5nY0lrOGRiQ0pEeWRQU1lzOHI1V2ZJUDFhOTE1cU9tWDNsQ1dQS2ZTd3M5aHhxOWcyX0h1ZzVRMy05RjJPbWNFNGJsN1lpenFiQUFqSkpUQUJrX19wZFU2UklXS2xNQzJ3WWNIZU1INUU4eFdCcFk4OXU2S2ZweFF3M3lEd2tyOEZ3TzdNUHc2OUJyX3ZHYnJyci1KcHRVZUNOV05qb0piZDltTWdRVEo5UUxsNXY2MEVWOEJ0aG1kbkpQMzIxMUNxNU9lY3lIREpqSThTVEw4ZVBBWUV1QXdjWkZ6cnl5N0pSc1ZkeXk4aUd3R2tTSzYwTDBIWGxwanFpcTVQTG9HQllEdDVxOXk2eksxS1owc0MxRElwT1JZSTE5b09semZSU3BvcWtDM3FRbUtfYlRPN2lpZmJCWFYxXzVQYl9VRjZZZmVUWV85S2tn0gGiA0FVX3lxTFAwdmJuTDJQSVp0bVZXU1ZPNDhzY2lFbFpsamxIQmZDS19CMFBmOC1rcU9iQWs5WUNIbUdFaFFzNHVmcmV2bHBUT2ZDNDJVTEZFQ00tT19qWTFMVldYWGItSmh0S0QydVB6Z2dNNEFoclhpaDVYU0RDMGJ0aWMxLXZ2REtmX2hlWHJqbkt4cEw0RzZpYnFjYWwxTWRFUjZrY3RKMkVoMGlQU2dIRUdCS3VGa3JCRHA3XzBEY0toUkdKVlJYWFVqYnRzVU5HQm9XbUEyWFgzREhBWjBRZzhkYlFCV0prLURPbS1oSDBWbmNmS3NERzhtNzZtSG9ERENLRk9OZlZtYXZHVTFENm5qVlJkRnBleTVfVmplMnIzRG1vZnhjVzBPMURseW1OUnVhTzltMWd6ZVliLXhEM0Y2NzFyRVNMb0NidlRMZXMtQi1iczYtZWMtSlNmQXBvc3RpYWs3ODY3a1poeDFNZ2xxcUZVbnRyUzVjLVVIQm1YSFNSbkZ4TWZMbzNqSHZaQ1VIbzZKNzF1QW9hemtIM3g3a0swUUE?oc=5",
+    "fa": false,
+    "at": "2026-08-20T11:14+00:00",
+    "he": "Saudi Arabia Enters AI Hardware Race as Humane Unveils First Device",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "تناول \"استئناف الحوار\" ومضيق هرمز\".. اتصال بين وزيري خارجية عُمان وإيران",
+    "src": "CNN بالعربية",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/08/21/call-foreign-ministers-oman-iran-hormuz-negotiations",
+    "fa": false,
+    "at": "2026-08-21T17:51+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/08/21/images/342204.jpg",
+    "via": "شبكة إخبارية أمريكية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "الدوري السعودي: النصر يعزف برباعية ختامها «لدغة رونالدو»",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5309684",
+    "fa": false,
+    "at": "2026-08-21T18:37+00:00",
+    "img": "https://aawsat.com/s3/files/styles/414x217/public/2026-08/1732412.jpeg.webp",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "لماذا تزداد الرغبة في تناول الحلويات عند التوتر؟",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5309681",
+    "fa": false,
+    "at": "2026-08-21T18:23+00:00",
+    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-08/1732324.jpeg.webp?VersionId=9HEWTAdSmtb1YqaQKt1vVMM.bM3fjHKS",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "إيمري: واتكينز يجذب عروضاً... ولكننا نبني الفريق",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5309680",
+    "fa": false,
+    "at": "2026-08-21T18:21+00:00",
+    "img": "https://aawsat.com/s3/files/styles/414x217/public/2026-08/1732344.png.webp",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "صفقة العويس تنهي مشوار باتويي مع الهلال",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5309679",
+    "fa": false,
+    "at": "2026-08-21T18:08+00:00",
+    "img": "https://aawsat.com/s3/files/styles/414x217/public/2026-08/1732377.jpeg.webp",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "\"الحفر العربية\" توقع عقدًا لحفر 4 آبار في سلطنة عمان",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOaEVjb3QteWh2QnVYZ0hFLVhCd3BBSlhrcVBSSG1nWXM0VXA1cEh3RGVya01iTGg5UVRHbzUxT3NpcEF0TEFHamVSOC1ZcDYtMTYyRWNYTWNvWDMyUzQxbHZLc1Q4aEpKQTNscFJKdkU2SWxfeFhBNXRXVlozTERDRGFHWFIwVzZ0cW5Lam5HRkhYS3J2anFsemFnZkZpdHlqYVJjLTFFbThSRTBCNUQ5Y1JMaVI1ZzNCS1ZLOGw4TzV6a0RLRFB0SlFDbHdBc2xNcUdRV0huVEhoRkNsQnRka0VDbWVEQXRLekUxcUdoQTBJMHV3dll1SnlRSTdxOHJTVFU3bTdHQlVJOThJeGhNTGE4NmZXc1Zud3RSNW1vT2E3QUR4a3p1WHF0SnJpNW9EbW5Yc1JvSFRtenJjOHUtSmg3cEdETHlwbXVISzE2dU9SbEh3WGNCdVBWajNma054UVdXRUR6X2h5bkFpMXE5TGxWN2tfTnNtTmdKR3VQNVd3ck1kNURNekF5T3BRYnVXYmg4MEtRTTBWMVdMTmEybnFRbDh6aUF6dXfSAa8DQVVfeXFMTm1YeHM2SnQ2dzczczhvNUphZEdhcXNodlphWkJrTkNFamVXbG9tOFJIWkZWVVhTX2pEVko2a1BWMGNzcVZzRWxyRkZNUmJJclJMS3pTQUdPOGhPMGw1SlE5MEdxa0tDc3dKSVhsMExWN09NWDhNM1BSa3lqN1ZraVZ0VnhuQUViaHVWM0g4WjU2VktJNUZpT1hXcFZrYnMyYXNfUUFjV0tXOUFHUzUySW5oSDNmbURYeXN2NFhwVnJjelBfdF9qOFF1NDY5SXIyNlZVejJjR09VRW83Sy1nUks3SXdaTE1zdGVpc1h6Y29wczhMVzY5cFR0VDg4a1JwZHJ1N2ZxOHV6WDljN2s5ekRxREE3alN4N0hZeFF2R1pxSTVzRDZvcWVYVkFRdHE2LVRzdzJUYUM0VG1XajM5eGJRdkFNY1ZGbUlkQk9TdHRESU5kWUU5Sm1UbmhmNGtFUjQzT3BqN05UOTA4Zms5UjRwY3ZsOUNzOENqSS02dEwwZE9GUktBYk12bm9saHl6dUpLeVFlbXMwV1lMbm9tUXhXVWxZSGwxOVBnbG9sbjA?oc=5",
+    "fa": false,
+    "at": "2026-08-19T07:53+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "«الحفر العربية» تتوسع خليجياً بعقد لحفر آبار بحرية في سلطنة عُمان",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNcDFKeXQyZkV5V29FNnhyRy1CMVVfaFpnRThTbXhaY2RXaUxUdjNWbjl1TWVqanpZMzItM1VUQnBUUHBSQllkWjNoUUFFOWRYREZxdnZCQUJKSFpJN09OR3dONkxTU0hKWHpMWEhoUEtiSTdLREVFQ3dpT0N2clhoSFItNVNXOTZNM0E2MzVac0ZYV29JYktvRDRVU3hFOHJ6Q0M0SlhUeHhsZzBCNFk4NWFZTW9aQXJOUmN2ZEV4RFl4Sy15czczUzdzTm53UVdfcGJyQ3R4ZkVoZHNTRWpDY054MzNiMmhDNXI0ZUhMWGhkZHlOb0pZMHBQYTFRUzhfeHRGNHRjN2xObWlFWkJhUHlRQW9fdjl2dUpqUGxfek10RlltZDF3SnJKV3pJZXowN1duRkMyaFhnT01GMTVfNk5KMUFsR3BqbmNpMUxScnozMmtrQmtvLUw0STlic1p4aUl1MURrSmpxSjFHQkFkelJKNW9LajF4aDlEbDlRUkhhZ01qZkdTTVhpUXZXd1J5djhhWWVLOE1vTXhpcDNJVzlBTVFfNkUwRGs0TklkQkNKTHRDenpOVnNQNy01SHR1WEtHb28xcEZtZ01lUm5peWp3OFhsNkJoZ2I4M1ZYVHNhMzJyRHRucUtRbTVBbHIxVW10RlFmUUdqQzFKOWR2cF9GVnVuR0tiZ3ZCcERwd1Z1ekZSOEpGeC1mMHotc2dxNHBScGJqUFlDTEVwUVYzTkl0Tm9zeFE?oc=5",
+    "fa": false,
+    "at": "2026-08-19T13:33+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "خفض التوترات وحرية الملاحة يتصدران محادثات عُمان واليابان",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPODNUai1GQzNoaWt5QzZTa2JvNEdmWHhwbzUtcEFMTkstbXR2ZUh2WXE0bzkzY2gtcDNyR3pzazk4MUpiaVhXX21rdjJ5bTdkT2l5U3NNLThBaTFSRlZub1RmMEhGUWlEYUszWmFwME1XOWVFbzl3cnJrdWZFVkZIYUFndTVHU2JYUHp5dzVZTVU2ZmotaEpyTmJKN1NMcnFtc0kxc3F2NnNFQkM4YTJsUC1DQXRwS3k3dHhwSXFOcXByOEp0ODJzazRyMllWOXFpZkttWU5EWlVjSmxHalprS21jSi1wQlAxZ0lHdUhMajBBbHpWQzdmc29wa3BjMDZYdGhMMWY0dEFSMkR1ajZ6SWNHZjlYSmN6MnRRQnBQY2V3MG0wZkdmd3RWUm1xZFFNd3dWcTNqNzhqQ2lfVFZaNWRTZ1VoMWRoSzJ2V3VwUmVOdDh5ZFBjZzdzSVBWdnZqV2NQZUNKVUd6RXBZemgyQ1BtX29UU1FuQkxSX3djdG43cndPeTRRbVRvb0Z6Q3g5cHlyNDhULVlWQXl4VGNENzBfV1lvTGtYVTF4NTJ5LVU3NThKcjhWTFdncjRfQ1NWbWxOdW9yNlIza0lxV3AzRkhBLWxCUGlmQTFtdjh5clljcElVZHFGOV8zbzFha1U4bDRYa3Exc2lzeTI3dXVvbXZTNXdwRHdDT2VEWDZmWmdRT2hBdzlvbWFVU1daWFh1SUdWTFd3cXNwcEZVVzA0eGlSX1RUNG5INnRDc2F3M2RJTUIxUmREa2t4b9IBywRBVV95cUxPODNUai1GQzNoaWt5QzZTa2JvNEdmWHhwbzUtcEFMTkstbXR2ZUh2WXE0bzkzY2gtcDNyR3pzazk4MUpiaVhXX21rdjJ5bTdkT2l5U3NNLThBaTFSRlZub1RmMEhGUWlEYUszWmFwME1XOWVFbzl3cnJrdWZFVkZIYUFndTVHU2JYUHp5dzVZTVU2ZmotaEpyTmJKN1NMcnFtc0kxc3F2NnNFQkM4YTJsUC1DQXRwS3k3dHhwSXFOcXByOEp0ODJzazRyMllWOXFpZkttWU5EWlVjSmxHalprS21jSi1wQlAxZ0lHdUhMajBBbHpWQzdmc29wa3BjMDZYdGhMMWY0dEFSMkR1ajZ6SWNHZjlYSmN6MnRRQnBQY2V3MG0wZkdmd3RWUm1xZFFNd3dWcTNqNzhqQ2lfVFZaNWRTZ1VoMWRoSzJ2V3VwUmVOdDh5ZFBjZzdzSVBWdnZqV2NQZUNKVUd6RXBZemgyQ1BtX29UU1FuQkxSX3djdG43cndPeTRRbVRvb0Z6Q3g5cHlyNDhULVlWQXl4VGNENzBfV1lvTGtYVTF4NTJ5LVU3NThKcjhWTFdncjRfQ1NWbWxOdW9yNlIza0lxV3AzRkhBLWxCUGlmQTFtdjh5clljcElVZHFGOV8zbzFha1U4bDRYa3Exc2lzeTI3dXVvbXZTNXdwRHdDT2VEWDZmWmdRT2hBdzlvbWFVU1daWFh1SUdWTFd3cXNwcEZVVzA0eGlSX1RUNG5INnRDc2F3M2RJTUIxUmREa2t4bw?oc=5",
+    "fa": false,
+    "at": "2026-08-20T10:55+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   }
+  ],
+  "إيران": [
+   {
+    "head": "الإمارات تعلن وقف التبادل التجاري والمالي مع إيران",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQVmxRWjRFRDNYMHdJend4aTdVSFl0cTliaWctOXRsZEs4bWRNd2wycXV3T1JkcDA4NmUyQlpyVjJzMXhEWVluWkRUVUJVOEdNbTRMNnVKNUNGZDIzSHdKRVJ5ZWVrOEs4eXllOXlFbGJPTk56Zk9FcWFkQTIzb3Z3blpBWTZHT2szQXBwcWdDZ0w0QzF5WG5YYk1VMXloTDVzM2FXSnN1UzUzNTVLRk9KaFdxMXY2d1BUMWs0ZTVpTVVQUXpmb1R5RDZHVkx5S0hfMUlrMkE4ZEY4YlI1SWRLXzM2QklaZGlaa2VzVEZPVHRINnIwTDh6U1FFcnpKZlFveGFjM3NrakpyRmQ5V2dsazdiaXV4RExJdWlpdGxVVUx1X0FXajYycDFB0gGvAkFVX3lxTFBlUHM1elpWZHMybi12bXN0UDJmM2NlNWVxeTRwZjBTaFRMTkE3UmtGT3lIWUlGa1lrZjhMenYxcVZvanJKMWs0SnZlUTEzbHFhb3VQRFdPUEZLdE9uTWpweTUyRmFUZWZhcTNCVWFXd003a2FkeERsNjhFOWJaWF96OHRpZ2Z4QS1fdHQ5MmxDSmp1QXFjSk1UODF5YkJJWmtHSWdqa2tTemlvZjB2RG9zMDg3Z2MzSEpqTUxBT0NvSFBlMVlULXVEMUlEYk9wV0xPYkY2SkVUVjdxMll3dUloakhqWEFFTm1tX0lzM01QWFN0QXZZM3d5RFd5bkRLUThrcy05SkR3clNMdE1VcFNoZVBpMWNrWW83V0hLcFhNazUzZTdHUE1fbUVTcDZ2VQ?oc=5",
+    "fa": false,
+    "at": "2026-08-18T23:04+00:00",
+    "he": "UAE Halts Trade and Financial Transactions with Iran",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "الإمارات توقف جميع التعاملات التجارية والمالية مع إيران",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPcVhLWTFwMUtsMGxxS2Z6Q3BpUmFUYW9UVmF4bUoxck02S2txUldLUGt4QXhHbVhiNENIZVFReGNiYWVQMGNOTmNVWlhZUllMMVgxQUVMSkpZTThGVy1lLWZLbUItU1hoQU9oYVpLS0wtQWRYN0poc0VhLUlDemhzQm41VzQ0Y1lvNGNDZVI5S0xzb2FvSXVfNDBDX0daZzdHWk1XM19ST3FDN3J2TGxNdjh5cExzeUc0Mmc5VERzWDg4MmxkbGZZdFFyQnVNTnpXcks2NUVHT0JQbVVLbUFuT2VBZzkwdzJaYm5TQl9iMDN6RGN6cGtjMXo4RUI1SXV0ZWJFbEtoZlJTQUE4czFKZ2lhcXpsbGJQcWc0eXdaQXZvSGlxdFpGN20tUy1KbDRsLUxZZ2lUMFRxaEstUURIcFFkbzhETEJjbEhuMEtMUzVvLVcyTHpGc3pLX0ctLTJfal94VEdrcnJjaGR2TjVSbWRNeExYdmwtTHlaZGoxaF95QU1OWUJYRzhTV1RiSnV1U1laZ2FBV195ZldXbUF4d1U0MFJ3OVA1REZNZnZVdmJaQWRkeHfSAbsDQVVfeXFMTVFUZjd4WWZrQS1hUDlCS2h4WTY0QURpbEoydGFXZUdnV2NfWlUxS2VKdFFVRjFCRFctVHZudlJvcjBSS0tIYjFJMHNYdExHYmhZYUpfMm9fYWJXakFmU2poT2w1NlFEVDBRZnp1Q2w4elRPNUdhTEp6MUlhazJjSDhIWV9YUjBweTBFdFlyY082UHlVdTE0RWVzMGdiWGpqMkJWUmloenIwcm40RXNnZ3NhZTNVSURKUmlkQmxXWk0zSVlKWi00YTdYVEt2TXdlM3duZlJyX09oQmQ4dXh0eExWOWg1MUhqSXdNRW5NTmRXOHVtb191MG1PYWx0aEpuTGNXTlR0T2F5dWxyNk8wUFd3eWdVMnRhRU1nSHRhUmliQnNzbWFUSHFXWFlhZTl5bXo2V2c1ZVIyTjZ1UTVUZ3h5T2ZOWER6V1d1OWJYZlBkVFdZTVN3NkUyXy1aTzJzVXl5NkNzUDJ6MFd2VkxmQ0NfaGZqNjJPM3hBZ3BlWU5seTU5V0hZYjB4TEM1OUxwNWhXX3QtbEhrZWF1aERvakRjai0yc2MxdUNvRTNYMU5hZkdWRWlTYTF5QUE?oc=5",
+    "fa": false,
+    "at": "2026-08-19T02:50+00:00",
+    "he": "UAE Suspends All Commercial and Financial Dealings with Iran",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "الإمارات: وقف جميع الأنشطة والتبادلات التجارية والمعاملات المالية مع إيران",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZl80aFN4TjU5VVUyZTZncG5rZFZPVjRQRUhQcEVtSDl0YjNFLXlZYWZSeWpQUmoxblBVZ0R1T0lOVXZkYS1OdTFBbkZIc1cxZUU0VXpSUmtkR1BCZEZYc3pJdUtWQXNyLUR3bGcwVkR5VjhRT3piaGtxQ19sdTVYY3JzdjV0azZhRTd1V0NkMlR2TFpXaC1SRjFXWi1qRU00SVR0N0FwZzVlcVZuVk1iUWJjUlBmNExOdENNb0FlSVhNYXRfWTRCTnFmempkV0h4dkI1VlA0LWZuV05HbU5wYTQyN2ctbllk0gHzAUFVX3lxTE9ROVE3NEVlVk5vOUhlTzY5N2ZXcV9hSW1lUjdaaTc0YXhiQzI4NzlUdmlpRm12RjhFMnNnbGg3anN1YUs5NGZYRm1OQXkzQjVKYmlKYk81OEJ4R2RMYjdVZUh4UTV0MllXR0E4ZUdRT1lWSlhRY2pEY1FLbWFYTTFBeC1IU1J2Y1g1R0VaR25zdnN0R1ByQ1Nna2MzUDJPZGtnOEVtSjhsczl1S3o3NkZzWS1CdElFQ1Zma2ppdUtCZ1ptT0o1d2J2dUVDR0JCYmY5QjZwd25rd2JJUGJ6V0VRaDQ3X3dpYkx1SExBWGQ3S3RSNA?oc=5",
+    "fa": false,
+    "at": "2026-08-18T20:45+00:00",
+    "he": "UAE Halts All Trade and Financial Activities with Iran",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "بعد وعيد ترامب.. ما العقوبات الأميركية المتوقعة على إيران؟",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNQ1pCbUs4d2VtdXcwa0pwSXVmNFA1QWgtY2FJZGt1UzRDQ2F4S0xicnQ3NkpuQ1hBZEwwN2g4VG9qcXEyVUliMU5TQVdDT25BZ0tVU1hNSDNIcXJjWkFvVUprcm15VEtqZDNkQ0p6NTZSbkFJVDFkbmt2LVdjYUxVaGhXRWE2V3dYR09tV0dWWHpnZE1rQ190d1dGVi1WQkh6aEoxek5ST3l4bWJka0liYV9oT0RuTnhiMnlTRDdrTHNyalc0c1YweXpodFBEa1g3YVBOQjJPWUhwQnB4eFRrQ2JHb1JlRUtmOVVBTkxqcU5GQ1g4eFBtUGp6ZGNZa0FRZVlvUVlVRGRpa3Eta0VTMExILUotczQ3X183QzlzNVVJNFlJWmlDNFZsUUhsdVd2UzIya3FXcExReldVajBPVFJoQTdSRUNkWGQxbFhmUkFmdl9GV3dBNTRSRE84WW5NcGtnY3JidTllTGNCUVpLZ192RTNEaHpRNVZPMzlmc2VJVDdBYXYtZi1iakFONHFJWEVIcC0zTVFacVlKckHSAaMDQVVfeXFMTlN4VUlnaG9fR3hzdnRQZlE1Q20yQ1BhYzNmTFp4RkxfNTE5a2JpN2JCUU9sUDBzZ2JQa1Y4MVA5UnA1Z1ExaHZsOERicEYwT05DOWQ4SnczaXRWblRkajY1cXFIWjhUUHJNNXRuSWZxdTIxMUdyQjhTZkxReHd5VldNM2ltTU91NVFranBxbUxUTl9IZ1FIMzhGNGs5bmhEOTBvcjRoemNkTDU3UjVtMWRyRm91bnpTVVFBeXZDXy1xOXpZV0FZNlJNZlJxX0NOcUJVbi1KMG1vd0laTXJoSWFYeVhqXzR0MVBBaFBOa25BTVV1TEtNRXZaRGNSaWRZNUowLWtUYkJ4X2JRRWRZdEluQ0xUVEFQZk9neGxFTUVWV0MxaDBVU1ZoYnZTc20tUVVfaHowQUlBLVdCNGVpNGIyUEhES2VBRk13RHVValRHS0gtRl9MZTU4bTRldnNCVVg2R0dNU2xyYTlPb3ViU3RlbmFwQkxhLU5PQVJpUFM1aEQ3X3lrZkVDSzc2bkRaanpUOE5yX3VPVTEwbm00ZkxPODg?oc=5",
+    "fa": false,
+    "at": "2026-08-21T10:25+00:00",
+    "w": 5,
+    "wsrc": [
+     "BBC",
+     "مونت كارلو الدولية",
+     "DW.com",
+     "اليوم السابع"
+    ],
+    "he": "Following Trump's Warnings, What US Sanctions Await Iran?",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "بزشكيان: من الأفضل إنهاء الحرب الآن ونحن في موقع قوة",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.co.uk/persian/live/c6d7l1djpdpwt?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "",
+    "he": "Pezeshkian: Better to End the War Now from a Position of Strength",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "أكبر شخص سناً في العالم يحتفل بعيد ميلاده الـ117",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/persian/articles/c74g2vggkl0o?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "2026-08-21T16:49+00:00",
+    "he": "World's Oldest Person Celebrates 117th Birthday",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "حرب ترامب الاقتصادية ضد إيران؛ تغيير في السلوك أم تغيير للنظام؟",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/persian/articles/cn5n0eqx7y6o?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "2026-08-21T08:11+00:00",
+    "he": "Trump's Economic War on Iran: Behavior Modification or Regime Change?",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "مضيق هرمز والعقوبات والحرب؛ لماذا لا تستعجل طهران التوصل إلى اتفاق؟",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/persian/articles/cx2v343q11qo?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "2026-08-21T05:13+00:00",
+    "he": "Strait of Hormuz, Sanctions, and War: Why Tehran Is in No Rush for a Deal",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "عودة رونالدو إلى النصر بالهدف رقم 977",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202608215945",
+    "fa": true,
+    "at": "2026-08-21T18:24+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/48a2a24b666ccb9ad689a3ba77526b302aab686e-1584x1008.jpg?rect=0,90,1584,829&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Ronaldo Returns to Al Nassr with Career Goal No. 977",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "تاجرنيا: بطولة استقلال الموسم الماضي ليست أمراً نتنازل عنه، وسنتحرك عبر فيفا",
+    "src": "إيران إنترناشونال",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.iranintl.com/202608212095",
+    "fa": true,
+    "at": "2026-08-21T18:01+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/b786df20332509bafbb722ea8193feb69265d388-1280x892.jpg?rect=653,476,627,328&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Tajernia: Last Season's Esteghlal Title Non-Negotiable, Moving to FIFA",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "بيع واسع النطاق لـواقيات ذكرية غير مطابقة للمواصفات يثير قلق السلطات الصحية الفرنسية",
+    "src": "إيران إنترناشونال",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.iranintl.com/202608219407",
+    "fa": true,
+    "at": "2026-08-21T16:58+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/9520bb256c862c0d98f0ad0d8ed5d02d923881b2-4122x3104.jpg?rect=0,474,4122,2157&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Widespread Sale of Non-Compliant Condoms Alarms French Health Authorities",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "كونسا ينضم إلى أرسنال بصفقة بلغت 55 مليون جنيه إسترليني",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202608216806",
+    "fa": true,
+    "at": "2026-08-21T16:03+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/0065a3b14c9c7b90b55678a0d5ca70de52e97c63-2133x1513.jpg?rect=0,255,1850,968&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Konsa Joins Arsenal in £55 Million Deal",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "بزشكيان يدعو لإنهاء الحرب وواشنطن تصعّد \"الحرب الاقتصادية\" على إيران، والصين تقول: \"العقوبات ليست الحل\"",
+    "src": "بي بي سي عربي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/arabic/articles/c1d1vz65dv2o?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-08-21T17:30+00:00",
+    "he": "Pezeshkian Calls for End to War as US Steps Up Iran Sanctions; China Rejects Penalties",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "إلى أي مدى يمكن لعقوبات \"يوم النصر الاقتصادي\" التي أعلنها ترامب أن تضر بإيران؟",
+    "src": "بي بي سي عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.bbc.com/arabic/articles/czxqvkj1159o?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-08-21T15:11+00:00",
+    "he": "How Much Damage Could Trump's 'Economic Victory Day' Sanctions Inflict on Iran?",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "الرئيس الإيراني: من الأفضل إنهاء الحرب اليوم بينما نحن في موقع قوة",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "حسن",
+    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260821-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%81%D8%B6%D9%84-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A8%D9%8A%D9%86%D9%85%D8%A7-%D9%86%D8%AD%D9%86-%D9%81%D9%8A-%D9%85%D9%88%D9%82%D8%B9-%D9%82%D9%88%D8%A9",
+    "fa": false,
+    "at": "2026-08-21T14:43+00:00",
+    "img": "https://s.france24.com/media/display/2e1f0c2c-9d67-11f1-98e8-005056a90284/w:1024/p:16x9/AR-20260821-150409-150758-CS.jpg",
+    "he": "Iranian President: Better to End War Today from a Position of Strength",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "عمان وإيران تبحثان \"تهيئة الظروف الملائمة\" لاستئناف الحوار",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://www.skynewsarabia.com/middle-east/1887353-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B8%D8%B1%D9%88%D9%81-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A6%D9%85%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1",
+    "fa": false,
+    "at": "2026-08-21T17:52+00:00",
+    "img": "https://images.skynewsarabia.com/images/v1/2026/02/06/1851299/95/53/1-1851299.jpg",
+    "via": "قناة إخبارية إماراتية بريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "«الناتو» يناقش الخيارات المتعلقة بمضيق هرمز دون تدخله",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5309682",
+    "fa": false,
+    "at": "2026-08-21T18:25+00:00",
+    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-08/1732410.jpeg.webp?VersionId=N1sCvWvJ3Ybwq4SQc2rE44I2svNXY3tL",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "سلطنة عُمان وإيران تبحثان استئناف الحوار والملاحة في مضيق «هرمز»",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxNX1ZFcTlRZXlpS2hNNWZlYkhiUWhMYTRZeEhRcFFkZDFLbDhIR3F1QkhQUnZWTFVZUDl2dzU2elA2VHJvQzduR1VWaVMzb180eThiU1NPckpSRmlYT21KbVY2R1g5aFpPUGduaUw0dHNIaUZEREMtSlFOUXZJVW1TWUtQVEhtdjVTcm1qY0o1Y1dSUmgzeU5EblUwZUNNZng4VnRYNWh1RVlvU05NMkI4UndMQ3VWV3VWSE5tbGtQNExhSnVOdzFpZ3haTlhfa2tCaFF0TUdjZC1XTE9Pc2ZjUmhfa3Z5V0wzV2x1cVhCckVINE9OXzZ6SFN2MzUtN3RaLXNxc0h5Zzg3ZHNHLTZBVktIZ2pucjdVUm54Rm5nV0ZGR3RqdEFhREZqX2ttVVN3a09XanozMGhRVExISFlkc0JxR0xYVEJTNS1XdkJueXV2RkplRVFMZlYtZ0ZKRXNNUEhTbVNZYXliSE4xZ3BsaDJXckpjODl3MkFXcGdQMzN5aWs0Rl9kN2pkMmFCRU94d0RPVm5IS2NMb0FUNE4xNmZIcHlvQV81M2JNQTZGbTZObUxtOUJHYnZTOF9jWTVLMklwMTFjM1JHdncxTFZTOFlaWnVKWE1BbktqTExDNHUtYUpFdEoxMWVBekZINHF5ZWZJMmpoTy10aC01dVNEZjU5SzJuUEVCaWZMZDVsVnJYbE1fSV9KTFpINDBWUTBQUVpldVUzMFowdWxXd1JwUWk4NHlObTZ6ck0zSzBhMkVPOWVteWpQNFEzbThvSEE?oc=5",
+    "fa": false,
+    "at": "2026-08-21T17:35+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "سلطنة عُمان وإيران تبحثان تطوّرات الملاحة في مضيق هرمز",
+    "src": "صحيفة الخليج",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPMEhLRWNfRUlqSk9Vd09jdWk2WDR3YjdWN3NRQ1RDVGc4Q2NVb2lBdU5vdVhYN2lzQ0NtX1pQek42LUFvakhyemZMUndTUkdlUmI2QWZqZVgyXzhrM2x1Yk9EbExCbUNMSmQwZGFEM2loWmFCUWpWR2tEbkcxcDlfYU1VMDFTcEVIMnVWejF6ZS10MTQ0ZmFzMk1BZEdabUcyalJDcVNnYTNsbWhfbWU4ckVwdXVqdlh1VXFCLWpFVWFGLTF6MDY2WU9RSjRyMU5OQ3o4UkF2VHdKRFduSy1QbVFGemVXbU1IZFdZaExOMjNRbk9xdVUwTVVmSmNYREJKRXhocXVnUFp1Ylhoc3VlNUdYZXJEei1PYjUyUExMMDYxRmtrc3UwTXg2cTVyX0pGZTFqM0NuQW12VHNDdUVoZW1OSlJvVUZZN1NPbnZpX2taZlNZLUQ3eFItcjVLLXR5NEJOcEs1UVA4bDE4Nmgyclp5aUpLdmJ0UVNXR2ZQVFFJX2VrUXdlandPcUdfSE9fdktGQVNLbm1xLXJORHh4OUFKZ2dVb1FrSlFjU0kzUTdKb2ZDSS0wT1lab2RJN2pqaWtpa2I2TnV5elpYZkIxb0NLaGkzeWtUZ3dhNWo1MDBsZk1XWkxucXJWbjhJMW9mUHN0TVRHUk92bjNVUnhaRHBKQ0MtcjNiOGN5NHZBQ1dPOUY0bkh3NWFlcEJzckE2NmJzSndoZi1NVms?oc=5",
+    "fa": false,
+    "at": "2026-08-21T17:57+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "«سنتكوم»: تغيير مسار 65 سفينة منذ استئناف الحصار البحري على إيران",
+    "src": "جريدة الجزيرة",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EMkdxeGpmZTE0aF9NYzR4ZlRvcjVZZHlVcFI2TTE2eW14dlJZbE5ZbGtiZkJ1Tm1XN1FmVjJWa1JOQWFzMkhiSmlCdDh1RW5JdmlvS3BScGRHakY3?oc=5",
+    "fa": false,
+    "at": "2026-08-20T00:14+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   }
+  ],
+  "عالم": [
+   {
+    "head": "السعودية و7 دول تدين مخطط «إي 1» الاستيطاني الإسرائيلي",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQUVduVUd1ckdwc1VBeEpHTV9RdlNPcnNFR3NqcG1FMUhIZTZYS1VtbGJlcnNRLVpkNVNqdmR3T3hqcVJieS1kVnpfRWdmbFJEeEcwbUc4TGZaS0tybkR0YlJDOGNhdzZIcndDbTFZUy03MlpCa1JKX3ZsbG1ubE95OHdtVTUyUURmWHVDMVh5aTdBWWFYeGE4bklBOHNIbXlod2Q4eE9TcXVkTDBXUW9nd2FkN2FwbHUycFZHZF9BMUk0Q1UxSHJVZ05yT2xtVW9NYmdzMnhSUVVORnUxNGRIel82QnFvMTJJdVVOWlctMmJQS2poRUlmX2xqSnQtZmpNVDgyVkRVMTlCYVdOSXVzUUl2c0hTQmFldTlqSDRwUmRWUldORnZ3VW9xUGM1QkUwU1BzUEpEQW5xTmZfZXUxaXRUSHBjcldpRTNoSTYybUh4SU9zRFEwcFRkWm9TdXB1Q3M3UWE0cXFmTjZEZGIyN281WkwzaVlzcVFFalBrRnlVN01YWDVPTlhWUnJ1MGVaOUp5NzViU2d6NEh2QW1zb0xWVy1SNFpWTUVrdkJBcnhNbzZ2OVlqc0pvS21XMDNjaUprM0ItMWRQaWpseE1GZU92RTJLQ1pFMjlwTU03TWpVcHBHdlpESXl4QTZ0LUVNYl8wZVlqaHpJY2x0d1REMi02SmwwR0w4NlQ3eXctZThwNXFuaHFMaWF2a3RieS1PWlIxWkVCMm1BMWJuQVRZZTlR?oc=5",
+    "fa": false,
+    "at": "2026-08-21T17:01+00:00",
+    "he": "Saudi Arabia and 7 Nations Condemn Israeli 'E1' Settlement Plan",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "تركيا تعتزم استصدار مذكرة من الإنتربول بحق نتنياهو في قضية أسطول غزة",
+    "src": "Reuters",
+    "grade": "صحيح",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Yd0xud1JDaG9vazVYaDJ5WGcxRDVxNThPTVBTNmE1ZkloQmFXQUd2dzh2OG9QSWVPOWM0cER1bzNpR2FfSTdKQ3UxQ2tzZnN5UmJGMlJ6QUhjdFF4ZDRYNnlPTkQwdHhlVXZBQlhNV0xQRE9KaktodU9YUQ?oc=5",
+    "fa": false,
+    "at": "2026-08-21T16:51+00:00",
+    "he": "Turkey Seeks Interpol Red Notice for Netanyahu Over Gaza Flotilla Raid",
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 6
+   },
+   {
+    "head": "ماذا يعني نشر حاملة الطائرات \"جورج واشنطن\" في الشرق الأوسط؟",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3JmZlA4T0hYQVNZU2pzU2dYTzZkZnBISXRIakEyV2xUWFZnUU5tVldnX1FHREw5c2hwZkdmSkx2Z2JUbE1aOFVnekJ2alEzZmNOUnpEMExNYU1JN3ZBdzJPQkFRRlFhM1h6dnIzdjJYQUduM1dHaVJqYlRReTh3WC1FYm5xc0hGRUlRc1JWZzQ2bnJEeEFWNHp2UlJuRlI5bDFwNWQ1TkdNRFA1UDdYVkw1aXJ0d9IBwAFBVV95cUxQZGw1RE40RjJIemExODU3YWI1d2RaMW5SVDFTMXUzbGp6UmNNWEJPNlh1R0F4V3ZvaVlmTmNkekNJTkNJQS1mTkF4bFd2eE9rbXBNWmVvaWFZWDJ3d0gwd2tSUENMODhCR1IxWWRPRVlZbmVfQzhDeWtZMzRtTjc5Tk1penVTb2JFQXZ0N2JQd1hhTkVtdmhwZTlDa0tRQkJJYnJRWUR6T2dwNVpjWW4teV9hUmNYUjFpUGtpWVRkYzM?oc=5",
+    "fa": false,
+    "at": "2026-08-21T09:05+00:00",
+    "w": 5,
+    "wsrc": [
+     "سكاي نيوز عربية",
+     "Euronews.com",
+     "الجزيرة نت",
+     "بوابة الشروق"
+    ],
+    "he": "What Does the Deployment of USS George Washington to the Middle East Mean?",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "قتلى وجرحى جراء هجوم روسي على كييف وموسكو تعلن إسقاط 64 مسيرة أوكرانية",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxQX3FlcDFUdW9YcDc0MGhocDNFUVJGdU9ac1ZzRTl2QUMxb2FaYTJHa1g3Z2p4dE1PdWpWaFllMjBraHg4eGxrallmdVRTdzNqRS1TR0NDMWs1WXBNbjlFMTNDRTNKWTRRNlpYb1FDSXk5WHJVb1E5TjZuc0hjUzI1ak9fWnpIdUdqTkg5NF9QUEVSX0pKZG1SYWlIZGtBU1pJTGdaekh1OEVFeEhXY09yVGRGX1lTdU9VOGFYNjhCMGx0NktEaDdVcnprZFl3eVd6Q3JDamk4TEV4bHBBZ2xZNTdORnJsWU1Sdm5lY3VPT1FyczZ6cWpSLVEtU3NSc2I0YVJTSlJrNEZUaEJyU25FQ2pjVkthMzhMSlpwcEVSVXhwdzB1cXU1RVFzSTRqSHVoMjBJbnRPWXUtQTlPd0djamRCVFNPY3lSUTR5clUzb3VOTXFCMkxKQ3l1VzRYWUtSOWdOdTBfT2NXS240a3VjbUNNU3dwelFrcC00RXkxV3BQMEc1QUFZb1QweHRYQ1U0M0NoR3o5S1RWZHdMUFY4c0Q4bmtVODN2akVvWTdqRVNjSF9NcTVXZ1psQ0E2Q1lhOFhveEVDbkdNQXJURUxkSFY4YUtoUWhhMEVjbnJFRXRXU1FHYUlTSHo4M19LYUZOZ1E0Q0lGV0VJMmNUZ1pXSGQ5YXdZcHdaalRPbkFpa0RiM3ByYWtIUkVxVlpGQk5jZmcxYWlJM2U0bkhlWDc3amx0Q1PSAboEQVVfeXFMT1o0UEZJWnB1UEpWbGtWa2hBN2ZEb1hSUl80UzZFNVY3alYwanNldVh1S0NDeDAxek11bE44cUVBbk9BWUs0UUowNnNCY0pZTkhMV0lqTTh3X1gzMDhRbGhvemFJVUJyOWd5ZDM3TUdjdDFJaHFSeU9wQ0ZhbGtHTVNObDVuSmtPZERaZ2gyYnVXTi1XWlhpOG5RYlY3VTJkYzZWeUJBLTFDcnFIcllHOEFZNHpuMGY1b2RReFlQTzdXMlhmYUtOVVVJMXA2QXFzNHB3dVFKV1M2ZU9jWGswLTZod01hQUNNZGF6R1F3dXdHeHhIejJnMHVpYmhOcFRYWm5JRnJrS2Rfb0NOSVVJd3BUa0FkbndzdVR1SUV4WWpBa3NLMzl0VVhkTm1sQy0wc2xqVEJuQW9CYUJyZ2JFWWNFV0MtWldGLV9kaFdXVWlxejZzQzVad1E4cEs5Zkg4Z2Z4My0tSVVYN01MRHJOQ00tYXlFYkRYOG1LZThrLWY1SDh2b2lCbjB4OFAtQWlRTHVseURwOHViNjNlWjJlUlJoXy1seUg2bGFqYkY2aHpWcUxCTUxybC1rYU5uOFJMWjVMV1lpLUlHaUJtUG81cUlpMUV4T09sY1FiaENpMWx2V2hFQ3JMNXFHX0FOOWNQYmtCU3JTYWRJeW1YV2dqUkFsTDhwTkpIM2ZqTHQzb05Yamp3ZTFfLV9vR3VDSFVnT2hUenBYb3pWWkpDMDk4eVoxcmRxVGFJQXRB?oc=5",
+    "fa": false,
+    "at": "2026-08-20T19:07+00:00",
+    "w": 5,
+    "wsrc": [
+     "اليوم السابع",
+     "المصري اليوم",
+     "بوابة الأهرام",
+     "سكاي نيوز عربية"
+    ],
+    "he": "Casualties in Russian Strike on Kyiv as Moscow Downs 64 Ukrainian Drones",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "قصف وغارات وتفجيرات إسرائيلية تستهدف بلدات في جنوب لبنان",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNaTg1SUpJcjhMMVJQallvakV3WUZZVGRTbEU1clljTmFJZlliMEc5Q05LZGE4M090cEw5UDl6N3NUV3VQQU5tdjJZRlpFN3huRTFGVjZBc1E4QVVqTEpmOUhHcmVXZ21OdG9OZWI4LU1LWmFrcWZsd2ZHN0NRQXBtUllDSHFvZWFqSVBSRmhseXVKQUhXcWNNR3BHWW53VGJReS03LUgtYko3Q2FRajJaT3NzdnhvQXN1THp6eTFvYzVPT2x2V0tZaWpZdVdaUXhKeTE1MVdWNkVOaDlYV253SmhwQkRsVnJOY0E2MURGY1dSWVpBN0IxWGxLVzJfTjhxLWJrcmJPcUV0NFk0aFpkVEQwTnF6NDZ5R2FBZ2Z1WXJuUXdtX2t6Qk5lTmRyV1pNaFVmNUFkMGpUREZmRUwwbjMtZjhoSmE2UWVONW14ZlhqVVV4X1Ztd0JNVFhSeTFHNkt6WjRaeUo0ZzlkUUZWZGxPck1RbTVlZlc2czBlRVdIRGxXNzA0SjhmTEZseHJvd0VLUE1QVDJUV011Y1h0eklxX3Nub0VhQWlDZVNxa1Q0SWhiVDJEc3pYd0Q2YVROeW5FeGtPTUVvRGFuYWNqMlJMUVJlUGFOc05yMl9hMmxjM0l6Y0ZBTG5SSVPSAfIDQVVfeXFMT1BkZkVscjZLMVFNdkZSUmVLMi1LdktROWNBRG4yT09CZTRfdmwxeEdnamJnNGZlOTBXY1Vkak9mTmFhRm5mMkJIT3VBdjk1T3FfbFZSU3p3ZHBLUmkzZlBIR3YydnByd21KajNOXzVsMTdrbkRIeEpZVDJGZWhmT2tpajhxaUs1MDZ4YlYwZDJITGRsR1RmRzdYTk9RRS12Tk80RlF6VEFUaFBlem5kMnNqN3hVaXlybVltQlVsWnI3dEtLVVVJQ1QtWlMzd0REWFRRbHctd0Fhb2JWQWJsS1UxQXhsd0s1UnFzSzlNSHN5aW8zZHRLVWxTM0NHT0VaZVZPa0hJQ2FrT2ZyVWVWLXRrWFlnUTBRTldOOFpkeXNWdXdMTk1DQzVLOW1JODhjWXZaZC1SRFBqZi1nUEVoalVNX0NlejBEUUthdzJ3SmFCMi1reDg0UUJ4elZ4OTBuaWRXR3kweVlBSjNMVlRpRU9CdUFZcjdOOVhhb29UaElpZWdyeVYyNmZTVVdnQzJGN1NwSTROcFVud282NDFfVWIxdjE3eS1BeTJINVo4T2xYWURsOGVEbnBqVGowNnQzMm1pc3R4ZERHaDFIRlVUdjlDUVF6SDVsWkRsNkFxVmdPN1F2anJ1Z3MxWkttdWVGVHZB?oc=5",
+    "fa": false,
+    "at": "2026-08-21T08:02+00:00",
+    "w": 5,
+    "wsrc": [
+     "اليوم السابع",
+     "بوابة الأهرام",
+     "بوابة الشروق",
+     "سكاي نيوز عربية"
+    ],
+    "he": "Israeli Strikes and Shelling Target Towns Across Southern Lebanon",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "إسرائيل تكشف عن خطط تركيا لتوسيع وجودها العسكري في سوريا",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOTElZMGJDY0dWUHlqb21nYlM0OWh6a3NvRjJmZFZvcHVaOXNDQUpKSVM3UHZ3ZVh2ei1RcDVPRTZSNm9Qd3JZVkFxeFlRTVJIdTdBU0RvRmlxR0dkRWxRNmJxaURsaGx2N3BRYVU2VmRwWW9WUHVleWRXZk9SVlVBSzcxTnlaVlE0ajB6UHRkc1dZSUJnZVNOeFAzREJVdVlyemhRWDNZLVhxRGlvTUNtbEVYS0tiaDRCTnhhMXF5V3dOX0l0Mkl5aUJqVGNkZ0lFbnRyMWVLc2JzMXM3eDFsOW5KaU1rbjNJNXFJYnBFWi1MYXFRbGZpM2U2YVBGeUl0aVg1WmptMlRDVnB4YXI1YkRxc2lWeHFUdllVaFdZVFhkTW1BajltWTNiZGFielE2YUJUXzhQVy03WmhsdjRqeTI1WDd1MUtLY2RJYVY3TjkwNklmR0VDbWZnSXQ5VFVBNXVvQWxXSVBHajE4OFRvSTZrZWI0OTJoSjZYOFRRY2tGTDJHcWl2N1hsa1Y1TkRLMlRrSXZGV0JFSnVBRHFuX004dk95Q1NuZWRKR1JWNENjZFBEY01fQVU5RlpLa2k40gHGA0FVX3lxTE0zNzlYR3BDQUFiQlUxclZPRmNlTlQ3aE93TjR3b0ZseGRuZk14QjdYT1ZLWXRkQlQ2d3lRZWNyal9INUg4VjJsTFZFQzdvYXdVaFkyMUVVWmR2ckRKLXZVTm1TU1NaWHhGTHdiV1p3ZHh4Yl9oVEpuZV9CdVAxdmdLRXdVSjlDWGN6S05PdFJiTDg4cmNaWV9NNDdtWG9QNkMxNXBTT3VjZ1V3VG1TeWY4UnJpWEdiQkVmX1JxcDdMamRES0dwb3JBTjNKQklUdTdDSlpBR2NhMDJOQXBraVFJS2FLZURPaWxXczdSY09CLTBwQUNsN3Y5akprSVQ4VnYtN09Ed1Z5RFQ3NkN5V0xtWXFZSXAyRVFDZ0Z4eXpPRzhxTlkwUXdlQVlBMGt5R1lSNzZYU1pUbmNMVk5pQS1MdUxsbEFCaWVuRUFZZDN3c19UeXJiamxQNld3bTBEcnRDcWN0Y0RIbVRzX1d1bGJXUm9ZODJmTnAwbnZMZEpuWHZDMUFfLWxIZEdfN3RNTnNyaXFINjBFdVY2ZnZRdHlwUUw0RFNsbldjMGxLRTQzazQtSVNkWnQwNTl2eDV2Qk5yZldQb3c?oc=5",
+    "fa": false,
+    "at": "2026-08-21T07:53+00:00",
+    "w": 5,
+    "wsrc": [
+     "مونت كارلو الدولية",
+     "العربية",
+     "بوابة الأهرام",
+     "CNN Arabic"
+    ],
+    "he": "Israel Reveals Alleged Turkish Plans to Expand Military Presence in Syria",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "بريطانيا تقول إن فرنسا باتت أكثر فاعلية في منع عبور القوارب الصغيرة",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/persian/articles/c75g2qe51nxo?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "2026-08-21T12:02+00:00",
+    "he": "UK Says France Becoming More Effective at Preventing Small Boat Crossings",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "بهدف من شهاب زاهدي؛ جوهور دار التعظيم الماليزي يسجل رقماً قياسياً بـ109 مباريات دون هزيمة",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202608219865",
+    "fa": true,
+    "at": "2026-08-21T16:28+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/9b9aeace1ca42a9d9d206ff0c63a5460203f2514-3277x4096.jpg?rect=14,733,3263,1708&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "With Shahab Zahedi Goal, Malaysia's JDT Extends Unbeaten Streak to Record 109 Matches",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "كواليس صفقة انتقال محمد صلاح إلى نادي طرابزون سبور التركي",
+    "src": "بي بي سي عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.bbc.com/arabic/articles/c0m7dx4k7meo?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-08-21T17:23+00:00",
+    "he": "Behind the Scenes of Mohamed Salah's Move to Turkey's Trabzonspor",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "ماذا حدث لـ\"الحلم الأمريكي\" الخاص بهاري وميغان؟",
+    "src": "بي بي سي عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.bbc.com/arabic/articles/cg5lrn6d3y7o?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-08-21T18:07+00:00",
+    "he": "What Happened to Harry and Meghan's 'American Dream'?",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "من دور الرعاية إلى الكونغرس: من هي عائشة وهاب التي هزمت مرشحة دعمتها جماعات مرتبطة بـ\"أيباك\"؟",
+    "src": "بي بي سي عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.bbc.com/arabic/articles/c78g23e7j44o?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-08-21T13:20+00:00",
+    "he": "From Foster Care to Congress: Who Is Aisha Wahab, Victor Over AIPAC-Backed Candidate?",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "لأول مرة منذ 122 عاما... اتحادات قارية تدرس إمكانية حجب الثقة عن إنفانتينو",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "حسن",
+    "link": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20260821-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-122-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D8%A7%D8%AA-%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AF%D8%B1%D8%B3-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%AD%D8%AC%D8%A8-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88",
+    "fa": false,
+    "at": "2026-08-21T15:43+00:00",
+    "img": "https://s.france24.com/media/display/59a0c7fe-8b57-11f1-85b4-005056bfb2b6/w:1024/p:16x9/0035d2f70fd53aa5624e866df5b812f1980c1cff.jpg",
+    "he": "For First Time in 122 Years, Continental Federations Weigh No-Confidence Vote in Infantino",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "الإيبولا يتمدد في الكونغو الديمقراطية.. تفشٍ غير مسبوق وآلاف الضحايا",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260821-%D8%A7%D9%84%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%8A%D8%AA%D9%85%D8%AF%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9-%D8%AA%D9%81%D8%B4%D9%8D-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D8%A8%D9%88%D9%82-%D9%88%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
+    "fa": false,
+    "at": "2026-08-21T15:17+00:00",
+    "img": "https://s.france24.com/media/display/1a6816b6-9d70-11f1-ad84-005056a97e36/w:1024/p:16x9/AR-20260821-161328-161504-CS.jpg",
+    "he": "Ebola Spreads in DR Congo Amid Unprecedented Outbreak and Thousands of Victims",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "ريدلي سكوت يبحث عن الأمل بعد نهاية العالم في فيلم \"نجوم الكلب\"",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/arts/2026/8/21/%d8%b1%d9%8a%d8%af%d9%84%d9%8a-%d8%b3%d9%83%d9%88%d8%aa-%d9%8a%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d8%a8%d8%b9%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9?traffic_source=rss",
+    "fa": false,
+    "at": "2026-08-21T15:13+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "\"تمكين 3\".. مشاريع صغيرة بدير البلح لمواجهة البطالة وظروف الحصار",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/ebusiness/2026/8/21/%d8%ba%d8%b2%d8%a9-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%81%d9%8a-%d8%a8%d9%8070-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7-%d8%b1%d8%ba%d9%85-%d8%a7%d9%84%d8%ad%d8%b5%d8%a7%d8%b1?traffic_source=rss",
+    "fa": false,
+    "at": "2026-08-21T15:02+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "اختتام مبادرة سفراء الجزيرة في السودان بمشاركة 120 صحفيا",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/media/2026/8/21/%d8%a7%d8%ae%d8%aa%d8%aa%d8%a7%d9%85-%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a9-%d8%b3%d9%81%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%81%d9%8a?traffic_source=rss",
+    "fa": false,
+    "at": "2026-08-21T15:00+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "تحذير أممي من تفشي إيبولا.. قتَل 2500 شخص ويثير الذعر بالكونغو الديمقراطية",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/news/2026/8/21/%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-%d8%a5%d9%8a%d8%a8%d9%88%d9%84%d8%a7-%d9%8a%d9%82%d8%aa%d9%84-2500-%d8%b4%d8%ae%d8%b5%d8%a7-%d9%81%d9%8a?traffic_source=rss",
+    "fa": false,
+    "at": "2026-08-21T14:43+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "4 لاعبات من الجزائر والمغرب.. حضور عربي قوي في التشكيلة المثالية لـ\"كان السيدات\"",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/sport/2026/8/21/4-%d9%84%d8%a7%d8%b9%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%88%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%83%d8%a3%d8%b3-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7?traffic_source=rss",
+    "fa": false,
+    "at": "2026-08-21T14:39+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "الهند تكشف معلومات عن مواطنيها في سفينتين اختطفتا بخليج عدن",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://www.skynewsarabia.com/middle-east/1887351-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D8%B3%D9%81%D9%8A%D9%86%D8%AA%D9%8A%D9%86-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D8%AA%D8%A7-%D8%A8%D8%AE%D9%84%D9%8A%D8%AC-%D8%B9%D8%AF%D9%86",
+    "fa": false,
+    "at": "2026-08-21T17:02+00:00",
+    "img": "https://images.skynewsarabia.com/images/v1/2026/08/20/1887149/95/53/1-1887149.jpg",
+    "via": "قناة إخبارية إماراتية بريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "باكستان.. مقتل عشرات المسلحين في \"مداهمات استخباراتية\"",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://www.skynewsarabia.com/world/1887347-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D9%8A%D9%86-%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9",
+    "fa": false,
+    "at": "2026-08-21T15:41+00:00",
+    "img": "https://images.skynewsarabia.com/images/v1/2015/10/27/786102/95/53/1-786102.jpg",
+    "via": "قناة إخبارية إماراتية بريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "عملية هي \"الأكبر من نوعها\".. الجزائر تضبط كميات مخدرات ضخمة",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://www.skynewsarabia.com/middle-east/1887346-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%86%D9%88%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B6%D8%AE%D9%85%D8%A9",
+    "fa": false,
+    "at": "2026-08-21T15:27+00:00",
+    "img": "https://images.skynewsarabia.com/images/v1/2026/08/21/1887345/95/53/1-1887345.jpeg",
+    "via": "قناة إخبارية إماراتية بريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "لحظة إنقاذ صيادين جرفتهما المياه لمدة 5 أيام داخل صندوق تبريد دون طعام ولا ماء",
+    "src": "CNN بالعربية",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/miscellaneous/video/2026/08/21/v200460-fishermen-rescue-cooler-mexico-navy-vrtc-ldn-digvid",
+    "fa": false,
+    "at": "2026-08-21T16:30+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/08/21/images/342198.jpg",
+    "via": "شبكة إخبارية أمريكية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "8 دول عربية وإسلامية تحذّر إسرائيل من مخطط \"E1\" الاستيطاني: \"يهدد تجسيد دولة فلسطينية\"",
+    "src": "CNN بالعربية",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/08/21/eight-arab-and-islamic-n-israel-against-the-e1-plan-establishment-palestinian-state",
+    "fa": false,
+    "at": "2026-08-21T16:18+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/08/21/images/342197.jpg",
+    "via": "شبكة إخبارية أمريكية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "وصفه بـ\"الديكتاتور المعادي للسامية\".. نتنياهو يهاجم أردوغان ويحذر من استغلال سوريا لـ\"توسيع نطاق العدوان\"",
+    "src": "CNN بالعربية",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/08/21/natanyahu-attacks-erdogan-calling-him-dictator",
+    "fa": false,
+    "at": "2026-08-21T16:00+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/08/21/images/342196.jpg",
+    "via": "شبكة إخبارية أمريكية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "باسم نعيم لـCNN: ما يقوله كوشنر للإعلام مختلف عن الاجتماع المغلق.. ولسنا مسؤولين عن ضمان نجاح نتنياهو",
+    "src": "CNN بالعربية",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/video/2026/08/21/v200456-amanpour-hamas-official-basem-naim-part1",
+    "fa": false,
+    "at": "2026-08-21T15:30+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/08/21/images/342193.jpg",
+    "via": "شبكة إخبارية أمريكية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "«جائزة هولندا الكبرى»: راسل أول المنطلقين في سباق السرعة",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5309678",
+    "fa": false,
+    "at": "2026-08-21T18:06+00:00",
+    "img": "https://aawsat.com/s3/files/styles/414x217/public/2026-08/1732265.jpeg.webp",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "أرتيتا جعل أرسنال بطلا... والآن يبدأ عصره في الدوري الإنجليزي",
+    "src": "اندبندنت عربية",
+    "grade": "حسن",
+    "link": "https://www.independent.co.uk/sport/football/arsenal-premier-league-mikel-arteta-season-preview-b3035412.html",
+    "fa": false,
+    "at": "2026-08-21T12:40+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "4 أزمات تهدد بإرباك موسم ليفربول الجديد",
+    "src": "اندبندنت عربية",
+    "grade": "حسن",
+    "link": "https://www.independent.co.uk/sport/football/liverpool-transfer-news-season-preview-prediction-b3034866.html",
+    "fa": false,
+    "at": "2026-08-21T09:46+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "الكتب في عصر منصات التواصل.. بين الثقافة والاستعراض",
+    "src": "اندبندنت عربية",
+    "grade": "حسن",
+    "link": "https://www.independent.co.uk/arts-entertainment/books/features/instagram-book-fiction-b3028780.html",
+    "fa": false,
+    "at": "2026-08-20T13:21+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "توتنهام يخطط لضم ثنائي مانشستر سيتي لتعزيز هجومه",
+    "src": "اندبندنت عربية",
+    "grade": "حسن",
+    "link": "https://www.independent.co.uk/sport/football/tottenham-transfer-news-marmoush-savinho-man-city-b3035885.html",
+    "fa": false,
+    "at": "2026-08-20T11:18+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "\"ناتو إسلامي\" في الشرق الأوسط",
+    "src": "اندبندنت عربية",
+    "grade": "حسن",
+    "link": "https://www.independent.co.uk/news/world/middle-east/muslim-nato-trump-saudi-mecca-pact-b3033073.html",
+    "fa": false,
+    "at": "2026-08-20T10:16+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   }
+  ],
+  "فلسطين": [
+   {
+    "head": "\"أخطر وظيفة عامة\".. كيف تعمل شرطة غزة تحت الاستهداف؟",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPM2tJRzdtRHRjYTdYZDkwN0dCM2dPS2luZDFNbFpMdlZxd0FCamZTemxSNVZoVjBDanp2WkZBRWd0dXBaZzNobEstOVYtN0F1a3ZLS3JYV0E3ektjdmRNdTlid1V0Rk9WS2M4UjlOQXBpOWIxSmRMTEJZLTFQYlRsZ1l1c2tJRGo1OTJsLWluOW91UGFkUmtCRW9RTk1xRlRrM2JrM3pPdWVkSk16M050N2NWX2tjRjBCOW5mRlctZGFzcTdSNnMtZGRvZnBfblhpRzVzVWtDMndMUEc5UEpwMndJbng4X1hIelUwSU9yLTB4djM3ci1aRVJYQWtwZEd6UGxPVi1VLUFmdjBJUnF0RktkT1pIdEczc1NkaVM2aG9rQ1lTbWQ1VXU1QzBJaXdUTGcyelZnUmJEVnJTSnlLQ1Y4eG82VF9KRUtZNW5iYzI0Y29UOFZn0gHcAkFVX3lxTE5jSmNtc3NyREFuODI3X3ByTUtqeGNDSnIyOVN1OGozZDR1Nm9LWE42U2VfLWhsRkdZMDQ1T2ZHYXI2bFRYV2QyZnFlX1h1eDA4WF8tdzViMkFBbDBFYVZXRTZYRE5ZYUJpbDBrR3paVEJicE1VVHlwVWlOaVVoVXlJT2JydGs4cFdIcUVwZWdxSHhINmtIb1AxUlBNejFhUUV6MmxKaHZoU3BiUFVwR01iMExrNVVTMXdlVjBhQW1VYmtXRGt5cGRveEhaTG1ZYm9KSG4yaE13a3BoMmRtMTZyeUR6QXlUaTM1TEwxaEs2dndjRF9nTmRoTC1uNlphTnVvLUFXMzk1Y19vRTZnWk1TZzExeWM4cFVvakY3UnhlaXA0eUVxQWlvVWhhajc2UW1Ga2JuSFZHUHNzcHNvTTVyVE54czVDR1JNZDVkWlFlNnhmZ3hER18weG1fSA?oc=5",
+    "fa": false,
+    "at": "2026-08-21T09:50+00:00",
+    "he": "'Most Dangerous Public Job': How Gaza Police Operate Under Fire",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "فلسطين: على حماس أن تضع حدًا لعمليات الإعدام خارج نطاق القضاء وأن تضمن العدالة للضحايا",
+    "src": "Amnesty International",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRTVYVHJRQ1ZBZ0ZQbGZTdWZySmxrcWJGZDRTM1FQeUpLY0owTlhGaWpkNVp1bzdhU3ZQZ2w2R25mZDNRNGxzYmJ4eFdkd0NSUzRyNW9Qcmt1S0l3SnpMdnVLSlZXNjZPR1lDM2IzREw1dmVFNWFXYXUtek4tUGdWaU1GdmkzU3lBNDV3eFNNUkpEZlNlZXBqc1RJV05PMGdWQkI0Y3Btb3BTeGdfSllkaWxCZHk5VUZkSnk0YzRrdGJsc1U0MElMOUt1TG5mYlU?oc=5",
+    "fa": false,
+    "at": "2026-08-21T00:15+00:00",
+    "he": "Palestine Calls on Hamas to End Extrajudicial Executions and Ensure Justice for Victims",
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "3 دول تندد بالإغلاق \"المخزي\" للتحقيق بمقتل مواطنيها في غزة",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNbkQ0SkJGVTY5clJrUWppZGxhZnhnT1lXZmtnTHdMTmMxMi1wV2FiZnNMRTIwUFRXekdjSERNTzM2ODFzakg0cDVJNVNWSjN4SkNBNklQY0JlZkVucDVPb0pWZVpDZ1NRWFVlRHVSV0V4VDVvMTFPVGhwLWRhYXZjYWZfaXpOMEw4LWc2WThKQmZVNWM0S0xWNGFWaGoxaElLdzdvMGM1Mlc1dTBNMVg0bXRNeU5uaUZFN1dRQ0xrWjYtOW9UMUNPR3c3dEs0MFJSTWprWHRLcm9EclZJdTJZRnVKY1BDLV9lZmVUbzhYdXZuci1DLTZsaTZoR0xnMDBacDV3WlhHWExnWjRVRkQ2RmlHbFVZUzZpWWtheUZDMjczSDRzM21qc1ZKWUpmd3pQNmNzOXpJOXZUZjNhMmd5VjNhT3pVR0ZXcXlnTzMta3l3YUxSX25Fb3AzWGlYTWVzQXBqUDhrZWp4ZDNsU0ZvanRUYnFSUG5nT1dMSWs2UHRpS1JvRmxMVlNTMjhubEgzLTRhUUJFRkNFeXBkcWhhVWx2dXF3TmIySzZwMlp6cUttdklTYjE4UURMTHVvR0hEUGpQdlRvRjhxUUHSAdADQVVfeXFMTm9teW5jM0NwcjUxWEdGcnBPZ1paNFFycDFUN2lDMXl3SnN1cm5XYmRDbEFleGw0Q3VObUcwMl8xWHJyYzBkUThFRm04N2FBM2JkWWZLeEYtOFljdmt5WEZUSEtjT01NejA3RTZHalN2WXdRQkQ1Y3BOeFdYYWRCcS1ONG1jeHJBSVI3RlNnaU1GdkVfWmpPNm9OV0NfbUhza3VUYTZaWlQ1Rnd5MzU3Z1FkLW5xcmJJR2dGXzBCVXRjN25jLXlfZk8xN2t0ODQydkFXOVgzQTB0Ui1jNnB6Vko4S0llZi1SYWhWWE1CR3NxTVo3dnhHM0p0bFhaOWJlVW5DUGZ2aUIwRl8wS0o3Rng2QTY0RUF2MThUS1dhTUktY3BmVzBtX3BVeUxsU01QRXpxeU1mek5hTk1aZlNOM0FRd3RiQlpwUDkyNEl4NjdEaW9sZV9XVmtVNF8tdTRobGNOMDFZSW9jY3poUGd5R1ZXWmJYbUIwczRTeHRENmtoTURGODYxMXY3MHotX0Z1LXlucWF2QTVfenRpSXFIUFpOcGI3ZzJsSEhDV3dCemRzdTdXMmF2eWpRcC1KX001OXV1Zmp0T0pzemxCMHJ3SFM?oc=5",
+    "fa": false,
+    "at": "2026-08-21T16:44+00:00",
+    "he": "Three Nations Condemn 'Shameful' Closure of Probe into Citizens' Deaths in Gaza",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "استشهاد فلسطيني برصاص الاحتلال جنوب خان يونس",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPWURBWEtRX0NJT2ZjWGM0Ukt4cjJmUU1TQnpybjdfSlNSQ3hGRHNkVWxEemhOTUV4bHppZVQ3MmVybHhOUDgzYmNOVzBDSjlSZXlldXhnSkFRVjN2bjZIT1Q0Z0hCOFQ3SlpWOVlNYXFtTTIzWG5RSzdicW5LX19wNXVmUTJ4ZVlEck90WldVQjFlZS02S0RGVlpYVWhvelRQZHUwczJ3Y0kwT09PZ2hvR1BoLTYzY091alRmbndnamdfQl9XMXVpZ0hYa2RTc1gwY0ZfUC1NUEF6QXYwY2xkYjhUNEI4eDdndldRZEYzWWZ6MjBfbk5aMEV1eDBuQmlEb2RVVVFqZVRveElwRmFPWE9wMkF5M0ZMNVhkM1hvMF9IQ2psNEpSd2I2Z19kX0NacURCNDBZOE8zMnl1TkVDakFmeTBzRHdYc25hbFpWZkwxX0nSAdgCQVVfeXFMT0tOdW5WWjZ6dTVCQzl4eFJKX096Qk40S0lUVXFmUWdRS3BkcDZ4MXhpcjhFdzZjQUVBUjdLd3JzNE5Hdi1fbVBkN2J0bmk2RlktRE9fekcxZHc1Z19Xc2plTDkzRGpncDE0MFZONXZWbUl5SnNaUEFYakR6dWtUMy05NEpROEtHbVVVUDlhaUxBVFY1eThnZ0p6Y3VMdEtrZXNuTC1vSndtS0Y1QjRPV2hoVld4cUZrRVlXUm12TFRRTEhVdkJQUnJtNGh2UmFha1dVcGRKRnFfODVVLThicHNVcVprbUtfbFJ2T0E4SU85eEt4OGNTUVRHcWhXUUk0TjVvNWdHUWE0M2l5bEVBT1NGbS0yM1dKRjEtQ29QTGF2cDBtNU9LXzFwdG9kd2FnamZvZU1DZGV0T0Y1NlB1NnVacUwxTF9WalBoMW5VWUs2SWh0bTdYSjQ?oc=5",
+    "fa": false,
+    "at": "2026-08-21T18:11+00:00",
+    "he": "Palestinian Killed by Israeli Fire South of Khan Younis",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "بعد انتظار طويل في باطن الركام.. غزة تشيّع رفات 50 شهيدا",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbmFNRmh6R2JNWUU4N1lvdUNoeWd5aDd4SGx1c1ZhSjJoYWhhempPMzN3NWlhbWtTc3NzMHlRaXBwV3poa3VQZ2VacktLWElpSkpzczJRTzdKVENJRU11SE03c2U0MEZqZ0tkSUhDeUF3WmtPMmI2QU9xdDV0WEZNUmNqdThVQUtXa2xxNTE2NTRZakRWeHlVaW1oaDZPQ2hYVmVlemQ2NS14VjA4cmhtRlpjRFA3YWs0NHdCVVdiV2NKWW13ekd1alpuZ3pSRzRYUXpQV3VPbmJ0di1iOGZyMGdQaUFSYzVleVdxeWxNZnhLYjlPTGpjY0xzRW9VXzc3YWFzYkRoWEF0ZE9JVG5EMlhCby1BQmNwd19GT2pXc0l2S1VSamhzME01Y3YwXzdxN1NSeEpxbGlxamxp0gHCAkFVX3lxTFA2NVA1a1ZzMzVJSTN1TVF0X242eGdMblpSU0l1TVJyUmNCWE9fTHdmUkZfc1lkZVVUdmg5dlY2NlloekJrQXFFYU12U1FiclEtX0NhdklxTWtkV3djWEVGWUJBMzJSSEVHdjNuRHFWdHA0UEhCWU9WME5HdzFxU055OWdzTllIdFBXMkxVdGw2MFdHOXJ2TU1kbGo0NEtCRTJ6SXpTanhXaTYyS3FneXg4UTl2N3FNWkVMdE1HbmxLS2FoMWxYOHdpVW55QkE1aVRPMnBpUWtqWDY3b2ptR0tab1dGUWpTX2JHaWhzMVAzWm14M0lhTVFuQ0hUSU5kWXRtbERGZ0Z3QnJGRk5RckZtcnFEYkdDdXdFb3o5TXVFQ2RDNWdPeXFBU0tmWWE1b1FYNzhTdFI0b3VTN0J4MXhpLVE?oc=5",
+    "fa": false,
+    "at": "2026-08-21T12:34+00:00",
+    "he": "Gaza Buries Remains of 50 Palestinians Recovered from Under Rubble",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "ضغط أوروبي واسع على إسرائيل لوقف استيطان الضفة",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNWkZZc1VlZ3NIWnE1M2NkQVRfcGVuZlMtMkVwRU5Da0p3VUJQZEF4SDU0clk4NThvWVFQRkZKZjhlR3lQUDgyVURPRmV3NWJseThyaFI2QldtODdZRHBJX1NDZ3dJNjh5ZXlFU0dSV1RSNGZTR01KbzdQNkVSdXpIWnpLLUw0RVJoVjNLbVRMZWJ4blUxY19mQnYway1CNTFNY3B4c0luMWJKY1NLYUdQbHBnRzJ3M05ZTmI1NEsyWFhqR1E5cmlTMWcwVDdoSDM4eTEyYXNybFk2djJXWTlWbnFaajdKVkNFRktiXzUyaUc0ZFZMT1I3bGFnaENEd19nYktDXzFUNGgxYWhVc09iUUJycHhNSTBoLVozZGpzWjlBdnN4NXdWRDVDTS1uc0hIbGltcm1pTWtobDI4YjFOLXM3NlJMN1lYOG02SkNDV29Qc1FEWDcxS2Z3SjZpYlN5T0MzbDhybVN4Y0NuTlViaGJMNkhOWUJWUUdVcEZZaDctUHNqU0hz0gGMA0FVX3lxTE5mSEJsdG9lel9OZTUySTFxQzVneE90cU5HZEg3ZUtpdEZraW55cDhRcWNsU2ItZWkxWmRybVIwNldTZlExU2RKNVFab3BxYkFaVGJxX3NLdXB2UGRkUXFBLTdKUFlrQ1c3VmRreTNyYU1Ca0h4aTlqTm5uaGtJVlNQM1hVdGlGMlNNenpoVE1LQTFOMmJvemxnWDdJbVhrTGJ2clFVM3ctcTJWZTVDd0VrbHNSc05VVGwyd3djRS0yLXc2anV2QmRiZTc4U3AybnJNbGlkZkwwZExuT1JnV0VWSGRuWTVJQ25ram5INGhuZXRZZVRPRjJWVi1FNGs3OERxTy1zcEpPRi04VjNWSERnbkZVUU4zWjZpUFpfbnlWZ2hEN3NaNE5iMm1zRVhkZDhPLXpUZ1VvQVh5c1l3bjZmSTdyTEtuNkF4WXBzajBieEFNR0E2WDdsQzZBSlFVRWo5blRSTFNZRFhQT09BZzZDTjJZWjA4ZDJKemN3Um93YWotZUJQb1R6NTJIcQ?oc=5",
+    "fa": false,
+    "at": "2026-08-20T21:21+00:00",
+    "w": 5,
+    "wsrc": [
+     "mfa.gov.eg",
+     "الجزيرة نت",
+     "اليوم السابع"
+    ],
+    "he": "Broad European Pressure on Israel to Halt West Bank Settlement Expansion",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "إسرائيل تتجاهل الاحتجاجات الدولية المتزايدة وتعيد فتح مستوطنة مغلقة في الضفة الغربية",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/persian/articles/ceqe4z47rezo?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "2026-08-21T17:30+00:00",
+    "he": "Defying International Outcry, Israel Reopens Shut West Bank Settlement",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "تركيا تصدر مذكرة توقيف دولية بحق نتنياهو بشأن \"أسطول الصمود\" الذي كان متجها لغزة",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "حسن",
+    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260821-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D8%AD%D9%82-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A3%D8%B3%D8%B7%D9%88%D9%84-%D8%A7%D9%84%D8%B5%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%B0%D9%8A-%D9%83%D8%A7%D9%86-%D9%85%D8%AA%D8%AC%D9%87%D8%A7-%D9%84%D8%BA%D8%B2%D8%A9",
+    "fa": false,
+    "at": "2026-08-21T15:03+00:00",
+    "img": "https://s.france24.com/media/display/de73bde0-9d6f-11f1-bdc0-005056bf30b7/w:1024/p:16x9/AR-20260821-160718-161122-CS.jpg",
+    "he": "Turkey Issues International Arrest Warrant for Netanyahu Over Gaza Aid Flotilla",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "دول أوروبية تدعو إلى \"وقف التوسع الاستيطاني\" الإسرائيلي في الضفة الغربية",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "حسن",
+    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260821-%D8%A3%D8%B1%D8%A8%D8%B9-%D8%AF%D9%88%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
+    "fa": false,
+    "at": "2026-08-21T14:37+00:00",
+    "img": "https://s.france24.com/media/display/5dc16cf4-9d67-11f1-a798-005056bfb2b6/w:1024/p:16x9/AR-20260821-150847-151039-CS.jpg",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "8 دول عربية وإسلامية تدين استمرار سياسات إسرائيل الاستيطانية",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://www.skynewsarabia.com/middle-east/1887350-8-%D8%AF%D9%88%D9%84-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9",
+    "fa": false,
+    "at": "2026-08-21T17:03+00:00",
+    "img": "https://images.skynewsarabia.com/images/v1/2026/08/21/1887349/95/53/1-1887349.png",
+    "via": "قناة إخبارية إماراتية بريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "هل أساء السنوار تقدير الرد الإسرائيلي وهل تتحول حماس لحزب سياسي؟ شاهد رد باسم نعيم لـCNN",
+    "src": "CNN بالعربية",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/video/2026/08/21/v200462-amanpour-hamas-official-basem-naim-part2",
+    "fa": false,
+    "at": "2026-08-21T18:27+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/08/21/images/342205.jpg",
+    "via": "شبكة إخبارية أمريكية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "سلطنة عمان تدين الأنشطة الاستيطانية الإسرائيلية في الضفة الغربية المحتلة",
+    "src": "المهرية نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNUkFzc0ZwMzBBek5MTDMyWmFNRGpWTlFtMlZ2YWZOOTdYUDBOSWIyYlVmZVNsNUYwSDdST281SzRVc1lJZnpvMTNIVWpBWUFIZnA3NDZraTNTbEJ0cG12R29TYUphdzc2OTFFOG5GWVAtWF85WW1CbElUdUlKQzI1TXBQTlo4U21uSm1JVzRzYjdBUTl6ZWkzUG1SaVJLcGRyTkNVNVZoQzRIZzFLWmszMzJwWHVwT21BRWtGNjg1eERpb295bVB2U0FoOVZYQjIwRE4tTlVBdjN6UXFEdm43RFZvczJKQ1dLaHFTRU5nTnA3b0FaUzMtZ2d5SnNPZ2MySENzTEwyQUhFckJ5Z1hCS3NnSGE0SDdmSEFYcmZzeHNHbWFPeHFnb2xFWDdiaXdkZURobWduZWVCaDlmcVdadU5vNkR3ZmJXWVhoWDdsQnkyVmR2OEdaNktuYl9CQjJrRkl2ZWRSWFBuTHBCZ3JIb0ZQclliX1B4dTg0MmNaTDBHSGVCU1JHS1Y4RC1tcFZILXg4ZDYzOHBNT2tGbkVNQ0hMQ2p1dHlTb0pOQmgxRENSSjM3cWE2MDRhenB5aVZHVTNBUGl0Y0JVdFFBbHEwVk9R?oc=5",
+    "fa": false,
+    "at": "2026-08-21T10:07+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   }
+  ],
+  "تقنية": [
+   {
+    "head": "برودكوم تبحث تمويلاً قد يصل إلى 100 مليار دولار لدعم الـ AI",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNeFc4MWw5NDFnbkJNMnZDb0NOUzFIQ0V0WFNOSEUyV2hRcnVwWXpyZkRuQkNYNG5kYTVrNEF4RlF2Z3hmTy05aGk1MjdvWU1ReFR3cjUzeDFsa0lUY2FFQnVWM1VhbUg1MTRzbXd3LWo4ZVktbmF1SVJfZkF2VjNCWVQ4bVE0ZDlybmlwMjloOGl6YVRVOXY1dDRRektRSGJYQkdaRjdVS0s4ajN5MklwaEFFcThGNW1EcTBnMU5hS0NLVks3Vk5pXzJLTDdpVW5Sc1dqakg1MWlqRmZKMzF2NUpLYUxHdjNXMmN3aTR2WGY1S3EzeUlnV194bVN1TjNoTlJEVzhDaFM3MmFocVFIczZwSVNVNnJ0c21MaDRaaWY0U2R0SXM3aWs4MkZxU3l6d3lKc0dLX3ZlbVRJTl9WRjY5V2trR1R0UVdGdHJuQTNtdlJGYXdXelpRV21oS0p2eHo4WUdEQU42QWdndmpkZGpQRWRoRi1QM2dCeWwyX1ZpWkVEbXJ4V2pRMy1JUdIBkwNBVV95cUxNY2NMN0x0X3FaOHZQQ0huQVoxSDJ6UEgwOW5IeUZVejFRWEtJNHJ4SG9uZjN2THBCVXNEUmliWGR2bmlaZ2FFczV2QVVqOEw4S004TVBjMkxMbjdDekROVEVVSHY4SVc1SmJFcWEwV3NrQllMbmZvcTFPSEdlTGJ3ajJfZm54Z3dCRERCNmhlVlYyOXRWSmtwMmo0emFDYTZHeGpTNEZuY0dqckItZ05uQ3NzejMtZENFSFpmMmVHaUxoYmlIeW1sMThTekgtRmFmbklNcGRNdHI4QU91QXFIS3I0S1l3eWp3U1huNWUyU2pGR2g2Y2tneHF0QkVrcEJhUUwxN0dtVzlUdjQyOHZfZHgwNmItdkhpUWphQjl4RUJjNk1Nbm04VkJUd2ZFcHpqT2I4cjN5cEdrY0VBcW1Nbk5qV1lFMDFGOUlkVG9HZTdFWjJsQWZJb3VfUEhkdGdFLVFyMnBSWTk5Q2dpcjhUaXhNemRqQWx1SWQtRVNLNGgwanFzanhtWUtHX04wRXViNklV?oc=5",
+    "fa": false,
+    "at": "2026-08-21T11:30+00:00",
+    "he": "Broadcom Considers Up to $100 Billion in Funding to Bolster AI",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "استخدام تقنية التزييف العميق لتوليد صور عارية يصبح أزمة منتشرة بين الشباب",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2U0cl9GVHBKRGU1YmN4dVFkTjcyVlJKMXhhemtMc3dia19KbEN4QXppdExtNGsxQmUxZl9BaXVST1RHQ3I5aV9GaWRZZjQ1SHhFQUFHTUJiUVRjTVZEbWgwNW02X1luSkZ3dHcwX3NTODhFVU1vclN6YzE0WFRRRTBMWjNWVVlmNldTOHpfclhaWmNtQ1Fxbl9zN19nTGlzQU01RXE0YThEQdIBtAFBVV95cUxOWER6aGVLV0hIWngxc2dQSjNlbFpyRW11RDVzc2hCY3JVbWxMcE5xaktXMGFsNTlPMzQxTmswZ2hyM3pVa09UWmFCR0NrQ0ZTclkwNnluZDdQcTZwUUN1Y0RHdVhhN29Lb01HVlNVNzAtOVpWcm1QcFNKVzI3NU5BOGxpSzhOeEdaM3l3Y1YzVjFEWHVOZjNQcmlPb2s3WklGSEl0M1d3OXZjR2htaXBxNUNtNnU?oc=5",
+    "fa": false,
+    "at": "2026-08-21T11:37+00:00",
+    "he": "Deepfake-Generated Nude Imagery Becomes Widespread Crisis Among Youths",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "إيرباص تطور تقنيات جديدة في قطاع الطيران باستخدام الذكاء الاصطناعي",
+    "src": "BBC",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QS2wxNXNDbXVPbkpsLWlpajEzVjhqSTVxTlY1V3JfelVoSlMxcWlkYW53dE1wQXExX25uVXRnTm5iSXhSNmItc2hKMWpGcEdDMm5lSmJsWmo3T0Jk0gFiQVVfeXFMTU9DajdIQmxBdl9lUDVDNXdhMWt2YTVST0x5VmJXdFlfZ3hUNWVSdDZ4MjlKeTlOQVhDajF1dzYycnF1cjBoMlNaaXJBTzAxakFDcGQ1U20yZm9YbU91ZWQyaXc?oc=5",
+    "fa": false,
+    "at": "2026-08-19T11:43+00:00",
+    "he": "Airbus Develops New Aviation Technologies Powered by AI",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "وكلاء الذكاء الاصطناعي.. كيف تشغلهم دون أن يمسوا ملفاتك الحقيقية؟",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOT0hGRnJqc2pmeW5LQkpod2NXUk0zNUtCN1JiN2JlRmxTZjNPTnFJN0I4ZTVIQV9qaldmWlJ6MWF0OGpYSW10MVNIeFFlQlhVNHM2WUlURXBQNzB4N1NIRkRVUmhOSXBlR0pVMjFfSGV6aXRiVHlURE8yaGFPcWtRU2x0YmlKN215YlpXWXBTSElFV3JvX0Q0eFJXNk5qSi1XXzUwd1ZQQzVzaUxmWmRsY2ROeElzR255Y1liYklTMjkweWhPZWJBWFh0b29FMXYzb3BlS09kYUNFRjhDQ002ZlRMOC1kNWQ2YjB1MGkwdmxicHI5VUdBVS1OMS15TVk4QWUxWUhfYTY3WDRpLU5BaU9RUVlka1QyN0dlbWhzdFBCRHdEd09hQUFtbEtuUHd4ZUUxMlR4NUJCWm9vYTVtMWpiUDkyVTA0RlRuM2Y1QVRTUmxtNmh4Zkh30gHfAkFVX3lxTE16Qmx3NUtfYkNndUZCdkVHdUtRYnJZcnVtQVNxWDE3clNqRkZwaDlKTFJGdXpkYm1RZmNzUmF1d0dpZTRXa09QQ1FsOE1UcTVnRFFTY3pnSS1tV1pRT1dfeUxweVhGMTBLbnl4ZlhKSUJjOEcwaWJFeHRXdVJnNm0yMVRTaWZSN3dYTDhwVDRlS1g1RWV0ZDRjdklXR0FZVDhDSk9yZUo5WFZJRHZZd1JLRURsY21qRTZxaXpQSjBQbUdLeHdMY3NqMVZ5ZWJVT2F0NVRsZXJZZFZvX1pWOGRhZDY5WWU4YXc4bVBYNGlrQWxwbVlfLVVRX0oxRXBnVWdkV0JQLS16M0RFdjJOS015ZGtjUEpkemotMjJaNmZzMFIzaENsMF9WUjA1bEl2bHZzaktpaXhiTEZJY1BLTHZBYzV4OTZnVm81MWxRSFNnZ1A2RWFxbS1PZEhxbS14Yw?oc=5",
+    "fa": false,
+    "at": "2026-08-21T12:03+00:00",
+    "he": "AI Agents: How to Run Them Without Affecting Real Files",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "الألكسو وجامعة بكين للمعلمين تنظمان جلسة رفيعة المستوى حول الذكاء الاصطناعي من أجل تعليم شامل ومستدام",
+    "src": "المنظمة العربية للتربية و الثقافة و العلوم",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMinAZBVV95cUxQUnllUTRSRlJGRUJoUEV0d1pEYXo0WGdraTFob3lpTTBkM08zMW5FMEpiUG8tRFVyTzVsR1hXbEZQcW81RWozbGl4OWlQWUZIYTA5a1g1Y3dBQXAtOVpFdU9BX19BejJBWHpnWDlZVEtZZHJIcDhNUDJzbEhOZ3ZRNzI1cS1WWFJUTE5JUXltcDlvRlFWcjhJWjRMbkptZFZhSTR0SkVDd3dDWlJ4UVJITmNYV3Y4RS1fQXZia093UEhnWjRXS3dxNUJSekRiN29nME93Smw2Mm0zM0xyWWxLWk16ZzZROS0wSVhaMklHd2ZQS2gxOW12TUlOZ2kyOXRINVMwdkp0UnpZNEl2MkJxMU5NYjRjUTNsN3JXMmxQOTRiZFdZUW95OUFEZkJZS0UwTWE4TDZUckNEX3UxVmhkdEdGSElKdFhicGZwdlFxYWJKUm9fVGtCVmdnNVlYRHNreUtBMkZlekZ4UVB6YXRISmcwOHZSWHhCdVN3ZlVQa3JvbHltSEJxc1FadEYwODBtTFlBOTAtYTdCMjA3SnAxZG5TZHdoQ2Zfb2gwVUFJMmdtVlUwVlQ2N1lTR09WSEpTVjVRd0p4bG9nNDB3dmpNbzhtTXlZVk4zYWxmV3N2elQtZGpURi1udU1nUl95NWxhbUdwbDBaRzdtZi1FTjlOOUhaZVVIV2k4TmxWWm10d3U1ZngwV3hvLVVleE55QW5HMzBKMFY5M01mSXFHaDZvVWlCTnJtR3RsUzFwNG41bnRuTXdtNkpxNWJHZ19mclZLYlFnVzZ2UkZfbnF0dTc0Z0Z2UjY5VWcwWlNlWmx4OEI2Q04zdVZNMGswZzdWVVpGVFBkdUU2V3lnMVRGRmVSUlBJRnB5a0lBZGEzRUpNTkpQS21ZZmc5bjlzSC05WjdJQlJUQW9VakhnaWhPTnktMV8tYnZFZHgtOE1hUk85WHNtZG1EbmFIYV9HMjBmSjVMcVE4QUo4R2FWV0s1U2ZTOXJMNWxqWGRjc1EzR29jUlNqODdKV3p2VXFzb2lmQ3RNdlRLWmsxRG1Yb2p5?oc=5",
+    "fa": false,
+    "at": "2026-08-21T13:28+00:00",
+    "he": "ALECSO and Beijing Normal University Host High-Level Session on AI for Inclusive, Sustainable Education",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "قياس تحسين المعايير المرجعية في التعرف على الكلام",
+    "src": "هَغِنغ فيس",
+    "grade": "ضعيف الإسناد",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "fa": false,
+    "at": "2026-08-21T00:00+00:00",
+    "en": true,
+    "he": "Benchmarking Progress in Speech Recognition",
+    "via": "منصّة النماذج المفتوحة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "استدلال أسرع بما يصل إلى 3.2 أضعاف مع LFM2.5-DSpark",
+    "src": "هَغِنغ فيس",
+    "grade": "حسن",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "fa": false,
+    "at": "2026-08-20T16:52+00:00",
+    "en": true,
+    "he": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "via": "منصّة النماذج المفتوحة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "تقديم AI Futures",
+    "src": "أوبن إيه آي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "fa": false,
+    "at": "2026-08-20T07:00+00:00",
+    "en": true,
+    "he": "Introducing AI Futures",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "شركة Stampli تخفض ساعات الإطلاق بنسبة 68% باستخدام ChatGPT Work",
+    "src": "أوبن إيه آي",
+    "grade": "حسن",
+    "link": "https://openai.com/index/stampli",
+    "fa": false,
+    "at": "2026-08-20T00:00+00:00",
+    "en": true,
+    "he": "Stampli Reduces Launch Hours by 68% with ChatGPT Work",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "توفير ميزة عدم الاحتفاظ بالبيانات (Zero Data Retention) للنماذج الرائدة",
+    "src": "أوبن إيه آي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "fa": false,
+    "at": "2026-08-19T19:00+00:00",
+    "en": true,
+    "he": "Zero Data Retention Enabled for Flagship Models",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "منصة Replit توسع إمكانية الوصول إلى إنشاء البرمجيات باستخدام GPT-5.6 Luna",
+    "src": "أوبن إيه آي",
+    "grade": "حسن",
+    "link": "https://openai.com/index/replit",
+    "fa": false,
+    "at": "2026-08-19T07:00+00:00",
+    "en": true,
+    "he": "Replit Expands Software Creation Access with GPT-5.6 Luna",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "توسيع نطاق إعلانات ChatGPT Ads في جميع أنحاء أوروبا",
+    "src": "أوبن إيه آي",
+    "grade": "حسن",
+    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "fa": false,
+    "at": "2026-08-18T22:00+00:00",
+    "en": true,
+    "he": "ChatGPT Ads Expand Across Europe",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "تعزيز الرقابة الديمقراطية في مجال الأمن القومي",
+    "src": "أوبن إيه آي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "fa": false,
+    "at": "2026-08-18T19:00+00:00",
+    "en": true,
+    "he": "Strengthening Democratic Oversight in National Security",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "من Atari إلى EVE Online: البناء على 15 عاماً من أبحاث الذكاء الاصطناعي في الألعاب",
+    "src": "ديب مايند",
+    "grade": "حسن",
+    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "fa": false,
+    "at": "2026-08-21T11:59+00:00",
+    "en": true,
+    "img": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
+    "he": "From Atari to EVE Online: Building on 15 Years of AI Gaming Research",
+    "via": "مختبر أبحاث — غوغل",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "5 طرق جديدة لتعزيز تعلمك باستخدام Search",
+    "src": "مدونة غوغل",
+    "grade": "حسن",
+    "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "fa": false,
+    "at": "2026-08-19T19:00+00:00",
+    "en": true,
+    "img": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
+    "he": "5 New Ways to Enhance Learning with Search",
+    "via": "شركة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "هل يحل حظر \"العلاقات\" مع الذكاء الاصطناعي أزمة تراجع المواليد؟",
+    "src": "اندبندنت عربية",
+    "grade": "حسن",
+    "link": "https://www.independent.co.uk/life-style/china-bans-ai-boyfriends-girlfriends-companions-uk-b3029274.html",
+    "fa": false,
+    "at": "2026-08-20T12:51+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   }
+  ],
+  "اقتصاد": [
+   {
+    "head": "\"يوتيوب\" و\"نتفلكس\".. صراع على صناع المحتوى",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNcF8zaGpFZWhlMUhhRVJlcEpvR25wenZDX1JrSUI4YllDY3pCeGx6a09XVmJ0bEc1eWJpdERrVGJCQlpQYXlSaklKcEo1dFRYaDJPQnVoQ21nRUdqYnZXSHpjdVdXOW1mZ050Q09rUTFBaG51SllMQXJNWTZOWmJGdGo3Zk1OMlJzdGRBc0xtMHdpSDBIY2p4bjYwMTNiOGYtOUhxVnI2Z2VyX3RBcVZlcEpVUTducHByeXJsR1BTNDZQczYwWlRzOUdRS0lLUUtYenJaLUYtVUJqZ0hvcEhGSVl3QkVKY2dyeUJ5QUdyWTJucmkxSmhPanNpNU1nWWdiRUNrS2RUVl9OUGxHUDVXOGJvRmVndWNfbUxZaXZfeThpalNKeGQ0TjdGN1FTTy10ZkM3RDB6RUd0cVB1ZlhhZS03ONIByAJBVV95cUxNYjlyaDM5azhDSlZQandSYXNtQlVuQ2FKVzQtWFBlUFJBemVHa2hXZUxjXzNRQ2M4cFhoMERVZGQ1aExYSHNETlJhazlGcEtFemZmSk9sdGdKYVJ5V2xBWFdpalhjc3NQWkZQd2FpZHNxc3ZOOUpXZ1RwOVVrZWpIM1h3bjNHd19TNG1TemVMNDFPUV9OSHFIbnRrRXV4ZVVROUtpclRKUUpBTi04UDBzQnVjUURGVzJ1VU9yQXZNVER6WFNFZEJEZ1Fld21HS1Ric1ZPVjFuU3NzQkxkVlB3SmMwandUYVVFcVBGaTl5YVJzZUs1dHVYVDh3VFA0cFlNcmVFWmt5ZHA5TnE0M3hZY2ZDODVEc1pFa0VkRF90TU5VYlhrQ3VZVXJsREVFbGRVRTNJamwxdUlNaHFCTlowaERhSGlGMHd1?oc=5",
+    "fa": false,
+    "at": "2026-08-20T14:15+00:00",
+    "w": 5,
+    "wsrc": [
+     "إرم نيوز",
+     "jawlah.co",
+     "البيان",
+     "العربية"
+    ],
+    "he": "YouTube and Netflix Clash Over Content Creators",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "ثروة تتخطى نصف تريليون دولار.. من هي أغنى عائلة في العالم؟",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPdTMtSTlmSE9NMUwyQmRTZ1hNbTlGaVVwSHUwbFJDOTE0akFYMEVYWnhRWi1vTFlrMW1HbE1JZWFJY0w5RjV5WUNoZlRyZXluOGxDSDNILXNnNmloQmtnZ3JIMWpiUGZTRlhLLVZ2VTRjeUhPcXptcjBuZ2FZYzA1bXVrNXFacVkxcEdaLXZsSzZ6T2hOejN3ZElmUXB3Q0RwX1RPcEphQTRlRktZckhDbkJDSWV4czlqNzV5aEtXVVluZFQwa3RtMzFlenpzWTNmY0t5WVpQdXpiaFMwQUtOTndGUDI0Z2NGWDUzNXhPUVpCV0lSUDFYckN1YzVxWDZWTklMTXAzVV9lNUU0NXVsU1dQM2pJVk9Rd2RON00xUFQ4MUF3Z281TDNjLWJ5SkZONEtDLTNyN0xSZE12MnRxVzN4WGE4MTFwN21nVnZ2RTA3ZVkxVnBkSGNSZmI4aWN3ck8zRS1XTWxoSDIzZEdIRDJOdWpWNUhBSXlzbFl4Z3VMcUwtejZPeld6R09jZEI2eUFsX0ZERXJvcjU4aEtqbmlobkE5ZVlieWQ4Y0RJc051WmlZNWRoMlRmM0p5am43TkF4bjVYVXNRelgta0xHX01IUDJDQdIB2wNBVV95cUxQNTdWQUFuTl9PbjFOcktudjFsazQxTDJvb2Y1bFpFTGxiZFc2WG11d2gyYVkySEM3aTV2bWhPQk1jdkt0akdaOEhlMk5tVmRMc1EwZmViaXJzekpYYUtJdGhMODVfSGF2YlFMV0JSU0FLZ2lUeDZwOEQzZG0tX0tSWnp3NUpBYXNTX2xQeV8xSTF0Vl9mbFdRbzJlSU1GSmhhMklYVkhLR3NQaXpfR21FY29GdXRzc0dqckVhcnd5eE5yWnVhUE05bmxLd2E3MlcxZk5rSkZMejdrNzBTX3h3OXlBRkZkVnlWeEYyZ3d4ZkxpWk53ekk2eUQ2LWswYmtDZ2QtempoZV8zMU5NTEpJanY4MFNnNkVTS1VUQ25HNnRBUEFLWWRqR3pqMExGdzJKQlJPMnZwZ1ZtZ0FMdHdPSEs3ZkZ5R2FmYk14b2VGQVVEbl92SkNFS0lQdXJ4VThHTE9kYkJXOUFnMEpPS1FnS0RjeE5oNWdMTUt3YklVak9fbE94LWdLQnlLTnQtM0gwb3FOWVM4enp5eXhmZWdsZVpyTWFKb1pFclhTQW94TXVpb0xJQ2ZlUk82WWxJLXJLZ2xYVGcxV2JqcnpaZEx0dE03Z3ZqTUtvemlV?oc=5",
+    "fa": false,
+    "at": "2026-08-20T05:48+00:00",
+    "w": 2,
+    "wsrc": [
+     "صدى البلد"
+    ],
+    "he": "Fortune Surpasses Half a Trillion Dollars: Who Is the World's Richest Family?",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "أزمة تواجه أحدث مقاعد الطائرات الفاخرة.. والأسوأ لم يأتِ بعد",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1ZXZ0kzNzJ3NmJyMkRTYW9zZk93TVNsemRraWhqY0YzYlJHYVBWbXpPX3RMMFBjMDVLcVJyeV9DS3NTWUxYT2cwNnZRWUFRcWZTRURwTy02Vk1RcEJ5TFNBTWZNdHFOUE1VTGFja2k0Wkt5X3Rld0pxelFwV05uTUZDMUJxc1FRSXlTWjBUU0ttMGNFZ1hz0gGiAUFVX3lxTE9xVDBWZnhMNUZTaWFFSlpteV94THdyUGE4T1d4eWhoYmFUYUFUb3dWLXBsZzRnVWZWN25hU3p5SHNJTlB4VDBPN1M4dFFFcnltS191M2x0SWdva1BmYmhjQ3NweUQwMDhuTGlMcXpSaWlLazF3VU5icWZaa0dyd21ITVRmQjJkZmJhaFp3aWZYdjZrZWZlYkRvc1huSmRmZzREZw?oc=5",
+    "fa": false,
+    "at": "2026-08-20T09:22+00:00",
+    "he": "Airlines Face Crisis Over New Luxury Seats, with Worst Yet to Come",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "الحصار البحري الأمريكي خفض صادرات النفط الإيراني إلى الصين",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202608217046",
+    "fa": true,
+    "at": "2026-08-21T16:12+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/5dd55fcfeeac5a5c9d3827c4490b4899a252d82f-800x534.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "US Naval Blockade Curbs Iranian Oil Exports to China",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "رئيس الوزراء العراقي يعلن عن توافق سياسي على حصر السلاح وخطط لمضاعفة إنتاج النفط",
+    "src": "بي بي سي عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.bbc.com/arabic/articles/cn8n3j91zmpo?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-08-21T16:20+00:00",
+    "he": "Iraqi PM Announces Political Consensus on Arms Control and Plans to Double Oil Output",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "الجزائر: ضبط كمية قياسية من البريغابالين والكوكايين",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260821-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%B9%D9%84%D9%86-%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A9-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%BA%D8%A7%D8%A8%D8%A7%D9%84%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86",
+    "fa": false,
+    "at": "2026-08-21T15:02+00:00",
+    "img": "https://s.france24.com/media/display/bf45d966-9d70-11f1-b69c-005056a90284/w:1024/p:16x9/Montage-916-00-00-01-00-Still042.jpg",
+    "he": "Algeria Seizes Record Quantities of Pregabalin and Cocaine",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "أوقية الذهب فوق 4600 دولار بدعم ضعف الدولار",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/ebusiness/2026/8/21/gold-ounce-dollar?traffic_source=rss",
+    "fa": false,
+    "at": "2026-08-21T14:49+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "بعد خسارة قضية أمام المحاكم.. الأمير هاري مطالب بدفع ملايين",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://www.skynewsarabia.com/varieties/1887344-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1-%D9%87%D8%A7%D8%B1%D9%8A-%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AF%D9%81%D8%B9-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86",
+    "fa": false,
+    "at": "2026-08-21T15:02+00:00",
+    "img": "https://images.skynewsarabia.com/images/v1/2026/08/21/1887343/95/53/1-1887343.jpg",
+    "via": "قناة إخبارية إماراتية بريطانية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   }
+  ]
+ },
+ "intel": {
+  "war": "",
+  "since": "",
+  "toll": [],
+  "brk": [],
+  "disabled": 1,
+  "updated": "2026-08-21T18:39+00:00"
+ },
+ "forecast": {
+  "horizon": "الـ12 ساعة القادمة",
+  "signals": [
+   {
+    "q": "لا محادثات أو محادثات مخططة مع إيران والحصار البحري ساري",
+    "who": "دونالد ترامب",
+    "w": "عالٍ",
+    "u": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal"
+   },
+   {
+    "q": "كل التبادلات التجارية والمالية مع إيران توقفت حتى إشعار آخر",
+    "who": "أفرا الحميلي مديرة الاتصالات الاستراتيجية بوزارة الخارجية الإماراتية",
+    "w": "عالٍ",
+    "u": "https://www.wam.ae/a/17dq6gh"
+   },
+   {
+    "q": "سنرد فورا وحاسما على أي خرق أمريكي للمذكرة",
+    "who": "إسماعيل بقائي المتحدث باسم الخارجية الإيرانية",
+    "w": "متوسط",
+    "u": "https://www.kurdistan24.net/en/story/923056"
+   },
+   {
+    "q": "اتصال بين وزيري خارجية عمان وإيران حول استئناف الحوار ومضيق هرمز",
+    "who": "وزارة الخارجية العمانية",
+    "w": "متوسط",
+    "u": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal"
+   },
+   {
+    "q": "إيران ترفض ادعاء ترامب بطلب تأجيل الضربات وتؤكد الاستعداد العسكري",
+    "who": "وكالة مهر الإيرانية نقلا عن مسؤولين عسكريين",
+    "w": "متوسط",
+    "u": "https://www.kurdistan24.net/en/story/929863"
+   }
+  ],
+  "scenarios": [
+   {
+    "s": "استمرار الجمود مع تصريحات متبادلة وإجراءات اقتصادية إضافية دون تصعيد عسكري أو فتح كامل للمضيق",
+    "p": 55,
+    "why": "يتوافق مع السابقة التاريخية لعام 2019 حيث فرضت عقوبات وتوقفت التجارة الخليجية دون مواجهة مباشرة",
+    "watch": "إعلان إجراءات إماراتية أو سعودية إضافية أو بيان ترامب جديد"
+   },
+   {
+    "s": "تصعيد إعلامي واقتصادي مع تأجيل أي اتفاق وتهديدات متزايدة من الجانبين",
+    "p": 35,
+    "why": "يطابق السابقة التاريخية لتصعيد 2020 بعد اغتيال سليماني حيث زادت التهديدات والعقوبات قبل أي تهدئة",
+    "watch": "بيان ترامب عن ضربات أو رفض إيراني صريح للمحادثات"
+   },
+   {
+    "s": "إعلان إطار تفاهم جزئي يشمل ضمانات محدودة حول الشحن مقابل وقف التصعيد الراهن",
+    "p": 10,
+    "why": "يتوافق مع السابقة التاريخية لاتفاقات التهدئة المؤقتة في 2013-2015 حول النووي",
+    "watch": "بيان مشترك عماني إيراني أو أمريكي إيراني حول الملاحة"
+   }
+  ],
+  "review": [
+   {
+    "s": "استمرار الجمود مع تصريحات متبادلة وتهديدات إعلامية دون تصعيد عسكري مباشر أو فتح المضيق",
+    "r": "جزئيًا",
+    "note": "حدث تصعيد اقتصادي إماراتي واستمرت التصريحات دون عسكري"
+   },
+   {
+    "s": "تصعيد إعلامي واقتصادي مع تأجيل أي اتفاق وتهديدات متزايدة من الجانبين",
+    "r": "وقع",
+    "note": "توقف التبادل الإماراتي وتصريحات ترامب المتشددة"
+   },
+   {
+    "s": "إعلان إطار تفاهم جزئي يشمل ضمانات محدودة حول الشحن مقابل وقف التصعيد الراهن",
+    "r": "لم يقع",
+    "note": "لا إعلان تفاهم أو ضمانات شحن"
+   }
+  ],
+  "caveat": "هذا استقراء احتمالي لا يقين ويعتمد على بيانات عامة وقد يتغير بسرعة",
+  "history": [
+   {
+    "t": "2026-08-19T13:44+00:00",
+    "s": "استمرار الجمود مع تصريحات متبادلة وتهديدات إعلامية دون فتح فوري للمضيق",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-08-19T13:44+00:00",
+    "s": "تصعيد إعلامي متزايد مع تهديدات متبادلة وتأجيل أي اتفاق أمني",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-19T13:44+00:00",
+    "s": "إعلان إطار تفاهم جزئي يشمل وقف تصعيد مقابل ضمانات أمنية محدودة",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-08-19T19:50+00:00",
+    "s": "استمرار الجمود مع تصريحات متبادلة وتهديدات إعلامية دون فتح فوري للمضيق",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-08-19T19:50+00:00",
+    "s": "تصعيد إعلامي متزايد مع تهديدات متبادلة وتأجيل أي اتفاق أمني",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-19T19:50+00:00",
+    "s": "إعلان إطار تفاهم جزئي يشمل وقف تصعيد مقابل ضمانات أمنية محدودة",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-08-20T02:38+00:00",
+    "s": "استمرار الجمود مع تصريحات متبادلة وتهديدات إعلامية دون فتح فوري للمضيق",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-08-20T02:38+00:00",
+    "s": "تصعيد إعلامي متزايد مع تهديدات متبادلة وتأجيل أي اتفاق أمني",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-20T02:38+00:00",
+    "s": "إعلان إطار تفاهم جزئي يشمل وقف تصعيد مقابل ضمانات أمنية محدودة",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-08-20T09:34+00:00",
+    "s": "استمرار الجمود مع تصريحات متبادلة وتهديدات اقتصادية وإعلامية دون فتح ف",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-08-20T09:34+00:00",
+    "s": "تصعيد إعلامي واقتصادي متزايد مع تهديدات متبادلة وتأجيل أي اتفاق أمني",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-20T09:34+00:00",
+    "s": "إعلان إطار تفاهم جزئي يشمل وقف تصعيد مقابل ضمانات أمنية محدودة",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-08-20T16:34+00:00",
+    "s": "استمرار الجمود مع تصريحات متبادلة وتهديدات اقتصادية دون فتح فوري للمضي",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-08-20T16:34+00:00",
+    "s": "تصعيد إعلامي واقتصادي متزايد مع تهديدات متبادلة وتأجيل أي اتفاق أمني",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-20T16:34+00:00",
+    "s": "إعلان إطار تفاهم جزئي يشمل وقف تصعيد مقابل ضمانات أمنية محدودة",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-08-20T22:57+00:00",
+    "s": "استمرار الجمود مع تصريحات متبادلة وتهديدات اقتصادية دون فتح فوري للمضي",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-20T22:57+00:00",
+    "s": "تصعيد إعلامي واقتصادي متزايد مع تهديدات متبادلة وتأجيل أي اتفاق أمني",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-20T22:57+00:00",
+    "s": "إعلان إطار تفاهم جزئي يشمل وقف تصعيد مقابل ضمانات أمنية محدودة",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-08-21T05:31+00:00",
+    "s": "استمرار الجمود مع تصريحات متبادلة وهجمات محدودة بالوكالة دون فتح المضي",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-08-21T05:31+00:00",
+    "s": "تصعيد إعلامي واقتصادي متزايد مع تهديدات متبادلة وتأجيل أي اتفاق أمني",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-21T05:31+00:00",
+    "s": "إعلان إطار تفاهم جزئي يشمل وقف تصعيد مقابل ضمانات أمنية محدودة",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-08-21T11:54+00:00",
+    "s": "استمرار الجمود مع تصريحات متبادلة وتهديدات إعلامية دون تصعيد عسكري مبا",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-08-21T11:54+00:00",
+    "s": "تصعيد إعلامي واقتصادي مع تأجيل أي اتفاق وتهديدات متزايدة من الجانبين",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-08-21T11:54+00:00",
+    "s": "إعلان إطار تفاهم جزئي يشمل ضمانات محدودة حول الشحن مقابل وقف التصعيد ا",
+    "r": "لم يقع"
+   }
+  ],
+  "score": {
+   "n": 24,
+   "hit": 7,
+   "partial": 9,
+   "acc": 48
+  },
+  "updated": "2026-08-21T17:58+00:00"
+ },
+ "council": {
+  "checked": 135,
+  "flags": [
+   {
+    "h": "ملعب قلعة حسن خان، في غياب ملعب أزادي، يستضيف استقلال وبرسبوليس في الموسم الجديد من الدوري الممتاز",
+    "issue": "خبر رياضي محلي خارج نطاق تغطية المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "برونو غيماريش ينضم إلى أرسنال بعقد بقيمة 75 مليون جنيه إسترليني",
+    "issue": "خبر رياضي وانتقالات كروية خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "الإمارات تُدين بأشد العبارات استهداف ناقلة تابعة لأدنوك",
+    "issue": "خبر خليجي متعلق بالإمارات موضعه قسم الخليج",
+    "action": "أُقرّ"
+   },
+   {
+    "h": "البث الإسرائيلية: ضغوط أميركية لوقف النار في غزة لمدة أسبوعين لنزع سلاح حماس",
+    "issue": "خبر يخص الشأن الفلسطيني وموضعه قسم فلسطين",
+    "action": "أُقرّ"
+   },
+   {
+    "h": "بهدف وضع «الخطوط العريضة».. واشنطن تضغط على إسرائيل بشأن غزة",
+    "issue": "خبر عن الحرب في غزة وموضعه قسم فلسطين",
+    "action": "أُقرّ"
+   },
+   {
+    "h": "لماذا رفضت إسرائيل اتفاق غزة بينما قبلته حماس؟",
+    "issue": "تحليل حول غزة وموضعه قسم فلسطين",
+    "action": "أُقرّ"
+   },
+   {
+    "h": "«لعينيك فقط».. كيف سرب موظف أممي وثائق سرية عن غزة لإسرائيل؟",
+    "issue": "خبر يتعلق بغزة وموضعه قسم فلسطين",
+    "action": "أُقرّ"
+   },
+   {
+    "h": "هل يعود صاحب «الحذاء الأخضر» من إيفرست بعد 30 عاماً على وفاته؟",
+    "issue": "مادة غرائب وإثارة خارج نطاق تغطية المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "مورينيو يفرض 3 قواعد صارمة على لاعبي ريال مدريد",
+    "issue": "خبر رياضي كروي خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "أزمة النفايات في نواكشوط.. مشكلات صحية وبيئية تؤرق المواطن",
+    "issue": "شأن بلدي محلي أجنبي لا صلة له بالأزمة الإقليمية",
+    "action": "حُذف"
+   },
+   {
+    "h": "مصر.. فيديو لشخص يتعدى على والدته وشقيقته والداخلية تكشف تفاصيل",
+    "issue": "جريمة فردية ومادة إثارة اجتماعية خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "الديدان الخارقة.. حل غير متوقع وأرخص لتنظيف هياكل الحيوانات العظمية في المتاحف",
+    "issue": "مادة طرائف وعلمية طريفة خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "«كلنا صوت مصر».. حفل شيرين بالساحل الشمالي يحظى باهتمام كبير رغم المنافسة",
+    "issue": "خبر ترفيه وأخبار مشاهير خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "سيميوني يعلن عن قرار حاسم اتخذته إدارة نادي أتلتيكو بشأن مستقبل ألفاريز",
+    "issue": "خبر رياضي خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "بعيد ميلاده الخامس.. باندا عملاقة يحتفل بكعكة من التفاح والأناناس",
+    "issue": "مادة تسلية وطرائف خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "ليفربول على أعتاب ضم قائد برشلونة على سبيل الإعارة",
+    "issue": "خبر رياضي وانتقالات كرة القدم خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "علماء يكشفون عن أقصى عمر للإنسان في حال علاج الشيخوخة",
+    "issue": "نصائح وموضوعات استهلاكية أو طبية عامة خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "فضيحة الانتحال في كامبريدج تكشف تشددا أكبر تجاه الأكاديميين السود",
+    "issue": "شأن أكاديمي محلي أجنبي لا صلة له بنطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "الحقيقة وراء انتقال محمد صلاح إلى رابع أكبر أندية تركيا",
+    "issue": "خبر رياضي وشائعات انتقالات خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "«يويفا» يستمر بمقاطعة «فيفا» ويحتفظ بسلاح أقوى ضد إنفانتينو",
+    "issue": "أخبار رياضية ومؤسسات كروية خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "أسباب تعاقد أرسنال مع غيمارايش وكيف ينسجم مع خطة أرتيتا",
+    "issue": "تحليل رياضي كروي خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "«فيتش» تؤكد التصنيف الائتماني للكويت عند «AA-» مع نظرة مستقبلية مستقرة",
+    "issue": "تكرار تام لخبر تصنيف الكويت الائتماني في نفس القسم",
+    "action": "حُذف"
+   },
+   {
+    "h": "وزارة الداخلية تنفي إصدار نموذج جديد لرخص القيادة بعد أسبوع",
+    "issue": "مادة أرشيفية قديمة جداً تعود لعام 2019",
+    "action": "حُذف"
+   },
+   {
+    "h": "وفاة والد ميسي عن 68 عاما بعد صراع مع المرض",
+    "issue": "أخبار مشاهير ورياضة خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "اكتشاف نوع جديد من الضفادع في كوستاريكا",
+    "issue": "مادة غرائب وعلمية محلية خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "الأدوية المهدرة في إنجلترا يمكن أن تملأ 75 حمام سباحة سنويا",
+    "issue": "شأن محلي صحي أجنبي خارج نطاق المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "الكويت تؤكد جاهزيتها الكاملة للطوارئ وتدعو لعدم الانسياق وراء الشائعات",
+    "issue": "مادة أرشيفية قديمة تعود لشهر مارس 2026",
+    "action": "حُذف"
+   },
+   {
+    "h": "الأمير: تكثيف الجهود لمزيد من البطولات",
+    "issue": "مادة أرشيفية قديمة وخبر رياضي تعود لشهر يونيو 2026",
+    "action": "حُذف"
+   },
+   {
+    "h": "الأمير: تكثيف الجهود لرفع راية الكويت عالياً",
+    "issue": "مادة أرشيفية مكررة تعود لشهر يونيو 2026",
+    "action": "حُذف"
+   },
+   {
+    "h": "مجلس الوزراء يوافق على مشروع مرسوم بقانون بتعديل قانون الجنسية",
+    "issue": "مادة أرشيفية قديمة تعود لشهر فبراير 2026",
+    "action": "حُذف"
+   },
+   {
+    "h": "سمو رئيس مجلس الوزراء يتفقد ملجأ الطوارئ بالنادي الكويتي الرياضي للصم",
+    "issue": "مادة أرشيفية قديمة تعود لشهر مارس 2026",
+    "action": "حُذف"
+   },
+   {
+    "h": "عقد الاجتماع التنسيقي للجنة متابعة تنفيذ اللوائح الصحية الدولية 2005 مع مركز مجلس التعاون لإدارة حالات الطوارئ،",
+    "issue": "مادة أرشيفية قديمة تعود لشهر يناير 2026",
+    "action": "حُذف"
+   },
+   {
+    "h": "طيران الجزيرة: استئناف رحلاتنا من الكويت.. الأحد المقبل",
+    "issue": "مادة أرشيفية قديمة تعود لشهر أبريل 2026",
+    "action": "حُذف"
+   },
+   {
+    "h": "«الدفاع»: رصد عدد من المسيّرات المعادية داخل المجال الجوي الكويتي فجر اليوم",
+    "issue": "مادة أرشيفية قديمة تعود لشهر مايو 2026",
+    "action": "حُذف"
+   },
+   {
+    "h": "علماء يستخدمون الذكاء الاصطناعي لإنشاء فيروسات جديدة",
+    "issue": "تكرار لخبر ابتكار الفيروسات بالذكاء الاصطناعي في نفس القسم",
+    "action": "حُذف"
+   },
+   {
+    "h": "إنجاز مثير للجدل.. الذكاء الاصطناعي يبتكر فيروسات جديدة",
+    "issue": "تكرار آخر لخبر إنشاء الفيروسات بالذكاء الاصطناعي",
+    "action": "حُذف"
+   },
+   {
+    "h": "للمرة الأولى: الذكاء الاصطناعي يصمم فيروسات جديدة قابلة للتكاثر مخبرياً",
+    "issue": "تكرار لخبر تصميم الفيروسات بالذكاء الاصطناعي",
+    "action": "حُذف"
+   },
+   {
+    "h": "«OpenAI» تعلن إصدار نموذج جديد للذكاء الاصنطاعي وتتيحه مجانا",
+    "issue": "مادة أرشيفية قديمة تعود لعام 2024",
+    "action": "حُذف"
+   },
+   {
+    "h": "«ميتا» تؤجل إصدار نموذج الذكاء الاصطناعي «Behemoth»",
+    "issue": "مادة أرشيفية قديمة تعود لعام 2025",
+    "action": "حُذف"
+   },
+   {
+    "h": "«Moonshot» الصينية تعود لسباق الذكاء الاصطناعي بنموذج مفتوح المصدر",
+    "issue": "مادة أرشيفية قديمة تعود لعام 2025",
+    "action": "حُذف"
+   },
+   {
+    "h": "هل يعترف به؟.. مفاجأة بشأن الطلبات القديمة التي لم تحصل على نموذج 10 للتصالح في مخالفات البناء",
+    "issue": "مادة عقارية قديمة وخارج نطاق القسم والمنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "5 طرق لاستضافة حفلة العشاء المثالية باستخدام Google Search",
+    "issue": "نصائح استهلاكية ومنزلية لا تناسب التغطية الإخبارية والتقنية",
+    "action": "حُذف"
+   }
+  ],
+  "verdict": "تم فحص ١٣٥ مادة إخبارية واستبعاد المواد الرياضية والترفيهية والجرائم الفردية والمواد الأرشيفية القديمة والمكررة مع إعادة توجيه الأخبار ذات الصلة إلى أقسامها المخصصة.",
+  "applied": {
+   "removed": 31,
+   "downgraded": 0
+  },
+  "rules_v": 551,
+  "updated": "2026-08-08T14:16+00:00"
+ }
+}

@@ -1,7 +1,63 @@
 {
- "updated": "2026-08-16T14:21+00:00",
- "n": 23,
+ "updated": "2026-08-24T20:52+00:00",
+ "n": 31,
  "columns": [
+  {
+   "date": "2026-08-24",
+   "head": "حسابات الاستقرار وسط عواصف الإقليم",
+   "head_en": "Calculations of Stability Amid Regional Storms",
+   "src_n": 12,
+   "updated": "2026-08-24T20:37+00:00"
+  },
+  {
+   "date": "2026-08-23",
+   "head": "بين ثبات التنمية وحسابات الإقليم المعقدة",
+   "head_en": "Between the Steadfastness of Development and Complex Regional Calculations",
+   "src_n": 12,
+   "updated": "2026-08-22T21:21+00:00"
+  },
+  {
+   "date": "2026-08-22",
+   "head": "إقليم يموج بين الدبلوماسية والتأزم",
+   "head_en": "A Region Wavering Between Diplomacy and Crisis",
+   "src_n": 12,
+   "updated": "2026-08-21T21:23+00:00"
+  },
+  {
+   "date": "2026-08-21",
+   "head": "حسابات الاقتصاد وارتدادات التوتر الإقليمي",
+   "head_en": "Economic Calculations and the Repercussions of Regional Tensions",
+   "src_n": 12,
+   "updated": "2026-08-20T21:26+00:00"
+  },
+  {
+   "date": "2026-08-20",
+   "head": "حافة التوتر وحسابات الاستقرار الإقليمي",
+   "head_en": "On the Brink of Tension and the Calculations of Regional Stability",
+   "src_n": 12,
+   "updated": "2026-08-19T21:24+00:00"
+  },
+  {
+   "date": "2026-08-19",
+   "head": "حافة الهاوية وضبابية المشهد الإقليمي",
+   "head_en": "On the Brink of the Abyss: The Fog of the Regional Landscape",
+   "src_n": 12,
+   "updated": "2026-08-18T21:23+00:00"
+  },
+  {
+   "date": "2026-08-18",
+   "head": "حكمة الخليج في مواجهة العواصف",
+   "head_en": "Gulf Wisdom in the Face of the Storm",
+   "src_n": 12,
+   "updated": "2026-08-17T21:25+00:00"
+  },
+  {
+   "date": "2026-08-17",
+   "head": "دبلوماسية التوازن وحسابات الاستقرار الإقليمي",
+   "head_en": "The Diplomacy of Balance and the Calculus of Regional Stability",
+   "src_n": 12,
+   "updated": "2026-08-16T21:19+00:00"
+  },
   {
    "date": "2026-08-16",
    "head": "توازن الردع ومسارات البناء الإقليمي",
