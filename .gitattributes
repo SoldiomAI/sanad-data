@@ -1,0 +1,12 @@
+# الوسائط ثنائية — لا فرق أسطر ولا دمج نصي
+*.mp3 binary
+*.mp4 binary
+*.wav binary
+*.jpg binary
+*.png binary
+*.webp binary
+
+# JSON بالمعيار الموحد
+*.json text eol=lf
+*.txt  text eol=lf
+*.md   text eol=lf
