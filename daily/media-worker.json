@@ -7,9 +7,9 @@
     "video",
     "audio"
   ],
-  "deployed_at": "2026-09-10T06:57:11.985420+00:00",
-  "version": "313d69aabaa172258f656d6afe1aad0f5c39e22b",
-  "model": "gemini-2.5-flash",
+  "deployed_at": "2026-09-10T07:12:19.688597+00:00",
+  "version": "9376308e200f9defa860ceef946eadea89522cae",
+  "model": "gemini-flash-latest",
   "authentication": "vercel_oidc_production",
   "analysis_limit_bytes": 6291456
 }
