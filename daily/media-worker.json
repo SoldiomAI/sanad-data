@@ -1,0 +1,15 @@
+{
+  "ready": true,
+  "endpoint": "https://aliaiml-sanad-media-forensics.hf.space/analyze",
+  "health": "https://aliaiml-sanad-media-forensics.hf.space/health",
+  "capabilities": [
+    "image",
+    "video",
+    "audio"
+  ],
+  "deployed_at": "2026-09-10T06:57:11.985420+00:00",
+  "version": "313d69aabaa172258f656d6afe1aad0f5c39e22b",
+  "model": "gemini-2.5-flash",
+  "authentication": "vercel_oidc_production",
+  "analysis_limit_bytes": 6291456
+}
