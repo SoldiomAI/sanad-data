@@ -1,32 +1,15 @@
 {
- "updated": "2026-10-10T18:47+00:00",
+ "updated": "2026-10-10T22:15+00:00",
  "cats": {
-  "الخليج": [
+  "عالم": [
    {
-    "head": "شاهدان: إصابة عدد كبير من الأشخاص في انفجار بمطار الرياض",
-    "src": "Reuters",
-    "grade": "صحيح",
-    "link": "https://www.reuters.com/ar/world/FKJ2HVOEJ5OHVNIRUNIBA3POGI-2026-10-10/",
-    "fa": false,
-    "at": "2026-10-10T15:53+00:00",
-    "he": "Witnesses: Large Number of People Injured in Riyadh Airport Explosion",
-    "isnad": {
-     "الاتصال": 2,
-     "عدالة المصدر": 2,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 6
-   },
-   {
-    "head": "السعودية.. الداخلية تعلن إعدام سوداني \"قصاصًا\" بتهمة قتل مواطن سعودي",
+    "head": "مصر تصدر بيانًا بعد إعلان السعودية تعرض مطار الملك خالد لاعتداءات",
     "src": "CNN Arabic",
     "grade": "حسن",
-    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/ksa-moi-sudanese-man-executed-killing-a-saudi",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/egypt-issues-a-statement-after-saudi-arabia-announced-that-king-khalid-airport",
     "fa": false,
-    "at": "2026-10-10T15:59+00:00",
-    "he": "Saudi Arabia: Interior Ministry Announces Execution of Sudanese National for Murder of Saudi Citizen",
+    "at": "2026-10-10T18:45+00:00",
+    "he": "Egypt Issues Statement After Saudi Arabia Announces Attacks on King Khalid Airport",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -37,66 +20,32 @@
     "score": 4
    },
    {
-    "head": "السعودية تعلن تنفيذ عملية عسكرية واسعة ضد الحوثيين في اليمن",
+    "head": "إسرائيل تعلن استهداف أفراد من حماس والجهاد الإسلامي في غزة",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/news/2026/10/10/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%82%D8%AA%D9%84%D9%86%D8%A7-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B3%D8%B1%D9%8A%D8%A9",
+    "fa": false,
+    "at": "2026-10-10T22:07+00:00",
+    "img": "https://www.aljazeera.net/wp-content/uploads/2026/10/5546-1791484485.jpg?resize=1920%2C1440",
+    "he": "Israel Announces Targeting of Hamas and Islamic Jihad Operatives in Gaza",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "6 قتلى فلسطينيين برصاص إسرائيلي في غزة",
     "src": "سكاي نيوز عربية",
     "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/middle-east/1897500-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
+    "link": "https://www.skynewsarabia.com/middle-east/1897543-6-%D9%82%D8%AA%D9%84%D9%89-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%BA%D8%B2%D8%A9",
     "fa": false,
-    "at": "2026-10-09T21:38+00:00",
-    "img": "https://www.skynewsarabia.com/images/v2/2020/07/09/1359616/1200/630/1-1359616.jpeg",
-    "he": "Saudi Arabia Announces Large-Scale Military Operation Against Houthis in Yemen",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "السعودية تدعو مواطنيها الذين تأثرت رحلاتهم إلى التواصل مع بعثاتها الخارجية لطلب المساعدة",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://www.alarabiya.net/saudi-today/2026/10/10/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A%D9%86-%D8%AA%D8%A7%D8%AB%D8%B1%D8%AA-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%85%D8%B9-%D8%A8%D8%B9%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D9%84%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-",
-    "fa": false,
-    "at": "2026-10-10T16:46+00:00",
-    "he": "Saudi Arabia Urges Citizens Affected by Travel Disruptions to Contact Foreign Missions for Assistance",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "سلطنة عُمان تتضامن مع السعودية بعد هجمات الحوثيين..وترفض استهداف المنشآت المدنية",
-    "src": "CNN Arabic",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/oman-stands-in-solidarity-saudi-arabia-houthi-attacks-airports",
-    "fa": false,
-    "at": "2026-10-10T11:15+00:00",
-    "he": "Oman Expresses Solidarity With Saudi Arabia Following Houthi Attacks, Condemns Targeting of Civilian Facilities",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "الإمارات: مساعد طيار \"فلاي دبي\" خطط لهجوم انتحاري مستوحى من 11 سبتمبر",
-    "src": "BBC",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/arabic/articles/cm87zd1rz914o",
-    "fa": false,
-    "at": "2026-10-09T20:46+00:00",
-    "img": "https://ichef.bbci.co.uk/news/1200/branded_arabic/0a29/live/aa526de0-c407-11f1-838e-6d1d6d701264.jpg",
-    "he": "UAE: Flydubai First Officer Plotted 9/11-Inspired Suicide Attack",
+    "at": "2026-10-10T11:40+00:00",
+    "img": "https://www.skynewsarabia.com/images/v1/2026/10/03/1896040/1200/630/1-1896040.jpg",
+    "he": "6 Palestinians Killed by Israeli Fire in Gaza",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -107,37 +56,19 @@
     "score": 4
    },
    {
-    "head": "موفد \"العربية\" يرافق قوات العمالقة في عمليات تطهير باب المندب",
-    "src": "العربية",
+    "head": "أول تعليق لترامب على استهداف الحوثيين لمطار الملك خالد",
+    "src": "CNN Arabic",
     "grade": "حسن",
-    "link": "https://www.alarabiya.net/arab-and-world/yemen/2026/10/10/%D9%85%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%B1%D8%A7%D9%81%D9%82-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D9%82%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%B7%D9%87%D9%8A%D8%B1-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/trump-says-hes-not-happy-about-deadly-attack-on-saudi-airport",
     "fa": false,
-    "at": "2026-10-10T11:01+00:00",
+    "at": "2026-10-10T17:27+00:00",
     "w": 5,
     "wsrc": [
      "سكاي نيوز عربية",
-     "CNN Arabic",
-     "الشرق الأوسط"
+     "اليوم السابع",
+     "بوابة الأهرام"
     ],
-    "he": "Al Arabiya Correspondent Accompanies Giants Brigades in Bab al-Mandab Clearing Operations",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "لماذا تشعر إيران بالقلق إزاء توسع العلاقات بين إسرائيل والإمارات؟",
-    "src": "بي بي سي فارسي",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/persian/articles/c58jzyj7nnnpo?at_medium=RSS&at_campaign=rss",
-    "fa": true,
-    "at": "2026-10-10T05:59+00:00",
-    "he": "Why Iran Is Concerned About Expanding Israel-UAE Ties",
-    "via": "هيئة بث بريطانية عامة",
+    "he": "Trump's First Comments on Houthi Attack on King Khalid Airport",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -148,14 +79,153 @@
     "score": 4
    },
    {
-    "head": "الهجوم على مطار الرياض؛ ترامب يعلن دراسة انضمام الولايات المتحدة إلى حرب السعودية ضد الحوثيين",
+    "head": "إريتريا تطالب مجلس الأمن بـ \"إدانة إعلان الحرب\" من إثيوبيا",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://www.alarabiya.net/arab-and-world/2026/10/10/%D8%A7%D8%B1%D9%8A%D8%AA%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%A8%D9%80-%D8%A7%D8%AF%D8%A7%D9%86%D8%A9-%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7",
+    "fa": false,
+    "at": "2026-10-10T14:07+00:00",
+    "w": 5,
+    "wsrc": [
+     "سكاي نيوز عربية",
+     "الشرق الأوسط",
+     "بوابة الأهرام",
+     "مونت كارلو الدولية"
+    ],
+    "he": "Eritrea Urges UN Security Council to Condemn Ethiopia's 'Declaration of War'",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "لماذا يعد فوز نافي بيلاي بنوبل للسلام \"انتكاسة لإسرائيل\"؟",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://www.skynewsarabia.com/world/1897548-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9%D8%AF-%D9%81%D9%88%D8%B2-%D9%86%D8%A7%D9%81%D9%8A-%D8%A8%D9%8A%D9%84%D8%A7%D9%8A-%D8%A8%D9%86%D9%88%D8%A8%D9%84-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D8%AA%D9%83%D8%A7%D8%B3%D8%A9-%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+    "fa": false,
+    "at": "2026-10-10T13:14+00:00",
+    "img": "https://www.skynewsarabia.com/images/v1/2026/10/10/1897547/1200/630/1-1897547.jpeg",
+    "w": 5,
+    "wsrc": [
+     "الجزيرة نت",
+     "بوابة الشروق",
+     "اليوم السابع",
+     "مونت كارلو الدولية"
+    ],
+    "he": "Why Navi Pillay's Nobel Peace Prize Is Considered a 'Setback for Israel'",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "روسيا وأوكرانيا: قتل 15 شخصاً على الأقل في هجوم روسي بقنابل انزلاقية على زابوروجيا",
+    "src": "BBC",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/arabic/articles/c6qxn9p0gzqzo",
+    "fa": false,
+    "at": "2026-10-10T13:51+00:00",
+    "img": "https://ichef.bbci.co.uk/news/1200/branded_arabic/d1a1/live/670ab940-c4a5-11f1-ac13-6da90f5ff039.jpg",
+    "w": 5,
+    "wsrc": [
+     "مونت كارلو الدولية",
+     "اليوم السابع",
+     "سكاي نيوز عربية",
+     "بوابة الشروق"
+    ],
+    "he": "Russia-Ukraine: At Least 15 Killed in Russian Glide Bomb Attack on Zaporizhzhia",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "Asana تخفض تكاليف النماذج بمقدار 76 ضعفاً في اختبارات المتصفح باستخدام GPT-6.1 Sol",
+    "src": "أوبن إيه آي",
+    "grade": "صحيح",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "fa": false,
+    "at": "2026-10-09T07:00+00:00",
+    "en": true,
+    "he": "Asana Cuts Model Costs 76-Fold in Browser Tests with GPT-6.1 Sol",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 7
+   },
+   {
+    "head": "بعد ارتفاع الدولار.. كيف تتحرك العملات العربية أمام الجنيه المصري؟",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://www.alarabiya.net/aswaq/egypt-economy/2026/10/09/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-",
+    "fa": false,
+    "at": "2026-10-09T11:36+00:00",
+    "w": 5,
+    "wsrc": [
+     "صدى البلد",
+     "جريدة الطريق",
+     "بوابة أخبار اليوم الإلكترونية",
+     "شبكة تواصل الإخبارية"
+    ],
+    "he": "Following Dollar Surge: How Arab Currencies Are Moving Against Egyptian Pound",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "\"لا وصول للأموال\".. عندما يتعطل أهم تطبيق \"بنكي\" بالسودان",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://www.alarabiya.net/arab-and-world/sudan/2026/10/09/%D9%84%D8%A7-%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%87%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83%D9%8A-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
+    "fa": false,
+    "at": "2026-10-09T05:46+00:00",
+    "w": 3,
+    "wsrc": [
+     "Radio Dabanga",
+     "سودان اندبندنت"
+    ],
+    "he": "'No Access to Funds': Sudan's Premier Banking App Goes Down",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "دونالد ترامب: حان الوقت لكي يكون لأوكرانيا رئيس جديد",
     "src": "إيران إنترناشونال",
     "grade": "حسن",
-    "link": "https://www.iranintl.com/202610100051",
+    "link": "https://www.iranintl.com/202610100018",
     "fa": true,
-    "at": "2026-10-10T17:46+00:00",
-    "img": "https://i.iranintl.com/images/rdk9umy0/production/9e51f378a230e2f8083484028466c6481c3f63a6-447x800.jpg?rect=0,283,447,234&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
-    "he": "Riyadh Airport Strike: Trump Says US Considering Joining Saudi War Against Houthis",
+    "at": "2026-10-10T19:28+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/0be7e2760f3562b601bf92392c563cf99cddcdbe-3835x2557.jpg?rect=458,0,2261,1183&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Donald Trump: Time for Ukraine to Have a New President",
     "via": "قناة فارسية مقرّها لندن",
     "isnad": {
      "الاتصال": 1,
@@ -167,32 +237,103 @@
     "score": 3
    },
    {
-    "head": "لماذا تشعر إيران بالقلق من تعمق العلاقات بين إسرائيل والإمارات؟",
+    "head": "مقتل 12 شخصاً على الأقل وإصابة 309 آخرين في انفجار بمطار الملك خالد بالرياض، وترامب يقول إنه سيقرر \"سريعاً\" بشأن ضرب جماعة أنصار الله الحوثية",
     "src": "بي بي سي عربي",
     "grade": "حسن",
-    "link": "https://www.bbc.com/arabic/articles/cje36ngpr2w0o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/arabic/live/cmwyvjrxyxgdt?at_medium=RSS&at_campaign=rss",
     "fa": false,
-    "at": "2026-10-10T11:00+00:00",
-    "he": "Why Iran Is Wary of Deepening Israel-UAE Relations",
+    "at": "",
+    "he": "At Least 12 Killed, 309 Injured in Riyadh Airport Blast; Trump to Decide 'Quickly' on Striking Houthis",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "\"كل يوم هناك قتلى\": غزيون يواجهون غارات إسرائيلية رغم وقف إطلاق النار، مع تعثر اتفاق سلام",
+    "src": "بي بي سي عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.bbc.com/arabic/articles/c617kev1nv8lo?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-10-10T13:16+00:00",
+    "he": "'People Die Every Day': Gazans Face Israeli Strikes Despite Ceasefire as Peace Deal Stalls",
     "via": "هيئة بث بريطانية عامة",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 0,
      "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "مقتل 15 شخصاً على الأقل في هجوم روسي بقنابل انزلاقية على زابوريجيا",
+    "src": "بي بي سي عربي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/arabic/articles/c6qxn9p0gzqzo?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-10-10T13:45+00:00",
+    "he": "At Least 15 Killed in Russian Glide Bomb Strike on Zaporizhzhia",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
      "عدم الشذوذ": 1,
      "انتفاء العلة": 1
     },
-    "score": 3
+    "score": 4
    },
    {
-    "head": "مبارك آل عاتي : \" لابد من استمرار عملية \"فجر اليمن\" الى أن تؤدي هدفها الأسمى\"",
+    "head": "\"أمريكا على طريق الدستوبيا: عندما تصبح عقوبة الإعدام عرضاً تلفزيونياً\"- مقال في الاندبندنت",
+    "src": "بي بي سي عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.bbc.com/arabic/articles/c6d93qvy1wkko?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-10-10T12:23+00:00",
+    "he": "'America on Dystopian Path: When Death Penalty Becomes a TV Show' – The Independent",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "المتحدث السادس للرئيس ترامب، من هي كايتي زكريا؟",
+    "src": "بي بي سي عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.bbc.com/arabic/articles/cr89z7q59332o?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-10-10T09:12+00:00",
+    "he": "President Trump's Sixth Spokesperson: Who Is Katie Zakaria?",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "ترامب يقول إن أوكرانيا تحتاج إلى رئيس جديد بدلا عن زيلينسكي لإنهاء الحرب",
     "src": "فرانس ٢٤ عربي",
     "grade": "حسن",
-    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D9%85%D8%A8%D8%A7%D8%B1%D9%83-%D8%A2%D9%84-%D8%B9%D8%A7%D8%AA%D9%8A-%D9%84%D8%A7%D8%A8%D8%AF-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D9%89-%D8%A3%D9%86-%D8%AA%D8%A4%D8%AF%D9%8A-%D9%87%D8%AF%D9%81%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D9%89",
+    "link": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261010-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%B7%D8%A7%D9%82%D8%A9-%D8%A8%D8%AA%D8%B1%D9%88%D9%84-%D9%86%D9%81%D8%B7-%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
     "fa": false,
-    "at": "2026-10-10T17:19+00:00",
-    "img": "https://s.france24.com/media/display/0d3db498-c4ce-11f1-a472-53993c5f1f18/w:1024/p:16x9/Arabe-2026-10-10T16-08-42-094Z.jpg",
-    "he": "Mubarak Al-Ati: Operation 'Dawn of Yemen' Must Continue Until Ultimate Goal Is Achieved",
+    "at": "2026-10-10T19:13+00:00",
+    "img": "https://s.france24.com/media/display/fab193ce-c4cf-11f1-9652-e362370cce2e/w:1024/p:16x9/2026-10-10T164940Z-1973289526-RC2G0OAUYG7G-RTRMADP-3-USA-TRUMP.jpg",
     "via": "قناة دولية فرنسية عامة",
     "isnad": {
      "الاتصال": 1,
@@ -204,31 +345,13 @@
     "score": 3
    },
    {
-    "head": "السعودية: ما دلالات ضربات الحوثيين على مطارات الرياض؟",
-    "src": "فرانس ٢٤ عربي",
-    "grade": "حسن",
-    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D8%A7-%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
-    "fa": false,
-    "at": "2026-10-10T15:31+00:00",
-    "img": "https://s.france24.com/media/display/e97291ec-c4bd-11f1-948d-3774aeac812a/w:1024/p:16x9/AR-20261010-170708-171151-CS.jpg",
-    "via": "قناة دولية فرنسية عامة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "اليمن: معارك ضارية في محيط باب المندب",
+    "head": "إسبانيا: بيدرو سانشيز يطلق حملته الانتخابية واعدا بتعزيز حماية المستأجرين",
     "src": "فرانس ٢٤ عربي",
     "grade": "ضعيف الإسناد",
-    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D8%B1%D9%83-%D8%B6%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
+    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D9%8A%D8%AF%D8%B1%D9%88-%D8%B3%D8%A7%D9%86%D8%B4%D9%8A%D8%B2-%D9%8A%D8%B7%D9%84%D9%82-%D8%AD%D9%85%D9%84%D8%AA%D9%87-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D8%B9%D8%AF%D8%A7-%D8%A8%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%A3%D8%AC%D8%B1%D9%8A%D9%86",
     "fa": false,
-    "at": "2026-10-10T15:17+00:00",
-    "img": "https://s.france24.com/media/display/263fbad8-c4bd-11f1-861a-29a2e29ae696/w:1024/p:16x9/AR-20261010-170425-170658-CS.jpg",
+    "at": "2026-10-10T15:43+00:00",
+    "img": "https://s.france24.com/media/display/da383ab2-c4c0-11f1-aea4-77317c09f325/w:1024/p:16x9/AR-20261010-173151-173521-CS.jpg",
     "via": "قناة دولية فرنسية عامة",
     "isnad": {
      "الاتصال": 1,
@@ -240,14 +363,13 @@
     "score": 2
    },
    {
-    "head": "دعوة ترامب لتغيير زيلينسكي.. الكرملين يصفها بـ\"التاريخية\"",
-    "src": "سكاي نيوز عربية",
+    "head": "موعد مباراة السد ضد الهلال في دوري أبطال آسيا للنخبة والقنوات الناقلة",
+    "src": "الجزيرة نت",
     "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/world/1897599-%D8%AF%D8%B9%D9%88%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D9%85%D9%84%D9%8A%D9%86-%D9%8A%D8%B5%D9%81%D9%87%D8%A7-%D8%A8-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9",
+    "link": "https://www.aljazeera.net/sport/2026/10/11/%d9%85%d9%88%d8%b9%d8%af-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b3%d8%af-%d8%b6%d8%af-%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d9%81%d9%8a-%d8%af%d9%88%d8%b1%d9%8a?traffic_source=rss",
     "fa": false,
-    "at": "2026-10-10T18:29+00:00",
-    "img": "https://images.skynewsarabia.com/images/v1/2026/10/10/1897600/95/53/1-1897600.jpg",
-    "via": "قناة إخبارية إماراتية بريطانية",
+    "at": "2026-10-10T18:52+00:00",
+    "via": "شبكة إخبارية قطرية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -258,14 +380,64 @@
     "score": 4
    },
    {
-    "head": "الأمن السوري يعتقل \"حارس العاصمة\" في عهد الأسد",
-    "src": "سكاي نيوز عربية",
+    "head": "عاجل | مندوب سوريا الدائم لدى الأمم المتحدة للجزيرة: قرار مجلس الأمن يعد سابقة ويدعم سيادة سوريا على أراضيها",
+    "src": "الجزيرة نت",
     "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/middle-east/1897597-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%B9%D8%AA%D9%82%D9%84-%D8%AD%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+    "link": "https://www.aljazeera.net/news/2026/10/11/%d8%b9%d8%a7%d8%ac%d9%84-%d9%85%d9%86%d8%af%d9%88%d8%a8-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%af%d8%a7%d8%a6%d9%85-%d9%84%d8%af%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%85?traffic_source=rss",
     "fa": false,
-    "at": "2026-10-10T17:24+00:00",
-    "img": "https://images.skynewsarabia.com/images/v1/2026/10/10/1897595/95/53/1-1897595.jpg",
-    "via": "قناة إخبارية إماراتية بريطانية",
+    "at": "2026-10-10T18:49+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "موعد مباراة برشلونة ضد غلطة سراي في دوري أبطال أوروبا والقنوات الناقلة",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/sport/2026/10/11/%d9%85%d9%88%d8%b9%d8%af-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d8%b6%d8%af-%d8%ba%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a-%d9%81%d9%8a?traffic_source=rss",
+    "fa": false,
+    "at": "2026-10-10T18:40+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "شاهد.. باريس سان جيرمان يستعد لمانشستر سيتي بثلاثية في الدوري الفرنسي",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/sport/2026/10/11/%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%b3%d8%a7%d9%86-%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a-%d9%81%d9%88%d8%b2?traffic_source=rss",
+    "fa": false,
+    "at": "2026-10-10T18:29+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "مكتب التحقيقات الفدرالي الأمريكي يستعين بمنظمة الفنون القتالية لتدريب عملائه",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/sport/2026/10/11/%d9%85%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86?traffic_source=rss",
+    "fa": false,
+    "at": "2026-10-10T18:19+00:00",
+    "via": "شبكة إخبارية قطرية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -276,49 +448,49 @@
     "score": 3
    },
    {
-    "head": "ترامب: علمت للتو بهجوم مطار الرياض وسأتخذ قرارا",
-    "src": "سكاي نيوز عربية",
+    "head": "فيلم \"Crazy Rich Asians\" يتحول لمسلسل بمشاركة نجومه الأصليين",
+    "src": "CNN بالعربية",
     "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/middle-east/1897593-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B9%D9%84%D9%85%D8%AA-%D9%84%D9%84%D8%AA%D9%88-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%B3%D8%A3%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7",
+    "link": "https://arabic.cnn.com/entertainment/article/2026/10/11/crazy-rich-asians-to-be-adapted-into-a-series-featuring-its-original-stars",
     "fa": false,
-    "at": "2026-10-10T17:11+00:00",
-    "img": "https://images.skynewsarabia.com/images/v1/2026/10/09/1897278/95/53/1-1897278.jpg",
-    "via": "قناة إخبارية إماراتية بريطانية",
+    "at": "2026-10-10T21:38+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_5561,h_3128,c_crop/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/11/images/346586.jpg",
+    "via": "شبكة إخبارية أمريكية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
-     "عدم الشذوذ": 1,
+     "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 4
+    "score": 3
    },
    {
-    "head": "الحرس الوطني الإماراتي ينقذ 22 شخصا من ناقلة مشتعلة",
-    "src": "سكاي نيوز عربية",
+    "head": "حمد بن جاسم يحذر دول الخليج من \"خطر وجودي\" ويدعو لإزاحة \"كل الخلافات الجانبية\"",
+    "src": "CNN بالعربية",
     "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/middle-east/1897592-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%8A%D9%86%D9%82%D8%B0-22-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/11/hamad-bin-jassim-warns-gulf-states-of-an-existential-threat",
     "fa": false,
-    "at": "2026-10-10T16:57+00:00",
-    "img": "https://images.skynewsarabia.com/images/v1/2026/10/10/1897591/95/53/1-1897591.jpeg",
-    "via": "قناة إخبارية إماراتية بريطانية",
+    "at": "2026-10-10T20:46+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/11/images/346585.jpg",
+    "via": "شبكة إخبارية أمريكية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 5
+    "score": 3
    },
    {
-    "head": "هيئة الطيران المدني في السعودية: تعليق عمليات مطار الملك خالد الدولي بالرياض",
+    "head": "فيديو مزعوم لـ\"لحظة وقوع انفجار في مطار الملك خالد بالرياض\".. ما حقيقته؟",
     "src": "CNN بالعربية",
     "grade": "حسن",
-    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/saudi-arabia-suspended-king-khalid-international-airport-riyadh",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/old-video-circulating-with-claims-of-an-explosion-king-khalid-airport-riyadh",
     "fa": false,
-    "at": "2026-10-10T17:00+00:00",
-    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_3994,h_2246,c_crop/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/10/images/346574.jpg",
+    "at": "2026-10-10T19:42+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_3995,h_2247,c_crop/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/10/images/346583.jpg",
     "via": "شبكة إخبارية أمريكية",
     "isnad": {
      "الاتصال": 1,
@@ -330,14 +502,14 @@
     "score": 4
    },
    {
-    "head": "ألونسو: نستحق الفوز على بورنموث",
-    "src": "الشرق الأوسط",
+    "head": "لاعبو الهلال والاتحاد يُكرمون \"العويس\" خلال الكلاسيكو",
+    "src": "CNN بالعربية",
     "grade": "حسن",
-    "link": "https://aawsat.com/node/5328138",
+    "link": "https://arabic.cnn.com/sport/article/2026/10/10/mohammed-al-owais-al-hilal-al-ittihad-players",
     "fa": false,
-    "at": "2026-10-10T18:42+00:00",
-    "img": "https://aawsat.com/s3/files/styles/414x217/public/2026-10/1821015.jpeg.webp",
-    "via": "صحيفة عربية دولية",
+    "at": "2026-10-10T19:33+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_4166,h_2344,c_crop/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/10/images/346580.jpg",
+    "via": "شبكة إخبارية أمريكية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -348,14 +520,13 @@
     "score": 3
    },
    {
-    "head": "رغم التحقيق والإيقاف... تحركات برتغالية لاحتواء أزمة رونالدو",
-    "src": "الشرق الأوسط",
+    "head": "دفاع ماريسكا المقنع يصرف الأنظار عن حقيقة موقف مانشستر سيتي",
+    "src": "اندبندنت عربية",
     "grade": "حسن",
-    "link": "https://aawsat.com/node/5328137",
+    "link": "https://www.independent.co.uk/sport/football/man-city-premier-league-enzo-maresca-pep-guardiola-b3064156.html",
     "fa": false,
-    "at": "2026-10-10T18:40+00:00",
-    "img": "https://aawsat.com/s3/files/styles/414x217/public/2026-10/1821023.jpeg.webp",
-    "via": "صحيفة عربية دولية",
+    "at": "2026-10-10T13:37+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -366,14 +537,13 @@
     "score": 3
    },
    {
-    "head": "باباس: تعادلنا مع الخليج أشبه بالخسارة",
-    "src": "الشرق الأوسط",
+    "head": "كيف عطلت الاحتجاجات الطلابية الدراسة في فرنسا؟",
+    "src": "اندبندنت عربية",
     "grade": "حسن",
-    "link": "https://aawsat.com/node/5328136",
+    "link": "https://www.independent.co.uk/voices/france-protests-riots-students-school-closures-gilets-jeunes-b3062639.html",
     "fa": false,
-    "at": "2026-10-10T18:32+00:00",
-    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1821018.jpeg.webp?VersionId=3MBLK8kpMyJAC0NdRRupuvuTcuai7NbR",
-    "via": "صحيفة عربية دولية",
+    "at": "2026-10-10T10:32+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -384,66 +554,84 @@
     "score": 3
    },
    {
-    "head": "غيمارايش سعيد بهدفه الأول مع آرسنال في ملعب «الإمارات»",
-    "src": "الشرق الأوسط",
+    "head": "ليفربول ومانشستر سيتي في مواجهة تكشف واقع الدوري الإنجليزي الجديد",
+    "src": "اندبندنت عربية",
     "grade": "حسن",
-    "link": "https://aawsat.com/node/5328135",
+    "link": "https://www.independent.co.uk/sport/football/liverpool-manchester-city-premier-league-preview-b3063914.html",
     "fa": false,
-    "at": "2026-10-10T18:31+00:00",
-    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1820968.jpeg.webp?VersionId=Fuq3buGHKHwLOImbwNO8AHbZm..q7p.L",
-    "via": "صحيفة عربية دولية",
+    "at": "2026-10-09T13:12+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
-     "عدم الشذوذ": 0,
+     "عدم الشذوذ": 1,
      "انتفاء العلة": 1
     },
-    "score": 3
+    "score": 4
    },
    {
-    "head": "بث إعدام منفّذ مجزرة «فورت هود» يشقّ صفوف الجمهوريين",
-    "src": "الشرق الأوسط",
+    "head": "لماذا يخشى نتنياهو تحقيقا في هجمات 7 أكتوبر؟",
+    "src": "اندبندنت عربية",
     "grade": "حسن",
-    "link": "https://aawsat.com/node/5328134",
+    "link": "https://www.independent.co.uk/news/world/middle-east/netanyahu-october-7-israel-investigation-b3062301.html",
     "fa": false,
-    "at": "2026-10-10T18:10+00:00",
-    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1820445.jpeg.webp?VersionId=RXfCNSJa9cGAiGz0uspieOhm89R56RYO",
-    "via": "صحيفة عربية دولية",
+    "at": "2026-10-09T11:12+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
-     "الضبط": 0,
+     "الضبط": 1,
      "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 3
+    "score": 4
    },
    {
-    "head": "ليتش مدرب الشباب يتغنى بموهبة «همام»",
-    "src": "الشرق الأوسط",
+    "head": "أهم إصدارات بريطانيا خلال شهر أكتوبر 2026",
+    "src": "اندبندنت عربية",
     "grade": "حسن",
-    "link": "https://aawsat.com/node/5328133",
+    "link": "https://www.independent.co.uk/arts-entertainment/books/features/best-books-new-october-2026-b3058458.html",
     "fa": false,
-    "at": "2026-10-10T18:04+00:00",
-    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1820985.jpeg.webp?VersionId=4b4v0Zcc6Soqqhd8OJJnJ7d58uy.LsLL",
-    "via": "صحيفة عربية دولية",
+    "at": "2026-10-08T13:00+00:00",
+    "via": "نسخة عربية من الإندبندنت البريطانية",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
-     "الضبط": 0,
+     "الضبط": 1,
      "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 3
-   },
+    "score": 4
+   }
+  ],
+  "الخليج": [
    {
-    "head": "النشرة الخليجية وأبرز عناوين الأخبار",
+    "head": "الجوازات السعودية: بدء تصحيح أوضاع اليمنيين غير النظاميين .. و4 فئات مستهدفة من القرار",
     "src": "العربية",
     "grade": "حسن",
-    "link": "https://www.alarabiya.net/arab-and-world/gulf/social/2026/10/10/%D8%A7%D9%84%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D8%A8%D8%B1%D8%B2-%D8%B9%D9%86%D8%A7%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-",
+    "link": "https://www.alarabiya.net/arab-and-world/yemen/2026/10/10/%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A8%D8%AF%D8%A1-%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%88%D8%B6%D8%A7%D8%B9-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A%D9%8A%D9%86-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%D9%8A%D9%8A%D9%86-%D9%884-%D9%81%D8%A6%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-",
     "fa": false,
-    "at": "2026-10-10T08:23+00:00",
+    "at": "2026-10-10T15:53+00:00",
+    "he": "Saudi Passports: Status Regularization Begins for Undocumented Yemenis Across 4 Target Categories",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "ما السيناريوهات المطروحة إذا تدخل ترمب ضد الحوثيين؟ محللون يوضحون",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/news/2026/10/10/%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%88%D8%AD%D8%A9-%D9%84%D9%88-%D8%AA%D8%AF%D8%AE%D9%84-%D8%AA%D8%B1%D9%85%D8%A8",
+    "fa": false,
+    "at": "2026-10-10T19:25+00:00",
+    "img": "https://www.aljazeera.net/wp-content/uploads/2026/10/epa_6ac8ed6830db-1791552872.jpg?resize=1920%2C1440",
+    "he": "Analysts Outline Scenarios Should Trump Intervene Against Houthis",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -452,6 +640,105 @@
      "انتفاء العلة": 1
     },
     "score": 3
+   },
+   {
+    "head": "الطيران المدنى السعودي: عدة إصابات في هجوم على مطار الرياض",
+    "src": "Reuters",
+    "grade": "صحيح",
+    "link": "https://www.reuters.com/ar/world/FKJ2HVOEJ5OHVNIRUNIBA3POGI-2026-10-10/",
+    "fa": false,
+    "at": "2026-10-10T18:07+00:00",
+    "he": "Saudi Civil Aviation: Several Injured in Attack on Riyadh Airport",
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 6
+   },
+   {
+    "head": "\"التحالف\": سقوط مقذوف في محيط مطار الملك فهد بالدمام شرقي السعودية",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/11/the-coalition-a-projectile-landed-in-the-vicinity-of-king-fahd-airport-in-dammam",
+    "fa": false,
+    "at": "2026-10-10T21:10+00:00",
+    "he": "Coalition: Projectile Falls Near King Fahd Airport in Dammam, Eastern Saudi Arabia",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "السعودية تعلق العمليات بمطار الرياض وترمب يلوح بضرب الحوثيين",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/news/2026/10/10/%D9%87%D8%AC%D9%88%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86",
+    "fa": false,
+    "at": "2026-10-10T17:45+00:00",
+    "img": "https://www.aljazeera.net/wp-content/uploads/2026/10/Picture-9985-1791396056.jpg?resize=1838%2C1080",
+    "he": "Saudi Arabia Suspends Flights at Riyadh Airport; Trump Hints at Strikes on Houthis",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "مقاطع فيديو \"هروب\" قوات الحوثي ينشرها تحالف \"دعم الشرعية في اليمن\"",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/houthi-fighters-run-away-yemen-saudi-strikes",
+    "fa": false,
+    "at": "2026-10-10T05:50+00:00",
+    "w": 5,
+    "wsrc": [
+     "العربية",
+     "سكاي نيوز عربية",
+     "بوابة الأهرام"
+    ],
+    "he": "Yemen Coalition Releases Video Clips Showing Houthi Forces 'Fleeing'",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "السعودية تعلن تنفيذ عملية عسكرية واسعة ضد الحوثيين في اليمن",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://www.skynewsarabia.com/middle-east/1897500-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
+    "fa": false,
+    "at": "2026-10-09T21:11+00:00",
+    "img": "https://www.skynewsarabia.com/images/v2/2020/07/09/1359616/1200/630/1-1359616.jpeg",
+    "w": 5,
+    "wsrc": [
+     "DW.com",
+     "CNN Arabic",
+     "بوابة الأهرام"
+    ],
+    "he": "Saudi Arabia Announces Large-Scale Military Operation Against Houthis in Yemen",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
    },
    {
     "head": "الألكسو تنظم ورشة عمل حول توظيف تقنية البلوك تشين للتحقق من مصداقية الشهادات العلمية بسلطنة عُمان",
@@ -460,6 +747,290 @@
     "link": "https://www.alecso.org/nsite/ar/newscat/6258-%D8%A7%D9%84%D8%A3%D9%84%D9%83%D8%B3%D9%88-%D8%AA%D9%86%D8%B8%D9%85-%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D8%AD%D9%88%D9%84-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%84%D9%88%D9%83-%D8%AA%D8%B4%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86-%D9%85%D8%B5%D8%AF%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D8%A8%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
     "fa": false,
     "at": "2026-10-09T07:23+00:00",
+    "he": "ALECSO Holds Workshop on Using Blockchain to Verify Academic Credentials in Oman",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "لماذا تقلق إيران من توسع العلاقات بين إسرائيل والإمارات؟",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/persian/articles/c58jzyj7nnnpo?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "2026-10-10T05:59+00:00",
+    "he": "Why Iran Fears Expanding Ties Between Israel and UAE",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "لماذا تشعر إيران بالقلق من تعمق العلاقات بين إسرائيل والإمارات؟",
+    "src": "بي بي سي عربي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/arabic/articles/cje36ngpr2w0o?at_medium=RSS&at_campaign=rss",
+    "fa": false,
+    "at": "2026-10-10T11:00+00:00",
+    "he": "Why Iran Is Concerned Over Deepening Israel-UAE Ties",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "السعودية تعلق العمل في مطار الرياض بعد تعرضه لهجوم وترامب سيتخذ قرارا حول ضرب الحوثيين",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "حسن",
+    "link": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261010-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%87%D8%AC%D9%88%D9%85-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86",
+    "fa": false,
+    "at": "2026-10-10T20:26+00:00",
+    "img": "https://s.france24.com/media/display/a3556cb4-c4d3-11f1-90a7-53993c5f1f18/w:1024/p:16x9/AP314998123886.jpg",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "محمد البخيتي: \" ننصح شركات الطيران العالمية بعدم استخدام المطارات السعودية\"",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%A8%D8%AE%D9%8A%D8%AA%D9%8A-%D9%86%D9%86%D8%B5%D8%AD-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF%D9%85-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+    "fa": false,
+    "at": "2026-10-10T19:25+00:00",
+    "img": "https://s.france24.com/media/display/007ead78-c4df-11f1-9ab0-3774aeac812a/w:1024/p:16x9/Arabe-2026-10-10T18-37-58-170Z.jpg",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "مبارك آل عاتي : \" لابد من استمرار عملية \"فجر اليمن\" الى أن تؤدي هدفها الأسمى\"",
+    "src": "فرانس ٢٤ عربي",
+    "grade": "حسن",
+    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D9%85%D8%A8%D8%A7%D8%B1%D9%83-%D8%A2%D9%84-%D8%B9%D8%A7%D8%AA%D9%8A-%D9%84%D8%A7%D8%A8%D8%AF-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D9%89-%D8%A3%D9%86-%D8%AA%D8%A4%D8%AF%D9%8A-%D9%87%D8%AF%D9%81%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D9%89",
+    "fa": false,
+    "at": "2026-10-10T17:19+00:00",
+    "img": "https://s.france24.com/media/display/0d3db498-c4ce-11f1-a472-53993c5f1f18/w:1024/p:16x9/Arabe-2026-10-10T16-08-42-094Z.jpg",
+    "via": "قناة دولية فرنسية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "السعودية: 12 وفاة في اعتداء على مطار الرياض وسقوط مقذوف قرب مطار الدمام",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://www.aljazeera.net/news/2026/10/11/%d8%b9%d8%a7%d8%ac%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%ab-%d8%a8%d8%a7%d8%b3%d9%85-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%b3%d9%82%d9%88%d8%b7-%d9%85%d9%82%d8%b0%d9%88%d9%81?traffic_source=rss",
+    "fa": false,
+    "at": "2026-10-10T18:17+00:00",
+    "via": "شبكة إخبارية قطرية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "السعودية تعلن مقتل 12 وإصابة 309 أشخاص جراء استهداف مطار الملك خالد",
+    "src": "CNN بالعربية",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/11/saudi-arabia-announces-12-deaths-injuries-attack-on-king-khalid-airport",
+    "fa": false,
+    "at": "2026-10-10T21:55+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/11/images/346588.jpg",
+    "via": "شبكة إخبارية أمريكية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "ملك الأردن يدين الهجمات على السعودية ويرسل برقيتي عزاء إلى قادة المملكة",
+    "src": "CNN بالعربية",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/11/king-of-jordan-condemns-houthi-attacks-on-saudi-arabia",
+    "fa": false,
+    "at": "2026-10-10T20:19+00:00",
+    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_4313,h_2426,c_crop/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/11/images/346584.jpg",
+    "via": "شبكة إخبارية أمريكية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "المتألق واتكينز يهز الشباك... ويتقمص دور صانع اللعب أمام الاتحاد",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5328173",
+    "fa": false,
+    "at": "2026-10-10T22:12+00:00",
+    "img": "https://aawsat.com/s3/files/styles/414x217/public/2026-10/1821250.jpeg.webp",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "سيمتش: خسارة واحدة لن تحدد موسم الاتحاد.. نسير في الطريق الصحيح",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5328172",
+    "fa": false,
+    "at": "2026-10-10T22:12+00:00",
+    "img": "https://aawsat.com/s3/files/styles/414x217/public/2026-10/1821247.jpeg.webp",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "الدوري الإسباني: الريال يفوز بشق الأنفس على فياريال",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5328171",
+    "fa": false,
+    "at": "2026-10-10T21:40+00:00",
+    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1821246.jpeg.webp?VersionId=KB5IzA7osK8GkzWOcct54_2DEitL6zln",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "النصيري: لن أتحدث عن التحكيم… وفخور بلاعبي الاتحاد",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5328170",
+    "fa": false,
+    "at": "2026-10-10T21:36+00:00",
+    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1821235.jpeg.webp?VersionId=kuRJvv2ccJY0MyxHGn9EGJnOc4QB3Wwl",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "بونو: النصيري أخي الصغير... و«آسيا للنخبة» من أولويات الهلال",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5328169",
+    "fa": false,
+    "at": "2026-10-10T21:27+00:00",
+    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1821226.jpeg.webp?VersionId=OncXTiZln_KduQERT1CPlRIwEM48IyBA",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "إنزاغي: كنّا رائعين أمام الاتحاد ... والجزائية غير صحيحة",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/node/5328168",
+    "fa": false,
+    "at": "2026-10-10T21:18+00:00",
+    "img": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1821221.jpeg.webp?VersionId=P9jGNx7NUTOrmGHwvx3k5qjkjQeBeGVJ",
+    "via": "صحيفة عربية دولية",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "سلطنة عُمان تتضامن مع السعودية بعد هجمات الحوثيين..وترفض استهداف المنشآت المدنية",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/oman-stands-in-solidarity-saudi-arabia-houthi-attacks-airports",
+    "fa": false,
+    "at": "2026-10-10T11:15+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "النشرة الخليجية وأبرز عناوين الأخبار",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://www.alarabiya.net/arab-and-world/gulf/social/2026/10/10/%D8%A7%D9%84%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D8%A8%D8%B1%D8%B2-%D8%B9%D9%86%D8%A7%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-",
+    "fa": false,
+    "at": "2026-10-10T08:23+00:00",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -525,8 +1096,8 @@
     "grade": "حسن",
     "link": "https://www.skynewsarabia.com/middle-east/1897428-%D8%B9%D8%A7%D9%85-%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%B4%D8%AA%D8%A7%D8%A1-%D8%BA%D8%B2%D8%A9-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D8%AC%D9%85-%D8%A7%D9%84%D9%85%D8%A3%D8%B3%D8%A7%D8%A9",
     "fa": false,
-    "at": "2026-10-09T12:09+00:00",
-    "he": "Fourth Year of Suffering: Gaza Winter Lays Bare Humanitarian Tragedy",
+    "at": "2026-10-09T11:39+00:00",
+    "he": "Fourth Year of Suffering: Winter in Gaza Exposes Extent of Tragedy",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -537,14 +1108,31 @@
     "score": 3
    },
    {
-    "head": "خطوط وسواتر تعيد رسم غزة وتضيق الخناق الجغرافي على سكانها",
+    "head": "حصاد حرب غزة.. أكثر من 74 ألف قتيل خلال 3 سنوات",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://www.alarabiya.net/arab-and-world/2026/10/08/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%AD%D8%B1%D8%A8-%D8%BA%D8%B2%D8%A9-%D8%A7%D9%83%D8%AB%D8%B1-%D9%85%D9%86-74-%D8%A7%D9%84%D9%81-%D9%82%D8%AA%D9%8A%D9%84-%D8%AE%D9%84%D8%A7%D9%84-3-%D8%B3%D9%86%D9%88%D8%A7%D8%AA",
+    "fa": false,
+    "at": "2026-10-08T07:17+00:00",
+    "he": "Gaza War Toll: Over 74,000 Killed in 3 Years",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "يهابون الأدراج.. أطفال غزة لا يعرفون البيت والجدران الصلبة",
     "src": "الجزيرة نت",
     "grade": "حسن",
-    "link": "https://www.aljazeera.net/news/2026/10/10/%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A-%D8%AE%D8%B7%D9%88%D8%B7-%D9%88%D8%B3%D9%88%D8%A7%D8%AA%D8%B1",
+    "link": "https://www.ajnet.me/politics/2026/10/8/%D9%8A%D9%87%D8%A7%D8%A8%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%AF%D8%B1%D8%A7%D8%AC-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%BA%D8%B2%D8%A9-%D9%84%D8%A7-%D9%8A%D8%B9%D8%B1%D9%81%D9%88%D9%86",
     "fa": false,
-    "at": "2026-10-10T14:26+00:00",
-    "img": "https://www.aljazeera.net/wp-content/uploads/2026/09/654-1790445324.png?resize=1920%2C1280&amp;quality=80",
-    "he": "Lines and Berms Redraw Gaza, Tightening Geographic Chokehold on Residents",
+    "at": "2026-10-08T19:31+00:00",
+    "img": "https://www.ajnet.me/wp-content/uploads/2026/10/1-1791297704.jpg?resize=1920%2C1440",
+    "he": "Terrified of Stairs: Gaza's Children Strangers to Homes and Solid Walls",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -555,14 +1143,14 @@
     "score": 3
    },
    {
-    "head": "اتفاق غزة بعد عام.. تعهدات معلقة وتنفيذ متعثر",
-    "src": "سكاي نيوز عربية",
+    "head": "آلاف المتظاهرين في لندن وبرلين ودبلن يطالبون بوقف الإبادة في غزة",
+    "src": "تسنیم",
     "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/middle-east/1897566-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%BA%D8%B2%D8%A9-%D8%B9%D8%A7%D9%85-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D9%85%D8%B9%D9%84%D9%82%D8%A9-%D9%88%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%AA%D8%B9%D8%AB%D8%B1",
+    "link": "https://www.tasnimnews.ir/ar/news/2026/10/11/3719581/%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%DB%8C%D9%86-%D9%81%DB%8C-%D9%84%D9%86%D8%AF%D9%86-%D9%88%D8%A8%D8%B1%D9%84%DB%8C%D9%86-%D9%88%D8%AF%D8%A8%D9%84%D9%86-%DB%8C%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A8%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%A5%D8%A8%D8%A7%D8%AF%D8%A9-%D9%81%DB%8C-%D8%BA%D8%B2%D8%A9",
     "fa": false,
-    "at": "2026-10-10T18:43+00:00",
-    "img": "https://images.skynewsarabia.com/images/v1/2026/10/10/1897565/95/53/1-1897565.jpg",
-    "via": "قناة إخبارية إماراتية بريطانية",
+    "at": "2026-10-10T20:58+00:00",
+    "img": "https://newsmedia.tasnimmedia.com/Tasnim/Uploaded/Image/1405/07/19/1405071900101838638530774.jpg",
+    "he": "Thousands Protest in London, Berlin, and Dublin Demanding End to Gaza Genocide",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -590,782 +1178,58 @@
     "score": 4
    }
   ],
-  "عالم": [
-   {
-    "head": "فلسطين مباشر.. 5 شهداء في غزة وتصعيد إسرائيلي بالضفة",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.ajnet.me/news/liveblog/2026/10/7/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B4%D9%87%D9%8A%D8%AF-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%88%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
-    "fa": false,
-    "at": "2026-10-07T19:45+00:00",
-    "img": "https://www.ajnet.me/wp-content/uploads/2026/10/reuters_6ac5ebf3-1791355892.jpg?resize=1920%2C1440",
-    "he": "Palestine Live: 5 Killed in Gaza Amid Israeli Escalation in West Bank",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "من تهجير الرضع إلى إعمار بـ71 مليار دولار.. سيناريوهات إسرائيلية لمستقبل غزة",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/politics/2026/10/10/%D9%85%D9%86-%D8%AA%D9%87%D8%AC%D9%8A%D8%B1-%D8%A7%D9%84%D8%B1%D8%B6%D8%B9-%D8%A5%D9%84%D9%89-71-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B5%D9%88%D8%B1",
-    "fa": false,
-    "at": "2026-10-10T17:10+00:00",
-    "img": "https://www.aljazeera.net/wp-content/uploads/2026/10/afp_6aca0ba4e665-1791626148.jpg?resize=1920%2C1440",
-    "he": "From Displacing Infants to $71 Billion Reconstruction: Israeli Scenarios for Gaza's Future",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "6 قتلى فلسطينيين برصاص إسرائيلي في غزة",
-    "src": "سكاي نيوز عربية",
-    "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/middle-east/1897543-6-%D9%82%D8%AA%D9%84%D9%89-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%BA%D8%B2%D8%A9",
-    "fa": false,
-    "at": "2026-10-10T11:38+00:00",
-    "img": "https://www.skynewsarabia.com/images/v1/2026/10/03/1896040/1200/630/1-1896040.jpg",
-    "he": "6 Palestinians Killed by Israeli Fire in Gaza",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "\"كل يوم هناك قتلى\": غزيون يواجهون غارات إسرائيلية رغم وقف إطلاق النار، مع تعثر اتفاق سلام",
-    "src": "BBC",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/arabic/articles/c617kev1nv8lo",
-    "fa": false,
-    "at": "2026-10-10T13:21+00:00",
-    "img": "https://ichef.bbci.co.uk/news/1200/branded_arabic/8115/live/809910d0-c4ac-11f1-ac13-6da90f5ff039.png",
-    "he": "'People Are Dying Every Day': Gazans Face Israeli Strikes Despite Ceasefire as Peace Deal Stalls",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "أول تعليق لترامب على استهداف الحوثيين لمطار الملك خالد",
-    "src": "CNN Arabic",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/trump-says-hes-not-happy-about-deadly-attack-on-saudi-airport",
-    "fa": false,
-    "at": "2026-10-10T17:27+00:00",
-    "w": 5,
-    "wsrc": [
-     "اليوم السابع",
-     "سكاي نيوز عربية",
-     "بوابة الأهرام"
-    ],
-    "he": "Trump's First Reaction to Houthi Strike on King Khalid Airport",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "لماذا يعد فوز نافي بيلاي بنوبل للسلام \"انتكاسة لإسرائيل\"؟",
-    "src": "سكاي نيوز عربية",
-    "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/world/1897548-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9%D8%AF-%D9%81%D9%88%D8%B2-%D9%86%D8%A7%D9%81%D9%8A-%D8%A8%D9%8A%D9%84%D8%A7%D9%8A-%D8%A8%D9%86%D9%88%D8%A8%D9%84-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D8%AA%D9%83%D8%A7%D8%B3%D8%A9-%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
-    "fa": false,
-    "at": "2026-10-10T13:13+00:00",
-    "img": "https://www.skynewsarabia.com/images/v1/2026/10/10/1897547/1200/630/1-1897547.jpeg",
-    "w": 5,
-    "wsrc": [
-     "اليوم السابع",
-     "العربية",
-     "مونت كارلو الدولية",
-     "الجزيرة نت"
-    ],
-    "he": "Why Navi Pillay's Nobel Peace Prize Is Considered a 'Setback for Israel'",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "نافي بيلاي: عقوبات أمريكية على الجنائية الدولية بالتزامن مع فوز القاضية الجنوب أفريقية بنوبل السلام",
-    "src": "BBC",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/arabic/articles/cvde89ny1r0ko",
-    "fa": false,
-    "at": "2026-10-09T18:09+00:00",
-    "img": "https://ichef.bbci.co.uk/news/1200/branded_arabic/98e5/live/98430b50-c3df-11f1-95ba-dba767ffba7e.jpg",
-    "w": 5,
-    "wsrc": [
-     "CNN Arabic",
-     "DW.com",
-     "新华网",
-     "اليوم السابع"
-    ],
-    "he": "Navi Pillay: US Sanctions on ICC Coincide With South African Jurist's Nobel Peace Prize",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "ضربات دامية وانفجارات في كييف.. رغم اتصال ترامب وبوتين",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://www.alarabiya.net/arab-and-world/ukraine/2026/10/10/%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%AF%D8%A7%D9%85%D9%8A%D8%A9-%D9%88%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%83%D9%8A%D9%8A%D9%81-%D8%B1%D8%BA%D9%85-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86",
-    "fa": false,
-    "at": "2026-10-10T10:55+00:00",
-    "w": 5,
-    "wsrc": [
-     "新华网",
-     "اليوم السابع",
-     "مونت كارلو الدولية",
-     "المصري اليوم"
-    ],
-    "he": "Deadly Strikes and Explosions in Kyiv Despite Trump-Putin Call",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "قضية إعدام نضال حسن ببث مباشر.. وزير الدفاع الأمريكي يواجه غضبا وانتقادات",
-    "src": "CNN Arabic",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/world/article/2026/10/10/hegseth-wants-america-to-watch-a-firing-squad-execution-its-drawing-backlash",
-    "fa": false,
-    "at": "2026-10-10T10:38+00:00",
-    "w": 5,
-    "wsrc": [
-     "BBC",
-     "سكاي نيوز عربية",
-     "العربية",
-     "مونت كارلو الدولية"
-    ],
-    "he": "US Defense Secretary Faces Backlash Over Live-Streamed Execution of Nidal Hasan",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "تخفض Asana تكاليف النماذج بمقدار 76 ضعفاً في اختبارات المتصفح باستخدام GPT-6.1 Sol",
-    "src": "أوبن إيه آي",
-    "grade": "صحيح",
-    "link": "https://openai.com/index/asana-browser-agent",
-    "fa": false,
-    "at": "2026-10-09T07:00+00:00",
-    "en": true,
-    "he": "Asana Cuts Model Costs 76-Fold in Browser Tests With GPT-6.1 Sol",
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 2,
-     "عدالة المصدر": 2,
-     "الضبط": 1,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 7
-   },
-   {
-    "head": "بعد ارتفاع الدولار.. كيف تتحرك العملات العربية أمام الجنيه المصري؟",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://www.alarabiya.net/aswaq/egypt-economy/2026/10/09/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-",
-    "fa": false,
-    "at": "2026-10-09T11:36+00:00",
-    "w": 5,
-    "wsrc": [
-     "صدى البلد",
-     "جريدة الطريق",
-     "بوابة أخبار اليوم الإلكترونية",
-     "شبكة تواصل الإخبارية"
-    ],
-    "he": "How Arab Currencies Are Moving Against Egyptian Pound Following Dollar Rise",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "\"لا وصول للأموال\".. عندما يتعطل أهم تطبيق \"بنكي\" بالسودان",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://www.alarabiya.net/arab-and-world/sudan/2026/10/09/%D9%84%D8%A7-%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%87%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83%D9%8A-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
-    "fa": false,
-    "at": "2026-10-09T05:46+00:00",
-    "w": 4,
-    "wsrc": [
-     "Radio Dabanga",
-     "سودان اندبندنت"
-    ],
-    "he": "'No Access to Funds': When Sudan's Key Banking App Goes Down",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "إصابة العشرات في انفجار قوي بمطار الملك خالد بالرياض، وترامب يقول إنه سيقرر \"سريعاً\" بشأن ضرب جماعة أنصار الله",
-    "src": "بي بي سي عربي",
-    "grade": "حسن",
-    "link": "https://www.bbc.co.uk/arabic/live/cmwyvjrxyxgdt?at_medium=RSS&at_campaign=rss",
-    "fa": false,
-    "at": "",
-    "he": "Dozens Injured in Powerful Blast at Riyadh's King Khalid Airport; Trump Pledges 'Quick' Decision on Houthi Strikes",
-    "via": "هيئة بث بريطانية عامة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "مقتل 15 شخصاً على الأقل في هجوم روسي بقنابل انزلاقية على زابوريجيا",
-    "src": "بي بي سي عربي",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/arabic/articles/c6qxn9p0gzqzo?at_medium=RSS&at_campaign=rss",
-    "fa": false,
-    "at": "2026-10-10T13:45+00:00",
-    "he": "At Least 15 Killed in Russian Glide Bomb Attack on Zaporizhzhia",
-    "via": "هيئة بث بريطانية عامة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "\"أمريكا على طريق الدستوبيا: عندما تصبح عقوبة الإعدام عرضاً تلفزيونياً\"- مقال في الاندبندنت",
-    "src": "بي بي سي عربي",
-    "grade": "ضعيف الإسناد",
-    "link": "https://www.bbc.com/arabic/articles/c6d93qvy1wkko?at_medium=RSS&at_campaign=rss",
-    "fa": false,
-    "at": "2026-10-10T12:23+00:00",
-    "he": "'America on the Road to Dystopia: When the Death Penalty Becomes a TV Show' – The Independent",
-    "via": "هيئة بث بريطانية عامة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "المتحدث السادس للرئيس ترامب، من هي كايتي زكريا؟",
-    "src": "بي بي سي عربي",
-    "grade": "ضعيف الإسناد",
-    "link": "https://www.bbc.com/arabic/articles/cr89z7q59332o?at_medium=RSS&at_campaign=rss",
-    "fa": false,
-    "at": "2026-10-10T09:12+00:00",
-    "he": "Who Is Katie Zakaria, President Trump's Sixth Press Secretary?",
-    "via": "هيئة بث بريطانية عامة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "هل يُمكن قياس السعادة؟",
-    "src": "بي بي سي عربي",
-    "grade": "ضعيف الإسناد",
-    "link": "https://www.bbc.com/arabic/articles/cw05r280zn33o?at_medium=RSS&at_campaign=rss",
-    "fa": false,
-    "at": "2026-10-10T08:08+00:00",
-    "he": "Can Happiness Be Measured?",
-    "via": "هيئة بث بريطانية عامة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "إسبانيا: بيدرو سانشيز يطلق حملته الانتخابية واعدا بتعزيز حماية المستأجرين",
-    "src": "فرانس ٢٤ عربي",
-    "grade": "ضعيف الإسناد",
-    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D9%8A%D8%AF%D8%B1%D9%88-%D8%B3%D8%A7%D9%86%D8%B4%D9%8A%D8%B2-%D9%8A%D8%B7%D9%84%D9%82-%D8%AD%D9%85%D9%84%D8%AA%D9%87-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D8%B9%D8%AF%D8%A7-%D8%A8%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%A3%D8%AC%D8%B1%D9%8A%D9%86",
-    "fa": false,
-    "at": "2026-10-10T15:43+00:00",
-    "img": "https://s.france24.com/media/display/da383ab2-c4c0-11f1-aea4-77317c09f325/w:1024/p:16x9/AR-20261010-173151-173521-CS.jpg",
-    "via": "قناة دولية فرنسية عامة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "رائدة الفضاء الفرنسية صوفي أدنو تعود إلى الأرض بعد مهمة بثمانية أشهر",
-    "src": "فرانس ٢٤ عربي",
-    "grade": "ضعيف الإسناد",
-    "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D8%B1%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B5%D9%88%D9%81%D9%8A-%D8%A3%D8%AF%D9%86%D9%88-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D8%A8%D8%B9%D8%AF-%D9%85%D9%87%D9%85%D8%A9-%D8%A8%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
-    "fa": false,
-    "at": "2026-10-10T15:30+00:00",
-    "img": "https://s.france24.com/media/display/f87bbb90-c4be-11f1-8bbc-e362370cce2e/w:1024/p:16x9/AR-20261010-172134-172236-CS.jpg",
-    "via": "قناة دولية فرنسية عامة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "شاهد.. أمسية صاخبة في \"فاييكاس\" وطائرات ورقية تلغي قمة بلباو وفاليكانو",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/sport/2026/10/10/%d9%81%d8%a7%d9%8a%d9%8a%d9%83%d8%a7%d8%b3-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a7%d8%aa-%d9%88%d8%b1%d9%82%d9%8a%d8%a9-%d8%a8%d9%84%d8%a8%d8%a7%d9%88-%d8%b1%d8%a7%d9%8a%d9%88?traffic_source=rss",
-    "fa": false,
-    "at": "2026-10-10T15:32+00:00",
-    "via": "شبكة إخبارية قطرية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "محمد صلاح يكتب التاريخ في الدوري التركي",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/sport/2026/10/10/%d9%85%d8%ad%d9%85%d8%af-%d8%b5%d9%84%d8%a7%d8%ad-%d8%b1%d9%82%d9%85-%d9%82%d9%8a%d8%a7%d8%b3%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a?traffic_source=rss",
-    "fa": false,
-    "at": "2026-10-10T15:04+00:00",
-    "via": "شبكة إخبارية قطرية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "الهجمات الروسية على الموانئ تعطل تصدير الحبوب الأوكرانية",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/video/2026/10/10/%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%86%d8%a6-%d8%aa%d8%b9%d8%b7%d9%84?traffic_source=rss",
-    "fa": false,
-    "at": "2026-10-10T14:57+00:00",
-    "via": "شبكة إخبارية قطرية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "إسرائيل في أوروبا.. الحكومات تماطل والشعوب تسحب الغطاء",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/politics/2026/10/10/%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a7%d8%aa-%d8%aa%d9%85%d8%a7%d8%b7%d9%84?traffic_source=rss",
-    "fa": false,
-    "at": "2026-10-10T14:55+00:00",
-    "via": "شبكة إخبارية قطرية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "تركيا تبدأ توحيد بنوك التمويل الإسلامي الحكومية تحت مظلة الصندوق السيادي",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/ebusiness/2026/10/10/%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%aa%d8%a8%d8%af%d8%a3-%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a8%d9%86%d9%88%d9%83-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84?traffic_source=rss",
-    "fa": false,
-    "at": "2026-10-10T14:38+00:00",
-    "via": "شبكة إخبارية قطرية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "نوبل الاقتصاد 2026.. من يحصد الجائزة في زمن الأزمات؟",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/ebusiness/2026/10/10/%d9%86%d9%88%d8%a8%d9%84-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-2026-%d9%85%d9%86-%d9%8a%d8%ad%d8%b5%d8%af-%d8%a7%d9%84%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d9%81%d9%8a-%d8%b2%d9%85%d9%86?traffic_source=rss",
-    "fa": false,
-    "at": "2026-10-10T14:27+00:00",
-    "via": "شبكة إخبارية قطرية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "ترامب يدعو لاختيار رئيس جديد لأوكرانيا لإنهاء الحرب",
-    "src": "سكاي نيوز عربية",
-    "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/world/1897596-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
-    "fa": false,
-    "at": "2026-10-10T17:40+00:00",
-    "img": "https://images.skynewsarabia.com/images/v2/2026/10/10/1897594/95/53/1-1897594.jpeg",
-    "via": "قناة إخبارية إماراتية بريطانية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "إيقاف مؤقت وفتح إجراءات تأديبية.. تحرك رسمي من الاتحاد البرتغالي تجاه رونالدو",
-    "src": "CNN بالعربية",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/sport/article/2026/10/10/ronaldo-portugal-national-team",
-    "fa": false,
-    "at": "2026-10-10T18:45+00:00",
-    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_419,w_3991,h_2244,c_crop/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/10/images/346577.jpg",
-    "via": "شبكة إخبارية أمريكية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "مشهد مرعب.. إعصار \"إساياس\" ينتزع سقف فندق بفلوريدا في لحظات",
-    "src": "CNN بالعربية",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/world/video/2026/10/10/v203274-hurricane-isaias-hotel-roof-florida-digvid",
-    "fa": false,
-    "at": "2026-10-10T18:23+00:00",
-    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/10/images/346578.jpg",
-    "via": "شبكة إخبارية أمريكية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "ترامب يدعو إلى تغيير رئيس أوكرانيا فولوديمير زيلينسكي",
-    "src": "CNN بالعربية",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/world/article/2026/10/10/trump-calls-for-new-president-in-ukraine",
-    "fa": false,
-    "at": "2026-10-10T17:23+00:00",
-    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/10/images/346575.jpg",
-    "via": "شبكة إخبارية أمريكية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "منها تحية متبادلة.. أبرز 3 لقطات لمحمد صلاح من مباراة طرابزون وسامسون",
-    "src": "CNN بالعربية",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/sport/article/2026/10/10/mohamed-salah-trabzonspor-samsunspor-match",
-    "fa": false,
-    "at": "2026-10-10T16:36+00:00",
-    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_4993,h_2808,c_crop/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/10/images/346572.jpg",
-    "via": "شبكة إخبارية أمريكية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "دفاع ماريسكا المقنع يصرف الأنظار عن حقيقة موقف مانشستر سيتي",
-    "src": "اندبندنت عربية",
-    "grade": "حسن",
-    "link": "https://www.independent.co.uk/sport/football/man-city-premier-league-enzo-maresca-pep-guardiola-b3064156.html",
-    "fa": false,
-    "at": "2026-10-10T13:37+00:00",
-    "via": "نسخة عربية من الإندبندنت البريطانية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "كيف عطلت الاحتجاجات الطلابية الدراسة في فرنسا؟",
-    "src": "اندبندنت عربية",
-    "grade": "حسن",
-    "link": "https://www.independent.co.uk/voices/france-protests-riots-students-school-closures-gilets-jeunes-b3062639.html",
-    "fa": false,
-    "at": "2026-10-10T10:32+00:00",
-    "via": "نسخة عربية من الإندبندنت البريطانية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "ليفربول ومانشستر سيتي في مواجهة تكشف واقع الدوري الإنجليزي الجديد",
-    "src": "اندبندنت عربية",
-    "grade": "حسن",
-    "link": "https://www.independent.co.uk/sport/football/liverpool-manchester-city-premier-league-preview-b3063914.html",
-    "fa": false,
-    "at": "2026-10-09T13:12+00:00",
-    "via": "نسخة عربية من الإندبندنت البريطانية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "لماذا يخشى نتنياهو تحقيقا في هجمات 7 أكتوبر؟",
-    "src": "اندبندنت عربية",
-    "grade": "حسن",
-    "link": "https://www.independent.co.uk/news/world/middle-east/netanyahu-october-7-israel-investigation-b3062301.html",
-    "fa": false,
-    "at": "2026-10-09T11:12+00:00",
-    "via": "نسخة عربية من الإندبندنت البريطانية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "أهم إصدارات بريطانيا خلال شهر أكتوبر 2026",
-    "src": "اندبندنت عربية",
-    "grade": "حسن",
-    "link": "https://www.independent.co.uk/arts-entertainment/books/features/best-books-new-october-2026-b3058458.html",
-    "fa": false,
-    "at": "2026-10-08T13:00+00:00",
-    "via": "نسخة عربية من الإندبندنت البريطانية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   }
-  ],
-  "ذكاء اصطناعي": [
-   {
-    "head": "مايكروسوفت تراهن على كمبيوتر بذكاء اصطناعي مستقل",
-    "src": "سكاي نيوز عربية",
-    "grade": "حسن",
-    "link": "https://www.skynewsarabia.com/technology/1897006-%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA-%D8%AA%D8%B1%D8%A7%D9%87%D9%86-%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D8%A8%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%85%D8%B3%D8%AA%D9%82%D9%84",
-    "fa": false,
-    "at": "2026-10-08T03:46+00:00",
-    "he": "Microsoft Bets on Autonomous AI PC",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "Surface Laptop Ultra.. وحش للذكاء الاصطناعي يواجه مشكلة مزعجة",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://www.alarabiya.net/technology/smart-phones/2026/10/08/surface-laptop-ultra-%D9%88%D8%AD%D8%B4-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D9%85%D8%B2%D8%B9%D8%AC%D8%A90",
-    "fa": false,
-    "at": "2026-10-08T14:12+00:00",
-    "he": "Surface Laptop Ultra: AI Powerhouse Faces Frustrating Flaw",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "جدولة ذات تأثير فعال لعناقيد وحدات معالجة الرسوميات (GPU clusters)",
-    "src": "هَغِنغ فيس",
-    "grade": "حسن",
-    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "fa": false,
-    "at": "2026-10-09T15:20+00:00",
-    "en": true,
-    "he": "High-Impact Scheduling for GPU Clusters",
-    "via": "منصّة النماذج المفتوحة",
-    "isnad": {
-     "الاتصال": 2,
-     "عدالة المصدر": 2,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 5
-   },
-   {
-    "head": "تخفض Sophos وقت التحقيق في التهديدات بنسبة 96% باستخدام OpenAI Daybreak",
-    "src": "أوبن إيه آي",
-    "grade": "صحيح",
-    "link": "https://openai.com/index/sophos",
-    "fa": false,
-    "at": "2026-10-09T07:00+00:00",
-    "en": true,
-    "he": "Sophos Cuts Threat Investigation Time by 96% Using OpenAI Daybreak",
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 2,
-     "عدالة المصدر": 2,
-     "الضبط": 1,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 7
-   },
-   {
-    "head": "تحول Pollo AI الأفكار الإبداعية إلى حملات باستخدام OpenAI",
-    "src": "أوبن إيه آي",
-    "grade": "صحيح",
-    "link": "https://openai.com/index/pollo-ai",
-    "fa": false,
-    "at": "2026-10-08T12:00+00:00",
-    "en": true,
-    "he": "Pollo AI Turns Creative Ideas Into Campaigns Using OpenAI",
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 2,
-     "عدالة المصدر": 2,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 6
-   },
-   {
-    "head": "تخفض LegalOn تكاليف Codex إلى النصف مع الحفاظ على سرعة التطوير",
-    "src": "أوبن إيه آي",
-    "grade": "صحيح",
-    "link": "https://openai.com/index/legalon-halves-codex-costs",
-    "fa": false,
-    "at": "2026-10-08T12:00+00:00",
-    "en": true,
-    "he": "LegalOn Halves Codex Costs While Maintaining Development Velocity",
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 2,
-     "عدالة المصدر": 2,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 6
-   }
-  ],
   "تقنية": [
+   {
+    "head": "الذكاء الاصطناعي يهز أقدم قواعد مهنة المحاماة",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://www.alarabiya.net/aswaq/special-stories/2026/10/10/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%87%D8%B2-%D8%A7%D9%82%D8%AF%D9%85-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D9%85%D9%87%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9",
+    "fa": false,
+    "at": "2026-10-10T11:15+00:00",
+    "he": "Artificial Intelligence Shakes the Oldest Rules of the Legal Profession",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "شركات الذكاء الاصطناعي تستعد لحادث كارثي محتمل وتداعياته.. ما القصة؟",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://www.alarabiya.net/technology/ai/2026/10/10/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AD%D8%A7%D8%AF%D8%AB-%D9%83%D8%A7%D8%B1%D8%AB%D9%8A-%D9%85%D8%AD%D8%AA%D9%85%D9%84-%D9%88%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA%D9%87",
+    "fa": false,
+    "at": "2026-10-10T09:29+00:00",
+    "he": "AI Companies Brace for Potential Catastrophic Accident and Its Fallout",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "اكتشاف بيولوجي لشركة أنثروبيك يُثير جدلًا بشأن دور الذكاء الاصطناعي في البحث العلمي",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/science-and-health/article/2026/10/10/ai-biology-anthropic-dna-discovery",
+    "fa": false,
+    "at": "2026-10-10T11:48+00:00",
+    "he": "Anthropic Biological Discovery Sparks Debate Over AI's Role in Scientific Research",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
    {
     "head": "من أمن الإمدادات إلى الذكاء الاصطناعي... قضايا تجمع قادة الطاقة العالميين في الرياض",
     "src": "الشرق الأوسط",
@@ -1374,60 +1238,7 @@
     "fa": false,
     "at": "2026-10-10T08:18+00:00",
     "img": "https://static.srpcdigital.com/styles/1200x600/public/2026-10/1819769.jpeg.webp?VersionId=4sR7QQ3yjxCfd0TjrN6b4lUz1ZlRFbqc",
-    "he": "From Energy Security to AI: Global Energy Leaders Convene in Riyadh",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "من مراكز البيانات إلى الروبوتات.. لماذا يلتهم الذكاء الاصطناعي ذاكرة أجهزتنا؟",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/tech/2026/10/10/%D9%85%D9%86-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA-%D9%84%D9%85%D8%A7%D8%B0%D8%A7",
-    "fa": false,
-    "at": "2026-10-10T11:40+00:00",
-    "img": "https://www.aljazeera.net/wp-content/uploads/2026/08/768568-1786449956.jpg?resize=1920%2C1280&amp;quality=80",
-    "he": "From Data Centers to Robotics: Why AI Is Devouring Device Memory",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "الذكاء الاصطناعي يهز أقدم قواعد مهنة المحاماة",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://www.alarabiya.net/aswaq/special-stories/2026/10/10/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%87%D8%B2-%D8%A7%D9%82%D8%AF%D9%85-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D9%85%D9%87%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9",
-    "fa": false,
-    "at": "2026-10-10T11:15+00:00",
-    "he": "Artificial Intelligence Disrupts Long-Standing Legal Principles",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "أداة لمراقبة سلوك وكلاء الذكاء الاصطناعي من الداخل.. كيف ذلك؟",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://www.aljazeera.net/tech/2026/10/10/%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A3%D8%AF%D8%A7%D8%A9-%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%B3%D9%84%D9%88%D9%83-%D9%88%D9%83%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1",
-    "fa": false,
-    "at": "2026-10-10T15:08+00:00",
-    "img": "https://www.aljazeera.net/wp-content/uploads/2026/10/575687458-1791629642.jpg?resize=1920%2C1280&amp;quality=80",
-    "he": "Inside Look: New Tool Monitors AI Agent Behavior",
+    "he": "From Supply Security to AI: Global Energy Leaders Convene in Riyadh",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -1464,7 +1275,7 @@
     "fa": false,
     "at": "2026-10-08T16:00+00:00",
     "en": true,
-    "he": "How Oracle Turns Days of Work Into Minutes With ChatGPT and Codex",
+    "he": "How Oracle Turns Days of Work into Minutes with ChatGPT and Codex",
     "via": "مختبر أبحاث",
     "isnad": {
      "الاتصال": 2,
@@ -1476,23 +1287,23 @@
     "score": 6
    },
    {
-    "head": "إحباط عمليات \"الواجهة الزائفة\" الممكنة بالذكاء الاصطناعي",
+    "head": "إحباط عمليات \"الواجهة الزائفة\" المدعومة بالذكاء الاصطناعي",
     "src": "أوبن إيه آي",
-    "grade": "صحيح",
+    "grade": "حسن",
     "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "fa": false,
     "at": "2026-10-08T00:00+00:00",
     "en": true,
-    "he": "Foiling AI-Enabled 'Fake Front' Operations",
+    "he": "AI-Powered 'Fake Front' Operations Foiled",
     "via": "مختبر أبحاث",
     "isnad": {
      "الاتصال": 2,
      "عدالة المصدر": 2,
      "الضبط": 0,
-     "عدم الشذوذ": 1,
+     "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 6
+    "score": 5
    },
    {
     "head": "آفاق التقنية الكَمّية.. لماذا لا تحتمل التجارة العالمية والتكنولوجيا ترف الانتظار؟",
@@ -1501,7 +1312,24 @@
     "link": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D9%8A%D8%A9-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D9%85%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%AA%D8%B1%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1",
     "fa": false,
     "at": "2026-10-10T18:37+00:00",
-    "he": "Quantum Computing Horizons: Why Global Trade and Tech Cannot Afford to Wait",
+    "he": "Quantum Technology Horizons: Why Global Trade and Tech Cannot Afford to Wait",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "التكنولوجيا الحيوية صراع بين واشنطن وبكين",
+    "src": "الشرق الأوسط",
+    "grade": "حسن",
+    "link": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5327197-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A%D8%A9-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%A8%D9%83%D9%8A%D9%86",
+    "fa": false,
+    "at": "2026-10-10T20:05+00:00",
+    "he": "Biotechnology: A Battleground Between Washington and Beijing",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -1518,7 +1346,7 @@
     "link": "https://www.aljazeera.net/amp/tech/2026/10/10/5-%D8%A5%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%A7%D8%B9%D8%AF-%D8%B4%D8%A7%D8%AA-%D8%AC%D9%8A-%D8%A8%D9%8A-%D8%AA%D9%8A-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D8%AF%D9%8A%D8%B1",
     "fa": false,
     "at": "2026-10-10T11:30+00:00",
-    "he": "5 Clues That Help ChatGPT Estimate Your Age",
+    "he": "5 Signals That Help ChatGPT Guess Your Age",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -1527,23 +1355,6 @@
      "انتفاء العلة": 1
     },
     "score": 4
-   },
-   {
-    "head": "4 علامات تكشف عمليات الاحتيال بالذكاء الاصطناعي.. كيف تحمي نفسك؟",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://www.alarabiya.net/technology/cybersecurity-privacy/2026/10/10/4-%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%85%D9%8A-%D9%86%D9%81%D8%B3%D9%83-",
-    "fa": false,
-    "at": "2026-10-10T13:26+00:00",
-    "he": "4 Warning Signs of AI Scams—and How to Protect Yourself",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 5
    },
    {
     "head": "بسبب استخدام الذكاء الاصطناعي.. \"نيكون\" تجرد فائزًا بمسابقة التصوير المجهري من جائزته",
@@ -1552,7 +1363,7 @@
     "link": "https://www.alarabiya.net/technology/in-focus/2026/10/10/%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%86%D9%8A%D9%83%D9%88%D9%86-%D8%AA%D8%AC%D8%B1%D8%AF-%D9%81%D8%A7%D8%A6%D8%B2-%D8%A7-%D8%A8%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AC%D9%87%D8%B1%D9%8A-%D9%85%D9%86-%D8%AC%D8%A7%D8%A6%D8%B2%D8%AA%D9%87",
     "fa": false,
     "at": "2026-10-10T07:07+00:00",
-    "he": "Nikon Strips Microphotography Winner of Prize Over AI Use",
+    "he": "Nikon Strips Microphotography Winner of Award Over AI Use",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -1561,15 +1372,17 @@
      "انتفاء العلة": 1
     },
     "score": 4
-   },
+   }
+  ],
+  "ذكاء اصطناعي": [
    {
-    "head": "كيف تتحرر من قيود كلود كود وتستخدم نماذج ذكاء اصطناعي أخرى؟",
-    "src": "الجزيرة نت",
+    "head": "مايكروسوفت تراهن على كمبيوتر بذكاء اصطناعي مستقل",
+    "src": "سكاي نيوز عربية",
     "grade": "حسن",
-    "link": "https://www.aljazeera.net/tech/2026/10/10/%D9%83%D9%84%D9%88%D8%AF-%D9%83%D9%88%D8%AF-%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%A7%D8%B0%D8%AC-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%AA%D8%A8%D8%AF%D9%84",
+    "link": "https://www.skynewsarabia.com/technology/1897006-%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA-%D8%AA%D8%B1%D8%A7%D9%87%D9%86-%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D8%A8%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%85%D8%B3%D8%AA%D9%82%D9%84",
     "fa": false,
-    "at": "2026-10-10T11:02+00:00",
-    "he": "How to Break Free From Claude Code Limits and Use Other AI Models",
+    "at": "2026-10-08T03:46+00:00",
+    "he": "Microsoft Bets on Autonomous AI PC",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -1578,6 +1391,99 @@
      "انتفاء العلة": 1
     },
     "score": 3
+   },
+   {
+    "head": "Surface Laptop Ultra.. وحش للذكاء الاصطناعي يواجه مشكلة مزعجة",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://www.alarabiya.net/technology/smart-phones/2026/10/08/surface-laptop-ultra-%D9%88%D8%AD%D8%B4-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D9%85%D8%B2%D8%B9%D8%AC%D8%A90",
+    "fa": false,
+    "at": "2026-10-08T14:12+00:00",
+    "he": "Surface Laptop Ultra: AI Powerhouse Faces an Annoying Problem",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "جدولة ذات تأثير فعال لعناقيد GPU",
+    "src": "هَغِنغ فيس",
+    "grade": "حسن",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "fa": false,
+    "at": "2026-10-09T15:20+00:00",
+    "en": true,
+    "he": "High-Impact Scheduling for GPU Clusters",
+    "via": "منصّة النماذج المفتوحة",
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "Sophos تخفض وقت التحقيق في التهديدات بنسبة 96% باستخدام OpenAI Daybreak",
+    "src": "أوبن إيه آي",
+    "grade": "صحيح",
+    "link": "https://openai.com/index/sophos",
+    "fa": false,
+    "at": "2026-10-09T07:00+00:00",
+    "en": true,
+    "he": "Sophos Cuts Threat Investigation Time by 96% Using OpenAI Daybreak",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 7
+   },
+   {
+    "head": "Pollo AI تحول الأفكار الإبداعية إلى حملات باستخدام OpenAI",
+    "src": "أوبن إيه آي",
+    "grade": "صحيح",
+    "link": "https://openai.com/index/pollo-ai",
+    "fa": false,
+    "at": "2026-10-08T12:00+00:00",
+    "en": true,
+    "he": "Pollo AI Turns Creative Ideas into Campaigns Using OpenAI",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 6
+   },
+   {
+    "head": "LegalOn تخفض تكاليف Codex إلى النصف مع الحفاظ على سرعة التطوير",
+    "src": "أوبن إيه آي",
+    "grade": "صحيح",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "fa": false,
+    "at": "2026-10-08T12:00+00:00",
+    "en": true,
+    "he": "LegalOn Cuts Codex Costs in Half While Maintaining Development Velocity",
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 6
    }
   ],
   "اقتصاد": [
@@ -1588,31 +1494,7 @@
     "link": "https://www.alkhaleej.ae/2026-10-09/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%AA%D9%86%D8%AA%D8%B4%D9%84-%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D9%85%D9%86-%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9",
     "fa": false,
     "at": "2026-10-09T19:46+00:00",
-    "he": "Tech Sector Pulls Wall Street Out of Slump",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "ماسك يوجه انتقادا لاذعا للملياردير أمباني: لم أدرك أنك الحاكم الفعلي للهند",
-    "src": "CNN Arabic",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/world/article/2026/10/10/elon-musk-ambani-india-starlink-viral-post",
-    "fa": false,
-    "at": "2026-10-10T05:23+00:00",
-    "w": 5,
-    "wsrc": [
-     "BBC",
-     "عاجل",
-     "العربية",
-     "بوابة التكنولوجيا المالية"
-    ],
-    "he": "Musk Lashes Out at Billionaire Ambani: 'Didn't Realize You Were the De Facto Ruler of India'",
+    "he": "Tech Stocks Pull Wall Street Out of Slump",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -1632,10 +1514,10 @@
     "w": 5,
     "wsrc": [
      "بوابة الأهرام",
-     "عالم التقنية",
-     "صدى البلد"
+     "صدى البلد",
+     "Vietnam.vn"
     ],
-    "he": "Galaxy S27 Prices Leaked: Ultra Sees Price Hike, Other Models Hold Steady",
+    "he": "Leak Reveals Galaxy S27 Prices: Hike for Ultra, Flat for Other Models",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -1646,13 +1528,37 @@
     "score": 4
    },
    {
+    "head": "ماسك يوجه انتقادا لاذعا للملياردير أمباني: لم أدرك أنك الحاكم الفعلي للهند",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://arabic.cnn.com/world/article/2026/10/10/elon-musk-ambani-india-starlink-viral-post",
+    "fa": false,
+    "at": "2026-10-10T05:23+00:00",
+    "w": 5,
+    "wsrc": [
+     "BBC",
+     "عاجل",
+     "العربية",
+     "بوابة التكنولوجيا المالية"
+    ],
+    "he": "Musk Scathes Billionaire Ambani: 'Didn't Realize You Were India's De Facto Ruler'",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
     "head": "اتفاق ترامب المفاجئ مع روسيا مؤشر على ضغوط متزايدة لكبح أسعار الوقود",
     "src": "بي بي سي فارسي",
     "grade": "حسن",
     "link": "https://www.bbc.com/persian/articles/cxnv0q9vvj64o?at_medium=RSS&at_campaign=rss",
     "fa": true,
     "at": "2026-10-10T18:00+00:00",
-    "he": "Trump's Surprise Russia Deal Signals Mounting Pressure to Curb Fuel Prices",
+    "he": "Trump's Surprise Deal with Russia Signals Mounting Pressure to Curb Fuel Prices",
     "via": "هيئة بث بريطانية عامة",
     "isnad": {
      "الاتصال": 1,
@@ -1664,28 +1570,9 @@
     "score": 3
    },
    {
-    "head": "أرسنال 2-1 ليدز؛ «ريمونتادا» المدفعجية بهدفي كالافيوري وغيمارايش",
-    "src": "إيران إنترناشونال",
-    "grade": "حسن",
-    "link": "https://www.iranintl.com/202610102383",
-    "fa": true,
-    "at": "2026-10-10T16:02+00:00",
-    "img": "https://i.iranintl.com/images/rdk9umy0/production/863023df089491787931cab7a9eb21f250ef7939-1269x835.jpg?rect=0,86,1269,664&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
-    "he": "Arsenal 2-1 Leeds: Calafiori and Guimarães Secure Gunners' Comeback",
-    "via": "قناة فارسية مقرّها لندن",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
     "head": "\"صفقة الديزل\" بين ترامب وبوتين: من يدفع الثمن؟",
     "src": "فرانس ٢٤ عربي",
-    "grade": "حسن",
+    "grade": "ضعيف الإسناد",
     "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261010-%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%85%D9%86-%D9%8A%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%AB%D9%85%D9%86",
     "fa": false,
     "at": "2026-10-10T16:00+00:00",
@@ -1695,10 +1582,10 @@
      "الاتصال": 1,
      "عدالة المصدر": 0,
      "الضبط": 0,
-     "عدم الشذوذ": 1,
+     "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 3
+    "score": 2
    },
    {
     "head": "إنتاج مصافي عُمان يسجل 150 مليون برميل بنهاية أغسطس 2026",
@@ -1719,13 +1606,13 @@
   ],
   "إيران": [
    {
-    "head": "هجوم على مطار الرياض قبيل المؤتمر الدولي للنفط",
+    "head": "هجوم صاروخي على مطار الرياض ورد فعل ترامب: سنتحرك بسرعة كبيرة",
     "src": "بي بي سي فارسي",
     "grade": "حسن",
     "link": "https://www.bbc.co.uk/persian/live/cqy8lxkp54ygt?at_medium=RSS&at_campaign=rss",
     "fa": true,
     "at": "",
-    "he": "Riyadh Airport Attacked Ahead of International Oil Conference",
+    "he": "Rocket Attack on Riyadh Airport Prompts Trump Reaction: 'We Will Act Very Quickly'",
     "via": "هيئة بث بريطانية عامة",
     "isnad": {
      "الاتصال": 1,
@@ -1743,16 +1630,16 @@
     "link": "https://www.bbc.com/persian/articles/cqlydnx001pxo?at_medium=RSS&at_campaign=rss",
     "fa": true,
     "at": "2026-10-10T14:55+00:00",
-    "he": "Kremlin: Putin Conveyed Iranian Message to Trump",
+    "he": "Kremlin: Putin Conveyed Iran's Message to Trump",
     "via": "هيئة بث بريطانية عامة",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
-     "عدم الشذوذ": 1,
+     "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 4
+    "score": 3
    },
    {
     "head": "من مضيق هرمز إلى الانتخابات الأمريكية؛ كيف زادت حرب إيران من تعقيد حسابات ترامب؟",
@@ -1767,19 +1654,19 @@
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
-     "عدم الشذوذ": 1,
+     "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 4
+    "score": 3
    },
    {
-    "head": "نشر آلاف العناصر الأمنية في نيودلهي واعتقال زعيم «حزب شعب سوسك»",
+    "head": "نشر آلاف القوات الأمنية في نيودلهي واعتقال زعيم «حزب الشعب الصرصور»",
     "src": "بي بي سي فارسي",
     "grade": "حسن",
     "link": "https://www.bbc.com/persian/articles/cwp9gxm21r1ko?at_medium=RSS&at_campaign=rss",
     "fa": true,
     "at": "2026-10-10T10:31+00:00",
-    "he": "Thousands of Security Personnel Deployed in New Delhi; Leader of Susk People's Party Arrested",
+    "he": "Thousands of Security Forces Deployed in New Delhi as 'Cockroach People's Party' Leader Arrested",
     "via": "هيئة بث بريطانية عامة",
     "isnad": {
      "الاتصال": 1,
@@ -1791,14 +1678,14 @@
     "score": 3
    },
    {
-    "head": "مانشستر يونايتد 1-1 توتنهام؛ الشياطين الحمر يعجزون عن التغلب حتى على فريق بعشرة لاعبين",
+    "head": "ريال مدريد 1-0 فياريال؛ فوز صعب لفريق مورينيو مع طرد فينيسيوس ودون أي أثر لمبابي",
     "src": "إيران إنترناشونال",
     "grade": "حسن",
-    "link": "https://www.iranintl.com/202610109589",
+    "link": "https://www.iranintl.com/202610103073",
     "fa": true,
-    "at": "2026-10-10T18:30+00:00",
-    "img": "https://i.iranintl.com/images/rdk9umy0/production/0adb02f6c39593c4bc95bdf52b54eb1fafac85b3-3084x2097.jpg?rect=0,242,3084,1614&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
-    "he": "Manchester United 1-1 Tottenham: Red Devils Fail to Beat 10-Man Spurs",
+    "at": "2026-10-10T21:00+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/88ea8788f7e6df98fe15fbb47e4248252926a64c-3198x2206.jpg?rect=0,266,3198,1674&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Real Madrid 1-0 Villarreal: Gritty Win for Mourinho's Side as Vinícius Sent Off, Mbappé Absent",
     "via": "قناة فارسية مقرّها لندن",
     "isnad": {
      "الاتصال": 1,
@@ -1810,14 +1697,71 @@
     "score": 3
    },
    {
-    "head": "مهدي رجب زاده يصبح مديراً فنياً لفجر سباسي شيراز",
+    "head": "المدير التنفيذي لتراكتور: الفريق وصل إلى مسقط بعد 16 ساعة، وحتى الطعام الجيد لم يكن متوفراً",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202610104307",
+    "fa": true,
+    "at": "2026-10-10T20:32+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/7033b3b4c5c349dc8ed631984a07e1467b5e085e-1430x1400.png?rect=0,116,1430,748&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Tractor CEO: Team Reached Muscat After 16 Hours, Even Decent Food Was Unavailable",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "برشلونة 3-0 خيتافي؛ بارسا اعتاد على الانتصارات المتتالية في الدوري الإسباني",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202610104857",
+    "fa": true,
+    "at": "2026-10-10T18:32+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/2e940fed565d13fe15affe56224e2bb02d28faf7-5058x3270.jpg?rect=0,312,5058,2647&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Barcelona 3-0 Getafe: Barca Stays Accustomed to Consecutive La Liga Wins",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "مانشستر يونايتد 1-1 توتنهام؛ الشياطين الحمر يعجزون حتى أمام فريق يلعب بـ 10 لاعبين",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202610109589",
+    "fa": true,
+    "at": "2026-10-10T18:30+00:00",
+    "img": "https://i.iranintl.com/images/rdk9umy0/production/0adb02f6c39593c4bc95bdf52b54eb1fafac85b3-3084x2097.jpg?rect=0,242,3084,1614&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
+    "he": "Manchester United 1-1 Tottenham: Red Devils Helpless Even Against 10 Men",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "مهدي رجب زاده يصبح مدرباً لفريق فجر سباسي شيراز",
     "src": "إيران إنترناشونال",
     "grade": "ضعيف الإسناد",
     "link": "https://www.iranintl.com/202610104904",
     "fa": true,
     "at": "2026-10-10T18:13+00:00",
     "img": "https://i.iranintl.com/images/rdk9umy0/production/9ca5d466a98d23c28018cfb779d5676a178c1c3b-800x533.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
-    "he": "Mehdi Rajabzadeh Appointed Head Coach of Fajr Sepasi Shiraz",
+    "he": "Mehdi Rajabzadeh Appointed Manager of Fajr Sepasi Shiraz",
     "via": "قناة فارسية مقرّها لندن",
     "isnad": {
      "الاتصال": 1,
@@ -1827,43 +1771,6 @@
      "انتفاء العلة": 1
     },
     "score": 2
-   },
-   {
-    "head": "إنتر 3-0 بارما؛ النيراتزوري يعود مؤقتاً إلى صدارة الترتيب",
-    "src": "إيران إنترناشونال",
-    "grade": "حسن",
-    "link": "https://www.iranintl.com/202610101748",
-    "fa": true,
-    "at": "2026-10-10T17:55+00:00",
-    "img": "https://i.iranintl.com/images/rdk9umy0/production/07ac8dd70770fd6f780d6e1f96df8619b5aae265-6458x4403.jpg?rect=0,512,6458,3380&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format",
-    "he": "Inter 3-0 Parma: Nerazzurri Temporarily Reclaim Top Spot",
-    "via": "قناة فارسية مقرّها لندن",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "الحرس الثوري الإيراني: ناقلة نفط عملاقة تتعرض لانفجار في مضيق هرمز",
-    "src": "CNN بالعربية",
-    "grade": "حسن",
-    "link": "https://arabic.cnn.com/middle-east/article/2026/10/10/irans-revolutionary-guard-supertanker-explodes-in-the-strait-of-hormuz",
-    "fa": false,
-    "at": "2026-10-10T18:42+00:00",
-    "img": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1080,c_fill,q_auto,g_center/cnnarabic/2026/10/10/images/346576.jpg",
-    "via": "شبكة إخبارية أمريكية",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
    },
    {
     "head": "سنتكوم لـ\"العربية\": هرمز مفتوح وإيران لا تسيطر عليه",
