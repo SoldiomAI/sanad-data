@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-28T04:53+00:00",
+ "updated": "2026-11-28T13:56+00:00",
  "days": 7,
  "note": "ملخص أسبوعي للأخبار المُسنَدة (صحيح/حسن) حسب الدولة — من حصيلة سَنَد والأرشيف",
- "total_stories": 527,
- "active_countries": 52,
+ "total_stories": 545,
+ "active_countries": 48,
  "countries": [
   {
    "id": "ir",
    "name": "إيران",
    "en": "Iran",
-   "n": 105,
+   "n": 108,
    "sahih": 1,
-   "hasan": 104,
+   "hasan": 107,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 105 خبرًا مُسنَدًا عن إيران (1 صحيح و104 حسن). أبرزها: «الحرس الثوري الإيراني: اصطدام ناقلتي نفط بألغام قبالة سلطنة عُمان».",
-   "summary_en": "Over the last week Sanad graded 105 stories on Iran (1 verified · 104 credible).",
+   "summary": "خلال آخر أسبوع رصد سَنَد 108 خبرًا مُسنَدًا عن إيران (1 صحيح و107 حسن). أبرزها: «الحرس الثوري الإيراني: اصطدام ناقلتي نفط بألغام قبالة سلطنة عُمان».",
+   "summary_en": "Over the last week Sanad graded 108 stories on Iran (1 verified · 107 credible).",
    "stories": [
     {
      "head": "الحرس الثوري الإيراني: اصطدام ناقلتي نفط بألغام قبالة سلطنة عُمان",
@@ -33,12 +33,28 @@
      }
     },
     {
-     "head": "الجيش الأميركي: لا رسوم على عبور مضيق هرمز",
+     "head": "مالك شبكة إخبارية تركية واسعة الانتشار: الحكومة «دمّرت» شبكتنا",
+     "he": "Owner of Major Turkish News Outlet Says Government 'Destroyed' Network",
+     "grade": "حسن",
+     "src": "بي بي سي فارسي",
+     "link": "https://www.bbc.com/persian/articles/c6greqg0jzj4o?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-28T12:11+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "«سنتكوم»: إيران لم تعد تملك بحرية",
      "he": "",
      "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1907653-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-     "at": "2026-11-28T03:29+00:00",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5346584-%D8%B3%D9%86%D8%AA%D9%83%D9%88%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85-%D8%AA%D8%B9%D8%AF-%D8%AA%D9%85%D9%84%D9%83-%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9",
+     "at": "2026-11-28T11:38+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
@@ -49,12 +65,12 @@
      }
     },
     {
-     "head": "العثور على جثامين 14 مهاجراً في قارب قرب جزر الكناري",
-     "he": "Bodies of 14 Migrants Found in Boat Near Canary Islands",
+     "head": "الدولار بـ300 ألف تومان، ما هو رأيكم؟",
+     "he": "Dollar at 300,000 Tomans: What Do You Think?",
      "grade": "حسن",
      "src": "إيران إنترناشونال",
-     "link": "https://www.iranintl.com/202611287859",
-     "at": "2026-11-28T02:07+00:00",
+     "link": "https://www.iranintl.com/202611281798",
+     "at": "2026-11-28T11:01+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -65,60 +81,28 @@
      }
     },
     {
-     "head": "أمريكا توضح حقيقة \"فرض رسوم على السفن العابرة لهرمز\"",
-     "he": "",
+     "head": "إيران تعلن سيطرتها البحرية على شرق مضيق هرمز",
+     "he": "Iran Declares Maritime Dominance East of Strait of Hormuz",
      "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/us-clarifies-the-truth-regarding-imposing-fees-on-ships-passing-t-hormuz",
-     "at": "2026-11-28T01:58+00:00",
-     "score": 3,
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/world/1907674-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%B3%D9%8A%D8%B7%D8%B1%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%B4%D8%B1%D9%82-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+     "at": "2026-11-28T10:33+00:00",
+     "score": 4,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
-      "عدم الشذوذ": 0,
+      "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     },
     {
-     "head": "علاقات جنسية أقل وإباحية أكثر؛ تغير السلوك الجنسي للشباب في بريطانيا",
-     "he": "Less Sex, More Pornography: British Youths' Sexual Behavior Is Shifting",
-     "grade": "حسن",
-     "src": "بي بي سي فارسي",
-     "link": "https://www.bbc.com/persian/articles/cm62pw5n72nlo?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-28T01:36+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "«الحرس الثوري» يهدد بالتصعيد بحراً وجواً",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346490",
-     "at": "2026-11-28T00:08+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "نوتنغهام فورست 3-2 تشيلسي؛ استمرار النتائج الضعيفة لبلوز لندن مع ألونسو",
-     "he": "Nottingham Forest 3-2 Chelsea: London Blues' Poor Form Continues Under Alonso",
+     "head": "كولومبوس 1-0 إنتر ميامي؛ إقصاء مبكر لميسي وإنتر ميامي من الأدوار الإقصائية للدوري الأمريكي",
+     "he": "Columbus 1-0 Inter Miami: Early MLS Playoff Exit for Messi and Miami",
      "grade": "حسن",
      "src": "إيران إنترناشونال",
-     "link": "https://www.iranintl.com/202611274183",
-     "at": "2026-11-27T22:01+00:00",
+     "link": "https://www.iranintl.com/202611282178",
+     "at": "2026-11-28T10:32+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -129,18 +113,34 @@
      }
     },
     {
-     "head": "هل استُهدفت سفينة إيرانية في بنغازي تحمل معدات إلكترونية لحفتر؟",
-     "he": "Was an Iranian Ship Carrying Electronic Gear for Haftar Targeted in Benghazi?",
+     "head": "إيران تعلن جاهزية قواتها وتتوعد برد يتجاوز حدود المنطقة إذا تجدد الهجوم عليها",
+     "he": "",
      "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5346075-%D9%87%D9%84-%D8%A7%D8%B3%D8%AA%D9%8F%D9%87%D8%AF%D9%81%D8%AA-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%AA%D8%AD%D9%85%D9%84-%D9%85%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D8%AD%D9%81%D8%AA%D8%B1%D8%9F",
-     "at": "2026-11-27T21:23+00:00",
-     "score": 3,
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%ac%d8%a7%d9%87%d8%b2%d9%8a%d8%a9-%d9%82%d9%88%d8%a7%d8%aa%d9%87%d8%a7-%d9%88%d8%aa%d8%aa%d9%88%d8%b9%d8%af-%d8%a8%d8%b1%d8%af?traffic_source=rss",
+     "at": "2026-11-28T09:42+00:00",
+     "score": 4,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
-      "عدم الشذوذ": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "«سنتكوم»: ادعاءات إيران بشأن استعادة ناقلتي نفط كاذبة",
+     "he": "",
+     "grade": "حسن",
+     "src": "جريدة الجريدة الكويتية",
+     "link": "https://www.aljarida.com/article/151796",
+     "at": "2026-11-28T07:11+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     }
@@ -150,36 +150,20 @@
    "id": "us",
    "name": "أمريكا",
    "en": "United States",
-   "n": 72,
+   "n": 75,
    "sahih": 0,
-   "hasan": 72,
+   "hasan": 75,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 72 خبرًا مُسنَدًا عن أمريكا (72 حسن). أبرزها: «عاصفة قوية تخلف فيضانات وانقطاعًا واسعًا للكهرباء في أمريكا».",
-   "summary_en": "Over the last week Sanad graded 72 stories on United States (72 credible).",
+   "summary": "خلال آخر أسبوع رصد سَنَد 75 خبرًا مُسنَدًا عن أمريكا (75 حسن). أبرزها: «\"وكأنه يحدث الآن\".. ناهد السباعي تستعيد مأساة وفاة أخيها وتتحدث عن ألم الفقدان».",
+   "summary_en": "Over the last week Sanad graded 75 stories on United States (75 credible).",
    "stories": [
     {
-     "head": "عاصفة قوية تخلف فيضانات وانقطاعًا واسعًا للكهرباء في أمريكا",
+     "head": "\"وكأنه يحدث الآن\".. ناهد السباعي تستعيد مأساة وفاة أخيها وتتحدث عن ألم الفقدان",
      "he": "",
      "grade": "حسن",
      "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/world/video/2026/11/28/v206057-thanksgiving-storm-knocks-out-power-across-the-east-coast",
-     "at": "2026-11-28T04:32+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "شاهد.. الشرطة تشتبك مع مشجعي كرة قدم رفعوا اعلام فلسطين بمباراة اوروبية",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/sport/video/2026/11/28/v206091-police-clash-with-soccer-fans-displaying-palestinian-flags",
-     "at": "2026-11-28T04:21+00:00",
+     "link": "https://arabic.cnn.com/entertainment/article/2026/11/28/nahed-el-sebai-recalls-her-brothers-passing",
+     "at": "2026-11-28T13:49+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -190,12 +174,12 @@
      }
     },
     {
-     "head": "أمريكا توضح حقيقة \"فرض رسوم على السفن العابرة لهرمز\"",
+     "head": "البحرين تستدعي السفير اللبناني احتجاجاً على \"تصريحات مسيئة لقضائها\"",
      "he": "",
      "grade": "حسن",
      "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/us-clarifies-the-truth-regarding-imposing-fees-on-ships-passing-t-hormuz",
-     "at": "2026-11-28T01:58+00:00",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/bahrain-summons-lebanons-ambassador",
+     "at": "2026-11-28T13:24+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -206,28 +190,12 @@
      }
     },
     {
-     "head": "عاصفة عيد الشكر تُربك أمريكا.. مئات الآلاف بلا كهرباء واضطراب واسع في الطيران",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%b9%d8%a7%d8%b5%d9%81%d8%a9-%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%b4%d9%83%d8%b1-%d8%aa%d8%b1%d8%a8%d9%83-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d9%85%d8%a6%d8%a7%d8%aa?traffic_source=rss",
-     "at": "2026-11-28T00:50+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "كيف شكَّك \"أقرب حلفاء\" بوتين في مزاعم روسية تبرر غزو أوكرانيا؟",
+     "head": "في بلد \"الكيبوب\".. لماذا يُحظر الرقص داخل المطاعم في كوريا الجنوبية؟",
      "he": "",
      "grade": "حسن",
      "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/world/article/2026/11/28/putins-biggest-ally-questions-claim-russia-uses-to-justify-invasion-of-ukraine",
-     "at": "2026-11-28T00:10+00:00",
+     "link": "https://arabic.cnn.com/travel/article/2026/11/28/south-korea-ban-dance-restaurants-law-intl-hnk",
+     "at": "2026-11-28T13:08+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -238,50 +206,82 @@
      }
     },
     {
-     "head": "\"81 مليوناً لأقل من 900 شخص\".. تقرير يكشف تكلفة احتجاز الجيش الأمريكي لـ\"مهاجرين\" في غوانتانامو",
+     "head": "مرحلة ما قبل السكّري.. علامات وعوامل خطر تساعد على اكتشافها باكرًا",
      "he": "",
      "grade": "حسن",
      "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/world/article/2026/11/28/watchdog-finds-us-military-spent-81-million-holding-900-migrants-at-guantanamo",
-     "at": "2026-11-27T22:25+00:00",
-     "score": 4,
+     "link": "https://arabic.cnn.com/science-and-health/video/2026/11/28/v206086-type-2-diabetes-lifestyle",
+     "at": "2026-11-28T13:02+00:00",
+     "score": 3,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "مصر.. هذا ما تعهد به سامي قمصان قبل مباراته الأولى مع الأهلي",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/sport/article/2026/11/28/sami-komsan-al-ahly",
+     "at": "2026-11-28T12:57+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "هذا الفنان يحوّل أنواع الموسيقى إلى منحوتات رملية.. كيف تبدو؟",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/style/video/2026/11/28/v206083-sand-sculpture-musical-genre",
+     "at": "2026-11-28T12:52+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "بالفيديو.. سؤال عن نتنياهو يحرج ترامب",
+     "he": "",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/world/1907732-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B3%D8%A4%D8%A7%D9%84-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%AD%D8%B1%D8%AC-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+     "at": "2026-11-28T12:29+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "كولومبوس 1-0 إنتر ميامي؛ إقصاء مبكر لميسي وإنتر ميامي من الأدوار الإقصائية للدوري الأمريكي",
+     "he": "Columbus 1-0 Inter Miami: Early MLS Playoff Exit for Messi and Miami",
+     "grade": "حسن",
+     "src": "إيران إنترناشونال",
+     "link": "https://www.iranintl.com/202611282178",
+     "at": "2026-11-28T10:32+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 0,
       "الضبط": 1,
       "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "ظاهرة \"غير مسبوقة\".. ما أسباب تزايد انتقال أعضاء إدارة ترامب للسكن في قواعد عسكرية؟",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/world/article/2026/11/28/as-trump-remakeshis-cabinet-increasingly-moves-to-secure-military-bases",
-     "at": "2026-11-27T21:05+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "سفير إيران لدى باكستان لـCNN: مستعدون للتفاوض.. لكن ردنا سيكون حازمًا",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/middle-east/video/2026/11/28/v206080-reza-amiri-moghadam-pakistan-iran-conflict-saifi-latam-intl",
-     "at": "2026-11-27T20:10+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     }
@@ -295,96 +295,64 @@
    "sahih": 0,
    "hasan": 54,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 54 خبرًا مُسنَدًا عن قطر (54 حسن). أبرزها: «عاصفة عيد الشكر تُربك أمريكا.. مئات الآلاف بلا كهرباء واضطراب واسع في الطيران».",
-   "summary_en": "Over the last week Sanad graded 54 stories on Qatar (54 credible).",
+   "summary": "خلال آخر أسبوع رصد سَنَد 54 خبرًا مُسنَدًا عن قطر (54 حسن). أبرزها: «اهتمام قطري وإماراتي بالتعاقد مع الفرنسي كريم بنزيمة».",
+   "summary_en": "Over the last week Sanad graded 54 stories on Qatar (54 credible). Lead: “Qatari and Emirati Clubs Eye Signing French Star Karim Benzema”.",
    "stories": [
     {
-     "head": "عاصفة عيد الشكر تُربك أمريكا.. مئات الآلاف بلا كهرباء واضطراب واسع في الطيران",
-     "he": "",
+     "head": "اهتمام قطري وإماراتي بالتعاقد مع الفرنسي كريم بنزيمة",
+     "he": "Qatari and Emirati Clubs Eye Signing French Star Karim Benzema",
      "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%b9%d8%a7%d8%b5%d9%81%d8%a9-%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%b4%d9%83%d8%b1-%d8%aa%d8%b1%d8%a8%d9%83-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d9%85%d8%a6%d8%a7%d8%aa?traffic_source=rss",
-     "at": "2026-11-28T00:50+00:00",
-     "score": 4,
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/5346596-%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D9%82%D8%B7%D8%B1%D9%8A-%D9%88%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%82%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%83%D8%B1%D9%8A%D9%85-%D8%A8%D9%86%D8%B2%D9%8A%D9%85%D8%A9",
+     "at": "2026-11-28T13:36+00:00",
+     "score": 3,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "«جائزة قطر»: أنتونيللي يحتفل بلقب بطولة العالم... وصراع الوصافة يشتعل",
+     "he": "",
+     "grade": "حسن",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/node/5346610",
+     "at": "2026-11-28T13:19+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "ارتفاع حصيلة ضحايا غرق قارب مهاجرين قبالة جزر الكناري إلى 14 قتيلا",
+     "he": "",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%b9%d8%b4%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9?traffic_source=rss",
+     "at": "2026-11-28T10:15+00:00",
+     "score": 5,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
       "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     },
     {
-     "head": "تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها",
+     "head": "28 نوفمبر 1520.. اليوم الذي اكتشف فيه ماجلان ممرا غير خريطة العالم",
      "he": "",
      "grade": "حسن",
      "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%aa%d8%a7%d9%8a%d9%88%d8%a7%d9%86-%d8%aa%d8%b1%d8%b5%d8%af-33-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%8812-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%ad%d9%88%d9%84?traffic_source=rss",
-     "at": "2026-11-28T00:27+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "مالي تتهم أوكرانيا بتسليح جماعات \"إرهابية\" في الساحل الأفريقي",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d9%85%d8%a7%d9%84%d9%8a-%d8%aa%d8%aa%d9%87%d9%85-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a8%d8%aa%d8%b3%d9%84%d9%8a%d8%ad-%d8%ac%d9%85%d8%a7%d8%b9%d8%a7%d8%aa?traffic_source=rss",
-     "at": "2026-11-27T22:02+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "أوكرانيا تعرض هدنة في البحر الأسود وبوتين يدشن غواصة نووية جديدة",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%b9%d8%b1%d8%b6-%d9%87%d8%af%d9%86%d8%a9-%d8%a8%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af?traffic_source=rss",
-     "at": "2026-11-27T22:02+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الحراك الطلابي يرشّح كيميائياً لانتخابات الرئاسة في صربيا",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%83-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a-%d9%8a%d8%b1%d8%b4%d8%ad-%d9%83%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a%d8%a7?traffic_source=rss",
-     "at": "2026-11-27T21:17+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "لتصفية الحساب.. هذا ما يعده سدنة النبوءات للأقصى يوم 4 ديسمبر",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/opinions/2026/11/28/%d9%85%d8%a7%d8%b0%d8%a7-%d8%a3%d8%b9%d8%af-%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d9%86%d8%a8%d9%88%d8%a1%d8%a7%d8%aa-%d9%8a%d9%88%d9%85-%d9%a4-%d8%af%d9%8a%d8%b3%d9%85%d8%a8%d8%b1?traffic_source=rss",
-     "at": "2026-11-27T20:44+00:00",
+     "link": "https://www.aljazeera.net/misc/2026/11/28/28-%d9%86%d9%88%d9%81%d9%85%d8%a8%d8%b1-1520-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a7%d9%83%d8%aa%d8%b4%d9%81-%d9%81%d9%8a%d9%87-%d9%85%d8%a7%d8%ac%d9%84%d8%a7%d9%86?traffic_source=rss",
+     "at": "2026-11-28T10:15+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
@@ -395,12 +363,12 @@
      }
     },
     {
-     "head": "بعد إغراق ميركوري.. رويترز تكشف عودة أسطول روسي ثانٍ كان متجها إلى ليبيا",
+     "head": "مشادات وهتافات مناهضة لإسرائيل بين مشجعي بشكتاش وهبوعيل في مطار باتومي الجورجي (فيديو)",
      "he": "",
      "grade": "حسن",
      "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%b1%d9%88%d9%8a%d8%aa%d8%b1%d8%b2-%d8%a3%d8%b3%d8%b7%d9%88%d9%84-%d8%b1%d9%88%d8%b3%d9%8a-%d8%ab%d8%a7%d9%86-%d9%83%d8%a7%d9%86-%d9%85%d8%aa%d8%ac%d9%87%d8%a7-%d8%a5%d9%84%d9%89?traffic_source=rss",
-     "at": "2026-11-27T19:42+00:00",
+     "link": "https://www.aljazeera.net/sport/2026/11/28/%d9%85%d8%b4%d8%a7%d8%af%d8%a7%d8%aa-%d9%88%d9%87%d8%aa%d8%a7%d9%81%d8%a7%d8%aa-%d9%85%d9%86%d8%a7%d9%87%d8%b6%d8%a9-%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a8%d9%8a%d9%86?traffic_source=rss",
+     "at": "2026-11-28T10:13+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -411,12 +379,185 @@
      }
     },
     {
-     "head": "فاز بمليون دولار وصورة الاحتفال تقود إلى اعتقاله",
+     "head": "مباشر.. مباراة الهلال ضد الاتفاق في الدوري السعودي 2026-2027 (لحظة بلحظة)",
      "he": "",
      "grade": "حسن",
      "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/misc/2026/11/28/%d9%81%d8%a7%d8%b2-%d8%a8%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%88%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%81%d8%a7%d9%84-%d8%aa%d9%82%d9%88%d8%af?traffic_source=rss",
-     "at": "2026-11-27T19:10+00:00",
+     "link": "https://www.aljazeera.net/sport/liveblog/2026/11/28/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d8%b6%d8%af-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d9%81%d9%8a?traffic_source=rss",
+     "at": "2026-11-28T10:10+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "بعد الإساءات التي تعرض لها من الجماهير.. ألونسو يدافع عن مدافع تشلسي",
+     "he": "",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/sport/2026/11/28/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a5%d8%b3%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%8a-%d8%aa%d8%b9%d8%b1%d8%b6-%d9%84%d9%87%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1?traffic_source=rss",
+     "at": "2026-11-28T10:00+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "إيران تعلن جاهزية قواتها وتتوعد برد يتجاوز حدود المنطقة إذا تجدد الهجوم عليها",
+     "he": "",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%ac%d8%a7%d9%87%d8%b2%d9%8a%d8%a9-%d9%82%d9%88%d8%a7%d8%aa%d9%87%d8%a7-%d9%88%d8%aa%d8%aa%d9%88%d8%b9%d8%af-%d8%a8%d8%b1%d8%af?traffic_source=rss",
+     "at": "2026-11-28T09:42+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "sa",
+   "name": "السعودية",
+   "en": "Saudi Arabia",
+   "n": 51,
+   "sahih": 1,
+   "hasan": 50,
+   "heat": 100,
+   "summary": "خلال آخر أسبوع رصد سَنَد 51 خبرًا مُسنَدًا عن السعودية (1 صحيح و50 حسن). أبرزها: «\"لم أعتد الخبر\": دعاء دهيني تواصل الحملات لوقف عمليات الإعدام في السعودية وإنقاذ الأرواح».",
+   "summary_en": "Over the last week Sanad graded 51 stories on Saudi Arabia (1 verified · 50 credible). Lead: “Duaa Dhaini Continues Campaign to Halt Executions in Saudi Arabia and Save Lives”.",
+   "stories": [
+    {
+     "head": "\"لم أعتد الخبر\": دعاء دهيني تواصل الحملات لوقف عمليات الإعدام في السعودية وإنقاذ الأرواح",
+     "he": "Duaa Dhaini Continues Campaign to Halt Executions in Saudi Arabia and Save Lives",
+     "grade": "صحيح",
+     "src": "Amnesty International",
+     "link": "https://www.amnesty.org/ar/latest/news/2026/11/i-have-never-gotten-used-to-the-news-duaa-dhainys-campaigning-to-halt-saudi-arabias-executions-and-save-lives/",
+     "at": "2026-11-25T14:00+00:00",
+     "score": 6,
+     "isnad": {
+      "الاتصال": 2,
+      "عدالة المصدر": 2,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "اختطاف سفينة شحن قبالة سواحل اليمن، والسعودية تعلن اعتراض صاروخَين حوثيين باتجاه الرياض والجنوب",
+     "he": "Cargo Ship Hijacked off Yemen Coast; Saudi Arabia Intercepts Two Houthi Missiles Fired Toward Riyadh and the South",
+     "grade": "حسن",
+     "src": "BBC",
+     "link": "https://www.bbc.com/arabic/articles/cwj057rlqd82o",
+     "at": "2026-11-28T12:26+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "مباشر.. مباراة الهلال ضد الاتفاق في الدوري السعودي 2026-2027 (لحظة بلحظة)",
+     "he": "",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/sport/liveblog/2026/11/28/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d8%b6%d8%af-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d9%81%d9%8a?traffic_source=rss",
+     "at": "2026-11-28T10:10+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "السعودية.. الأمن العام يعلن القبض على مقيم يمني ويكشف ما فعله",
+     "he": "Saudi Public Security Arrests Yemeni Resident and Details Offense",
+     "grade": "حسن",
+     "src": "CNN Arabic",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/saudi-security-arrests-a-yemeni-resident-drug",
+     "at": "2026-11-28T08:55+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "«أبي، أنا خائف»؛ رواية الحياة في الرياض بالتزامن مع تصاعد هجمات الحوثيين بالمسيرات والصواريخ على العاصمة السعودية",
+     "he": "'Dad, I'm Scared': Life in Riyadh Amid Escalating Houthi Drone and Missile Attacks",
+     "grade": "حسن",
+     "src": "بي بي سي فارسي",
+     "link": "https://www.bbc.com/persian/articles/cjr4ge1lnv1no?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-28T07:00+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "وزير دفاع السعودية يعلق بعد اجتماع \"حلف مكة الدفاعي\" مع تركيا وباكستان",
+     "he": "Saudi Defense Minister Comments Following 'Mecca Defense Pact' Meeting with Turkey and Pakistan",
+     "grade": "حسن",
+     "src": "CNN Arabic",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/saudi-defense-minister-mecca-alliance-reaction-new-meeting-session",
+     "at": "2026-11-28T05:30+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "دول \"اتفاقية مكة\" تناقش انضمام أعضاء جدد إلى تحالفها الدفاعي",
+     "he": "'Mecca Agreement' Nations Weigh Adding New Members to Defense Alliance",
+     "grade": "حسن",
+     "src": "BBC",
+     "link": "https://www.bbc.com/arabic/articles/cw23jp3m1gg7o",
+     "at": "2026-11-28T00:19+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "الدوري السعودي: الهلال لإحكام قبضته على الصدارة... والنصر لتضييق الخناق عليه",
+     "he": "",
+     "grade": "حسن",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/node/5346469",
+     "at": "2026-11-27T23:12+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
@@ -456,12 +597,12 @@
      }
     },
     {
-     "head": "حزن في عالم المصارعة.. وفاة النجم الشهير برونسون ريد",
-     "he": "",
+     "head": "اهتمام قطري وإماراتي بالتعاقد مع الفرنسي كريم بنزيمة",
+     "he": "Qatari and Emirati Clubs Eye Signing French Star Karim Benzema",
      "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/sport/1907655-%D8%AD%D8%B2%D9%86-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D8%B9%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%B1-%D8%A8%D8%B1%D9%88%D9%86%D8%B3%D9%88%D9%86-%D8%B1%D9%8A%D8%AF",
-     "at": "2026-11-28T04:07+00:00",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/5346596-%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D9%82%D8%B7%D8%B1%D9%8A-%D9%88%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%82%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%83%D8%B1%D9%8A%D9%85-%D8%A8%D9%86%D8%B2%D9%8A%D9%85%D8%A9",
+     "at": "2026-11-28T13:36+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -472,60 +613,12 @@
      }
     },
     {
-     "head": "الجيش الأميركي: لا رسوم على عبور مضيق هرمز",
+     "head": "غارات وتفجيرات إسرائيلية تطال بلدات جنوب لبنان",
      "he": "",
      "grade": "حسن",
      "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1907653-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-     "at": "2026-11-28T03:29+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "أردوغان يدعو صدام حفتر إلى \"قمة توحيد السلطة في ليبيا\"",
-     "he": "",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1907651-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%AF%D8%B9%D9%88-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D9%81%D8%AA%D8%B1-%D9%82%D9%85%D8%A9-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
-     "at": "2026-11-28T03:09+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "ليبيا.. صدام حفتر يعلن عن ترتيبات لتوحيد مؤسسات الدولة",
-     "he": "",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1907649-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D9%81%D8%AA%D8%B1-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8%D8%A7%D8%AA-%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-     "at": "2026-11-28T02:44+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "صور.. الجناح \"على الأرض\" بعد اصطدام طائرتين في مطار أميركي",
-     "he": "",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/world/1907645-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%AD-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D8%A7%D8%B5%D8%B7%D8%AF%D8%A7%D9%85-%D8%B7%D8%A7%D8%A6%D8%B1%D8%AA%D9%8A%D9%86-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
-     "at": "2026-11-28T01:58+00:00",
+     "link": "https://www.skynewsarabia.com/middle-east/1907745-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+     "at": "2026-11-28T13:21+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -536,12 +629,12 @@
      }
     },
     {
-     "head": "فيديو.. أوكرانيا تسقط مسيّرة روسية بالليزر لأول مرة",
+     "head": "وسط احتدام السباق الرئاسي.. تظاهرات نسائية في فرنسا",
      "he": "",
      "grade": "حسن",
      "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/world/1907641-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B3%D9%82%D8%B7-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9",
-     "at": "2026-11-28T00:58+00:00",
+     "link": "https://www.skynewsarabia.com/world/1907739-%D9%88%D8%B3%D8%B7-%D8%A7%D8%AD%D8%AA%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D9%82-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
+     "at": "2026-11-28T12:58+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -552,12 +645,12 @@
      }
     },
     {
-     "head": "لماذا يطالب نحو 300 ألف كندي بطرد السفير الأميركي؟",
+     "head": "حادث الوراق المروع.. تحديد هوية 30 من الضحايا",
      "he": "",
      "grade": "حسن",
      "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/world/1907597-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-300-%D8%A3%D9%84%D9%81-%D9%83%D9%86%D8%AF%D9%8A-%D8%A8%D8%B7%D8%B1%D8%AF-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
-     "at": "2026-11-27T23:10+00:00",
+     "link": "https://www.skynewsarabia.com/varieties/1907742-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%87%D9%88%D9%8A%D8%A9-30-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
+     "at": "2026-11-28T12:52+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
@@ -566,286 +659,52 @@
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
-    }
-   ]
-  },
-  {
-   "id": "sa",
-   "name": "السعودية",
-   "en": "Saudi Arabia",
-   "n": 48,
-   "sahih": 1,
-   "hasan": 47,
-   "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 48 خبرًا مُسنَدًا عن السعودية (1 صحيح و47 حسن). أبرزها: «\"لم أعتد الخبر\": دعاء دهيني تواصل الحملات لوقف عمليات الإعدام في السعودية وإنقاذ الأرواح».",
-   "summary_en": "Over the last week Sanad graded 48 stories on Saudi Arabia (1 verified · 47 credible). Lead: “Duaa Dhaini Continues Campaign to Halt Executions in Saudi Arabia and Save Lives”.",
-   "stories": [
-    {
-     "head": "\"لم أعتد الخبر\": دعاء دهيني تواصل الحملات لوقف عمليات الإعدام في السعودية وإنقاذ الأرواح",
-     "he": "Duaa Dhaini Continues Campaign to Halt Executions in Saudi Arabia and Save Lives",
-     "grade": "صحيح",
-     "src": "Amnesty International",
-     "link": "https://www.amnesty.org/ar/latest/news/2026/11/i-have-never-gotten-used-to-the-news-duaa-dhainys-campaigning-to-halt-saudi-arabias-executions-and-save-lives/",
-     "at": "2026-11-25T14:00+00:00",
-     "score": 6,
-     "isnad": {
-      "الاتصال": 2,
-      "عدالة المصدر": 2,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
     },
     {
-     "head": "دول \"اتفاقية مكة\" تناقش انضمام أعضاء جدد إلى تحالفها الدفاعي",
-     "he": "Makkah Agreement Nations Discuss Admitting New Members to Defense Alliance",
-     "grade": "حسن",
-     "src": "BBC",
-     "link": "https://www.bbc.com/arabic/articles/cw23jp3m1gg7o",
-     "at": "2026-11-28T00:19+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "«حلف مكة» يؤكد على التنفيذ العملي لالتزامات الدفاع الجماعي",
+     "head": "بالفيديو.. سؤال عن نتنياهو يحرج ترامب",
      "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346491",
-     "at": "2026-11-28T00:12+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الدوري السعودي: الهلال لإحكام قبضته على الصدارة... والنصر لتضييق الخناق عليه",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346469",
-     "at": "2026-11-27T23:12+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "من يحفظ حقوق الأكاديميات السعودية أمام الأندية؟",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346468",
-     "at": "2026-11-27T23:09+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "اجتماع جديد لدول \"حلف مكة\" في باكستان.. وهذا ما بحثه",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/middle-east/article/2026/11/27/a-new-meeting-of-makkah-alliance-countries-in-pakistan",
-     "at": "2026-11-27T17:57+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الرياض وأنقرة تكثفان التعاون لتعزيز شراكتهما التقنية والعسكرية",
-     "he": "Riyadh and Ankara Step Up Cooperation to Boost Tech and Military Partnership",
-     "grade": "حسن",
-     "src": "العربية",
-     "link": "https://www.alarabiya.net/saudi-today/2026/11/27/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%A7%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D9%83%D8%AB%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B4%D8%B1%D8%A7%D9%83%D8%AA%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-",
-     "at": "2026-11-27T14:26+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "كيف تتسبب هجمات الحوثيين في فوضى عارمة في السعودية؟ - مقال في الإندبندنت",
-     "he": "How Houthi Attacks Are Causing Chaos in Saudi Arabia: The Independent",
-     "grade": "حسن",
-     "src": "BBC",
-     "link": "https://www.bbc.com/arabic/articles/cr15el0nk085o",
-     "at": "2026-11-27T11:26+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
-   "id": "ps",
-   "name": "فلسطين",
-   "en": "Palestine",
-   "n": 44,
-   "sahih": 1,
-   "hasan": 43,
-   "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 44 خبرًا مُسنَدًا عن فلسطين (1 صحيح و43 حسن). أبرزها: «النساء والفتيات يتحملن وطأة الإبادة الجماعية التي تواصل إسرائيل ارتكابها في غزة - منظمة العفو الدولية».",
-   "summary_en": "Over the last week Sanad graded 44 stories on Palestine (1 verified · 43 credible). Lead: “Women and Girls Bear Brunt of Ongoing Israeli Genocide in Gaza, Amnesty International Says”.",
-   "stories": [
-    {
-     "head": "النساء والفتيات يتحملن وطأة الإبادة الجماعية التي تواصل إسرائيل ارتكابها في غزة - منظمة العفو الدولية",
-     "he": "Women and Girls Bear Brunt of Ongoing Israeli Genocide in Gaza, Amnesty International Says",
-     "grade": "صحيح",
-     "src": "Amnesty International",
-     "link": "https://www.amnesty.org/ar/latest/news/2026/11/women-and-girls-bear-the-crushing-toll-of-israels-ongoing-genocide-in-gaza/",
-     "at": "2026-11-25T00:01+00:00",
-     "score": 6,
-     "isnad": {
-      "الاتصال": 2,
-      "عدالة المصدر": 2,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "شاهد.. الشرطة تشتبك مع مشجعي كرة قدم رفعوا اعلام فلسطين بمباراة اوروبية",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/sport/video/2026/11/28/v206091-police-clash-with-soccer-fans-displaying-palestinian-flags",
-     "at": "2026-11-28T04:21+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "مقتل حارسين يعملان لدى أطباء بلا حدود بغارة إسرائيلية في غزة",
-     "he": "Two MSF Guards Killed in Israeli Strike in Gaza",
      "grade": "حسن",
      "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1907647-%D9%85%D9%82%D8%AA%D9%84-%D8%AD%D8%A7%D8%B1%D8%B3%D9%8A%D9%86-%D9%8A%D8%B9%D9%85%D9%84%D8%A7%D9%86-%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%A8%D9%84%D8%A7-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A8%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%BA%D8%B2%D8%A9",
-     "at": "2026-11-28T02:31+00:00",
-     "score": 4,
+     "link": "https://www.skynewsarabia.com/world/1907732-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B3%D8%A4%D8%A7%D9%84-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%AD%D8%B1%D8%AC-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+     "at": "2026-11-28T12:29+00:00",
+     "score": 3,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
-      "عدم الشذوذ": 1,
+      "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
     },
     {
-     "head": "مقتل حارسين يعملان لدى منظمة أطباء بلا حدود في غارة إسرائيلية على غزة",
+     "head": "فيديو يثير الجدل في مصر.. صلاة وسط الطريق الدائري",
      "he": "",
      "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346493",
-     "at": "2026-11-28T02:08+00:00",
-     "score": 4,
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/varieties/1907737-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D9%85%D8%B5%D8%B1-%D8%B5%D9%84%D8%A7%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A",
+     "at": "2026-11-28T12:24+00:00",
+     "score": 3,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "14 قتيلا في غرق قارب مهاجرين قبالة جزر الكناري",
+     "he": "",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/world/1907734-14-%D9%82%D8%AA%D9%8A%D9%84%D8%A7-%D8%BA%D8%B1%D9%82-%D9%82%D8%A7%D8%B1%D8%A8-%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%AC%D8%B2%D8%B1-%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%B1%D9%8A",
+     "at": "2026-11-28T12:20+00:00",
+     "score": 5,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
       "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الكابينت الإسرائيلي يستعد للمصادقة على تنفيذ خطة ترمب في غزة",
-     "he": "Israeli Security Cabinet Prepares to Approve Implementation of Trump Plan in Gaza",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-12-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF",
-     "at": "2026-11-28T01:22+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "\"أطباء بلا حدود\" تعلن مقتل اثنين من موظفيها في غارة على عيادة بغزة.. وإسرائيل ترد",
-     "he": "MSF Says Two Staff Members Killed in Strike on Gaza Clinic; Israel Responds",
-     "grade": "حسن",
-     "src": "CNN Arabic",
-     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/two-workers-killed-in-israeli-strike-on-gaza-clinic-msf-says",
-     "at": "2026-11-28T00:57+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "من مدرجات جورجيا إلى ركام غزة.. جدارية تخلّد تضامن بشيكتاش مع فلسطين",
-     "he": "From Georgia's Stands to Gaza's Rubble: Mural Immortalizes Beşiktaş Solidarity with Palestine",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/sport/2026/11/28/%D8%A8%D8%B4%D9%83%D8%AA%D8%A7%D8%B4-%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%BA%D8%B2%D8%A9-%D8%AC%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9",
-     "at": "2026-11-27T22:04+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "إسرائيل تحاول اغتيال النجل الأخير للحية وتصعد في غزة",
-     "he": "Israel Targets Al-Hayya's Last Surviving Son and Escalates Strikes on Gaza",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5346322-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%AC%D9%84-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%84%D9%84%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D8%B5%D8%B9%D8%AF-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9",
-     "at": "2026-11-27T19:55+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
     }
@@ -859,16 +718,16 @@
    "sahih": 0,
    "hasan": 43,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 43 خبرًا مُسنَدًا عن بريطانيا (43 حسن). أبرزها: «العثور على جثامين 14 مهاجراً في قارب قرب جزر الكناري».",
-   "summary_en": "Over the last week Sanad graded 43 stories on United Kingdom (43 credible). Lead: “Bodies of 14 Migrants Found in Boat Near Canary Islands”.",
+   "summary": "خلال آخر أسبوع رصد سَنَد 43 خبرًا مُسنَدًا عن بريطانيا (43 حسن). أبرزها: «الدولار بـ300 ألف تومان، ما هو رأيكم؟».",
+   "summary_en": "Over the last week Sanad graded 43 stories on United Kingdom (43 credible). Lead: “Dollar at 300,000 Tomans: What Do You Think?”.",
    "stories": [
     {
-     "head": "العثور على جثامين 14 مهاجراً في قارب قرب جزر الكناري",
-     "he": "Bodies of 14 Migrants Found in Boat Near Canary Islands",
+     "head": "الدولار بـ300 ألف تومان، ما هو رأيكم؟",
+     "he": "Dollar at 300,000 Tomans: What Do You Think?",
      "grade": "حسن",
      "src": "إيران إنترناشونال",
-     "link": "https://www.iranintl.com/202611287859",
-     "at": "2026-11-28T02:07+00:00",
+     "link": "https://www.iranintl.com/202611281798",
+     "at": "2026-11-28T11:01+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -879,8 +738,40 @@
      }
     },
     {
-     "head": "علاقات جنسية أقل وإباحية أكثر؛ تغير السلوك الجنسي للشباب في بريطانيا",
-     "he": "Less Sex, More Pornography: British Youths' Sexual Behavior Is Shifting",
+     "head": "كولومبوس 1-0 إنتر ميامي؛ إقصاء مبكر لميسي وإنتر ميامي من الأدوار الإقصائية للدوري الأمريكي",
+     "he": "Columbus 1-0 Inter Miami: Early MLS Playoff Exit for Messi and Miami",
+     "grade": "حسن",
+     "src": "إيران إنترناشونال",
+     "link": "https://www.iranintl.com/202611282178",
+     "at": "2026-11-28T10:32+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 0,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "قائمة الأهداف الروسية بأنحاء أوكرانيا خلال 24 ساعة.. سفينة وقاطرات وبنية تحتية",
+     "he": "Russian Targets Across Ukraine in Past 24 Hours Include Ship, Locomotives, and Infrastructure",
+     "grade": "حسن",
+     "src": "العربية",
+     "link": "https://www.alarabiya.net/arab-and-world/2026/11/28/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A8%D8%A7%D9%86%D8%AD%D8%A7%D8%A1-%D8%A7%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-24-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%88%D9%82%D8%A7%D8%B7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A8%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-",
+     "at": "2026-11-28T06:29+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "ممارسة جنسية أقل، وإباحية أكثر؛ تغير السلوك الجنسي للشباب في بريطانيا",
+     "he": "Less Sex, More Pornography: British Youths' Sexual Behavior Shifts",
      "grade": "حسن",
      "src": "بي بي سي فارسي",
      "link": "https://www.bbc.com/persian/articles/cm62pw5n72nlo?at_medium=RSS&at_campaign=rss",
@@ -895,8 +786,8 @@
      }
     },
     {
-     "head": "نوتنغهام فورست 3-2 تشيلسي؛ استمرار النتائج الضعيفة لبلوز لندن مع ألونسو",
-     "he": "Nottingham Forest 3-2 Chelsea: London Blues' Poor Form Continues Under Alonso",
+     "head": "نوتينغهام فورست ۳-۲ تشيلسي؛ استمرار النتائج الضعيفة لبلوز لندن مع ألونسو",
+     "he": "Nottingham Forest 3-2 Chelsea: Blues' Struggles Continue Under Alonso",
      "grade": "حسن",
      "src": "إيران إنترناشونال",
      "link": "https://www.iranintl.com/202611274183",
@@ -957,38 +848,6 @@
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
-    },
-    {
-     "head": "كواليس الحرب النفسية التي ستحسم مواجهة أرسنال ومانشستر سيتي",
-     "he": "",
-     "grade": "حسن",
-     "src": "اندبندنت عربية",
-     "link": "https://www.independent.co.uk/sport/football/arsenal-man-city-mikel-arteta-david-raya-maresca-b3091973.html",
-     "at": "2026-11-27T14:04+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "خفض المساعدات الخارجية لن يحمي أطفال بريطانيا بل يعرضنا جميعا للخطر",
-     "he": "",
-     "grade": "حسن",
-     "src": "اندبندنت عربية",
-     "link": "https://www.independent.co.uk/voices/foreign-aid-international-development-funding-children-need-charity-b3086260.html",
-     "at": "2026-11-27T09:06+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
     }
    ]
   },
@@ -996,12 +855,12 @@
    "id": "eg",
    "name": "مصر",
    "en": "Egypt",
-   "n": 40,
+   "n": 42,
    "sahih": 1,
-   "hasan": 39,
+   "hasan": 41,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 40 خبرًا مُسنَدًا عن مصر (1 صحيح و39 حسن). أبرزها: «دبي الإسلامي سيستحوذ على الإمارات الإسلامي لإنشاء كيان مصرفي بأصول 159 مليار دولار».",
-   "summary_en": "Over the last week Sanad graded 40 stories on Egypt (1 verified · 39 credible). Lead: “Dubai Islamic Bank to Acquire Emirates Islamic, Creating $159B Asset Lender”.",
+   "summary": "خلال آخر أسبوع رصد سَنَد 42 خبرًا مُسنَدًا عن مصر (1 صحيح و41 حسن). أبرزها: «دبي الإسلامي سيستحوذ على الإمارات الإسلامي لإنشاء كيان مصرفي بأصول 159 مليار دولار».",
+   "summary_en": "Over the last week Sanad graded 42 stories on Egypt (1 verified · 41 credible). Lead: “Dubai Islamic Bank to Acquire Emirates Islamic, Creating $159B Asset Lender”.",
    "stories": [
     {
      "head": "دبي الإسلامي سيستحوذ على الإمارات الإسلامي لإنشاء كيان مصرفي بأصول 159 مليار دولار",
@@ -1015,6 +874,54 @@
       "الاتصال": 2,
       "عدالة المصدر": 2,
       "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "الذكاء الاصطناعي يطلب البيتزا ويسدد ثمنها بلا بطاقة مصرفية",
+     "he": "AI Orders Pizza and Pays Without a Bank Card",
+     "grade": "حسن",
+     "src": "اندبندنت عربية",
+     "link": "https://www.independentarabia.com/node/663907/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7-%D9%88%D9%8A%D8%B3%D8%AF%D8%AF-%D8%AB%D9%85%D9%86%D9%87%D8%A7-%D8%A8%D9%84%D8%A7-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%85%D8%B5%D8%B1%D9%81%D9%8A%D8%A9",
+     "at": "2026-11-28T13:00+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "مصر.. هذا ما تعهد به سامي قمصان قبل مباراته الأولى مع الأهلي",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/sport/article/2026/11/28/sami-komsan-al-ahly",
+     "at": "2026-11-28T12:57+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "فيديو يثير الجدل في مصر.. صلاة وسط الطريق الدائري",
+     "he": "",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/varieties/1907737-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D9%85%D8%B5%D8%B1-%D8%B5%D9%84%D8%A7%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A",
+     "at": "2026-11-28T12:24+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
@@ -1082,30 +989,75 @@
       "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
-    },
+    }
+   ]
+  },
+  {
+   "id": "ps",
+   "name": "فلسطين",
+   "en": "Palestine",
+   "n": 42,
+   "sahih": 1,
+   "hasan": 41,
+   "heat": 100,
+   "summary": "خلال آخر أسبوع رصد سَنَد 42 خبرًا مُسنَدًا عن فلسطين (1 صحيح و41 حسن). أبرزها: «النساء والفتيات يتحملن وطأة الإبادة الجماعية التي تواصل إسرائيل ارتكابها في غزة - منظمة العفو الدولية».",
+   "summary_en": "Over the last week Sanad graded 42 stories on Palestine (1 verified · 41 credible). Lead: “Women and Girls Bear Brunt of Ongoing Israeli Genocide in Gaza, Amnesty International Says”.",
+   "stories": [
     {
-     "head": "قمة مصرية قطرية في القاهرة.. تأكيد وحدة أمن الخليج وتنسيق بشأن غزة",
-     "he": "Egyptian-Qatari Summit in Cairo Affirms Gulf Security Unity, Coordination on Gaza",
-     "grade": "حسن",
-     "src": "العربية",
-     "link": "https://www.alarabiya.net/arab-and-world/gulf/2026/11/26/%D9%82%D9%85%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%AA%D8%A7%D9%83%D9%8A%D8%AF-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%88%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A8%D8%B4%D8%A7%D9%86-%D8%BA%D8%B2%D8%A9",
-     "at": "2026-11-26T13:14+00:00",
-     "score": 4,
+     "head": "النساء والفتيات يتحملن وطأة الإبادة الجماعية التي تواصل إسرائيل ارتكابها في غزة - منظمة العفو الدولية",
+     "he": "Women and Girls Bear Brunt of Ongoing Israeli Genocide in Gaza, Amnesty International Says",
+     "grade": "صحيح",
+     "src": "Amnesty International",
+     "link": "https://www.amnesty.org/ar/latest/news/2026/11/women-and-girls-bear-the-crushing-toll-of-israels-ongoing-genocide-in-gaza/",
+     "at": "2026-11-25T00:01+00:00",
+     "score": 6,
      "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
+      "الاتصال": 2,
+      "عدالة المصدر": 2,
       "الضبط": 0,
       "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     },
     {
-     "head": "مصرف قطر المركزي يوسع قبول بطاقة «هميان» في سلطنة عُمان",
+     "head": "ملادينوف يضغط على نتنياهو للإيفاء بتعهداته في غزة",
      "he": "",
      "grade": "حسن",
-     "src": "CNN الاقتصادية",
-     "link": "https://cnnbusinessarabic.com/finance-markets/1153452/%D9%85%D8%B5%D8%B1%D9%81-%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D9%88%D8%B3%D8%B9-%D9%82%D8%A8%D9%88%D9%84-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%87%D9%85%D9%8A%D8%A7%D9%86-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86",
-     "at": "2026-11-26T10:38+00:00",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/node/5346615",
+     "at": "2026-11-28T13:42+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "تصعيد إسرائيلي متجدد في غزة ولجنة الشتاء تفند مزاعم الاحتلال بإدخال الخيام",
+     "he": "Renewed Israeli Escalation in Gaza as Winter Committee Refutes Claims of Tent Deliveries",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/news/2026/11/28/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A8%D8%BA%D8%B2%D8%A9-%D9%88%D9%84%D8%AC%D9%86%D8%A9",
+     "at": "2026-11-28T12:02+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "\"أطباء بلا حدود\" تقول إن اثنين من موظفيها قُتلا في غارة إسرائيلية على عيادة في غزة",
+     "he": "MSF Says Two Staff Members Killed in Israeli Strike on Gaza Clinic",
+     "grade": "حسن",
+     "src": "BBC",
+     "link": "https://www.bbc.com/arabic/articles/cmn803y4l73yo",
+     "at": "2026-11-28T07:46+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
@@ -1116,17 +1068,65 @@
      }
     },
     {
-     "head": "سعر الدولار في مصر يسجل قفزة جديدة.. مستوى 55 جنيهاً يقترب",
-     "he": "US Dollar Surges Again in Egypt, Nearing 55 Pounds",
+     "head": "مقتل حارسين يعملان لدى أطباء بلا حدود بغارة إسرائيلية في غزة",
+     "he": "Two MSF Security Guards Killed in Israeli Strike on Gaza",
      "grade": "حسن",
-     "src": "العربية",
-     "link": "https://www.alarabiya.net/aswaq/egypt-economy/2026/11/26/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%8A%D8%B3%D8%AC%D9%84-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D8%B3%D8%AA%D9%88%D9%89-55-%D8%AC%D9%86%D9%8A%D9%87%D8%A7-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8",
-     "at": "2026-11-26T08:54+00:00",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/middle-east/1907647-%D9%85%D9%82%D8%AA%D9%84-%D8%AD%D8%A7%D8%B1%D8%B3%D9%8A%D9%86-%D9%8A%D8%B9%D9%85%D9%84%D8%A7%D9%86-%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%A8%D9%84%D8%A7-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A8%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%BA%D8%B2%D8%A9",
+     "at": "2026-11-28T02:34+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
-      "الضبط": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "الكابينت الإسرائيلي يستعد للمصادقة على تنفيذ خطة ترمب في غزة",
+     "he": "Israeli Cabinet Prepares to Approve Implementation of Trump Plan in Gaza",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/news/2026/11/28/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-12-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF",
+     "at": "2026-11-28T01:22+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "من مدرجات جورجيا إلى ركام غزة.. جدارية تخلّد تضامن بشيكتاش مع فلسطين",
+     "he": "From Georgia's Stands to Gaza's Rubble: Mural Immortalizes Beşiktaş Solidarity with Palestine",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/sport/2026/11/28/%D8%A8%D8%B4%D9%83%D8%AA%D8%A7%D8%B4-%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%BA%D8%B2%D8%A9-%D8%AC%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9",
+     "at": "2026-11-27T22:04+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "إسرائيل تحاول اغتيال النجل الأخير للحية وتصعد في غزة",
+     "he": "Israel Targets Al-Hayya's Last Surviving Son and Escalates Strikes on Gaza",
+     "grade": "حسن",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5346322-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%AC%D9%84-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%84%D9%84%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D8%B5%D8%B9%D8%AF-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9",
+     "at": "2026-11-27T19:55+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
@@ -1137,13 +1137,29 @@
    "id": "kw",
    "name": "الكويت",
    "en": "Kuwait",
-   "n": 28,
+   "n": 29,
    "sahih": 0,
-   "hasan": 28,
+   "hasan": 29,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 28 خبرًا مُسنَدًا عن الكويت (28 حسن). أبرزها: «إيطاليا تعتبر الطائرة المسيرة المهاجمة إيرانية، واستدعاء سفير الجمهورية الإسلامية في الكويت».",
-   "summary_en": "Over the last week Sanad graded 28 stories on Kuwait (28 credible). Lead: “Italy Identifies Drone in Kuwait Attack as Iranian; Envoy Summoned”.",
+   "summary": "خلال آخر أسبوع رصد سَنَد 29 خبرًا مُسنَدًا عن الكويت (29 حسن). أبرزها: ««سنتكوم»: ادعاءات إيران بشأن استعادة ناقلتي نفط كاذبة».",
+   "summary_en": "Over the last week Sanad graded 29 stories on Kuwait (29 credible).",
    "stories": [
+    {
+     "head": "«سنتكوم»: ادعاءات إيران بشأن استعادة ناقلتي نفط كاذبة",
+     "he": "",
+     "grade": "حسن",
+     "src": "جريدة الجريدة الكويتية",
+     "link": "https://www.aljarida.com/article/151796",
+     "at": "2026-11-28T07:11+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
     {
      "head": "إيطاليا تعتبر الطائرة المسيرة المهاجمة إيرانية، واستدعاء سفير الجمهورية الإسلامية في الكويت",
      "he": "Italy Identifies Drone in Kuwait Attack as Iranian; Envoy Summoned",
@@ -1194,7 +1210,7 @@
     },
     {
      "head": "الكويت تستدعي سفير إيران لتسليمه مذكرة احتجاج نتيجة استمرار الاعتداءات الإيرانية",
-     "he": "Kuwait Summons Iranian Ambassador to Deliver Protest Note Over Ongoing Iranian Attacks",
+     "he": "Kuwait Summons Iranian Ambassador to Deliver Protest Note Over Ongoing Aggression",
      "grade": "حسن",
      "src": "العربية",
      "link": "https://www.alarabiya.net/arab-and-world/gulf/2026/11/27/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85%D9%87-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-",
@@ -1255,22 +1271,6 @@
       "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
-    },
-    {
-     "head": "\"العلم الزائف\".. أول تعليق إيراني على هجوم الكويت ومقتل إيطاليين",
-     "he": "'False Flag': Iran's First Reaction to Kuwait Attack and Death of Two Italians",
-     "grade": "حسن",
-     "src": "CNN Arabic",
-     "link": "https://arabic.cnn.com/middle-east/article/2026/11/26/iranian-response-kuwait-attack-and-the-killing-of-italians",
-     "at": "2026-11-26T18:12+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
     }
    ]
   },
@@ -1278,13 +1278,77 @@
    "id": "fr",
    "name": "فرنسا",
    "en": "France",
-   "n": 20,
+   "n": 24,
    "sahih": 0,
-   "hasan": 20,
+   "hasan": 24,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 20 خبرًا مُسنَدًا عن فرنسا (20 حسن). أبرزها: «الدوري الفرنسي: بريست يحرم باريس من الصدارة... ويتقدم ثالثاً».",
-   "summary_en": "Over the last week Sanad graded 20 stories on France (20 credible).",
+   "summary": "خلال آخر أسبوع رصد سَنَد 24 خبرًا مُسنَدًا عن فرنسا (24 حسن). أبرزها: «اهتمام قطري وإماراتي بالتعاقد مع الفرنسي كريم بنزيمة».",
+   "summary_en": "Over the last week Sanad graded 24 stories on France (24 credible). Lead: “Qatari and Emirati Clubs Eye Signing French Star Karim Benzema”.",
    "stories": [
+    {
+     "head": "اهتمام قطري وإماراتي بالتعاقد مع الفرنسي كريم بنزيمة",
+     "he": "Qatari and Emirati Clubs Eye Signing French Star Karim Benzema",
+     "grade": "حسن",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/5346596-%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D9%82%D8%B7%D8%B1%D9%8A-%D9%88%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%82%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%83%D8%B1%D9%8A%D9%85-%D8%A8%D9%86%D8%B2%D9%8A%D9%85%D8%A9",
+     "at": "2026-11-28T13:36+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "احتجاجات في فرنسا لمناهضة العنف ضد النساء وسط حراك اجتماعي متواصل",
+     "he": "Protests Across France Denounce Violence Against Women Amid Ongoing Social Unrest",
+     "grade": "حسن",
+     "src": "فرانس ٢٤ عربي",
+     "link": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261128-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D9%8A-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%84%D9%85%D9%86%D8%A7%D9%87%D8%B6%D8%A9-%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%88%D8%B3%D8%B7-%D8%AD%D8%B1%D8%A7%D9%83-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84",
+     "at": "2026-11-28T13:15+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 0,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "وسط احتدام السباق الرئاسي.. تظاهرات نسائية في فرنسا",
+     "he": "",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/world/1907739-%D9%88%D8%B3%D8%B7-%D8%A7%D8%AD%D8%AA%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D9%82-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
+     "at": "2026-11-28T12:58+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "مظاهرات جديدة في فرنسا للتنديد بالعنف ضد النساء",
+     "he": "",
+     "grade": "حسن",
+     "src": "فرانس ٢٤ عربي",
+     "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261128-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%84%D9%84%D8%AA%D9%86%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1",
+     "at": "2026-11-28T12:30+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 0,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
     {
      "head": "الدوري الفرنسي: بريست يحرم باريس من الصدارة... ويتقدم ثالثاً",
      "he": "",
@@ -1348,211 +1412,6 @@
       "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
-    },
-    {
-     "head": "مصر: وفاة 21 ​شخصا ​على ​الأقل ‌في ​حريق ‌​جراء ​انقلاب ​مركبة ​كانت تحمل منتجات ​بترولية",
-     "he": "",
-     "grade": "حسن",
-     "src": "فرانس ٢٤ عربي",
-     "link": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261125-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-21-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D9%83%D8%A7%D9%86%D8%AA-%D8%AA%D8%AD%D9%85%D9%84-%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A8%D8%AA%D8%B1%D9%88%D9%84%D9%8A%D8%A9",
-     "at": "2026-11-25T18:22+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 0,
-      "الضبط": 1,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "تحقيق مع المرشح الرئاسي الفرنسي إدوار فيليب بعد بلاغ عن اختلاس",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5345237",
-     "at": "2026-11-24T18:23+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "إيران وفاة 20 شخصا على الأقل جراء تسمم بكحول مغشوشة",
-     "he": "",
-     "grade": "حسن",
-     "src": "فرانس ٢٤ عربي",
-     "link": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D8%AA%D8%B3%D9%85%D9%85-%D9%83%D8%AD%D9%88%D9%84-%D9%85%D8%BA%D8%B4%D9%88%D8%B4%D8%A9",
-     "at": "2026-11-24T17:49+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 0,
-      "الضبط": 1,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "مذكرات البابا فرنسيس: ثلاث مواجهات مع الشيطان ورؤية بوابات الجحيم",
-     "he": "Pope Francis's memoirs: Three encounters with the Devil and visions of the gates of hell",
-     "grade": "حسن",
-     "src": "بي بي سي فارسي",
-     "link": "https://www.bbc.com/persian/articles/cr0qjgj21p75o?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-24T17:30+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
-   "id": "ru",
-   "name": "روسيا",
-   "en": "Russia",
-   "n": 20,
-   "sahih": 0,
-   "hasan": 20,
-   "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 20 خبرًا مُسنَدًا عن روسيا (20 حسن). أبرزها: «كوريا الشمالية وروسيا تتفقان على تعزيز المشروعات الاقتصادية المشتركة».",
-   "summary_en": "Over the last week Sanad graded 20 stories on Russia (20 credible).",
-   "stories": [
-    {
-     "head": "كوريا الشمالية وروسيا تتفقان على تعزيز المشروعات الاقتصادية المشتركة",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346497",
-     "at": "2026-11-28T04:49+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "فيديو.. أوكرانيا تسقط مسيّرة روسية بالليزر لأول مرة",
-     "he": "",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/world/1907641-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B3%D9%82%D8%B7-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9",
-     "at": "2026-11-28T00:58+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "كيف شكَّك \"أقرب حلفاء\" بوتين في مزاعم روسية تبرر غزو أوكرانيا؟",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/world/article/2026/11/28/putins-biggest-ally-questions-claim-russia-uses-to-justify-invasion-of-ukraine",
-     "at": "2026-11-28T00:10+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "أوكرانيا تعرض هدنة في البحر الأسود وبوتين يدشن غواصة نووية جديدة",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%b9%d8%b1%d8%b6-%d9%87%d8%af%d9%86%d8%a9-%d8%a8%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af?traffic_source=rss",
-     "at": "2026-11-27T22:02+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "بعد إغراق ميركوري.. رويترز تكشف عودة أسطول روسي ثانٍ كان متجها إلى ليبيا",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%b1%d9%88%d9%8a%d8%aa%d8%b1%d8%b2-%d8%a3%d8%b3%d8%b7%d9%88%d9%84-%d8%b1%d9%88%d8%b3%d9%8a-%d8%ab%d8%a7%d9%86-%d9%83%d8%a7%d9%86-%d9%85%d8%aa%d8%ac%d9%87%d8%a7-%d8%a5%d9%84%d9%89?traffic_source=rss",
-     "at": "2026-11-27T19:42+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "زيلينسكي في مقابلة مع بي بي سي يصف صداقة ترامب وبوتين بأنها «غريبة»",
-     "he": "Zelensky Calls Trump-Putin Friendship 'Strange' in BBC Interview",
-     "grade": "حسن",
-     "src": "بي بي سي فارسي",
-     "link": "https://www.bbc.com/persian/articles/cxvg20vzpeero?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-27T11:58+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "أوكرانيا توسع ميدان المواجهة مع روسيا... والغرب قلق",
-     "he": "",
-     "grade": "حسن",
-     "src": "اندبندنت عربية",
-     "link": "https://www.independent.co.uk/independentpremium/voices/ukraine-russia-war-libya-navy-black-sea-strikes-b3089745.html",
-     "at": "2026-11-27T08:40+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "\"شخصية تاريخية\".. هكذا أشاد جاريد كوشنر بالرئيس بوتين",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/world/video/2026/11/26/v206022-jared-kushner-praises-putins-restraint-with-nuclear-weapons-vrtc",
-     "at": "2026-11-26T18:36+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
     }
    ]
   },
@@ -1560,12 +1419,12 @@
    "id": "om",
    "name": "عُمان",
    "en": "Oman",
-   "n": 19,
+   "n": 21,
    "sahih": 1,
-   "hasan": 18,
+   "hasan": 20,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 19 خبرًا مُسنَدًا عن عُمان (1 صحيح و18 حسن). أبرزها: «الحرس الثوري الإيراني: اصطدام ناقلتي نفط بألغام قبالة سلطنة عُمان».",
-   "summary_en": "Over the last week Sanad graded 19 stories on Oman (1 verified · 18 credible).",
+   "summary": "خلال آخر أسبوع رصد سَنَد 21 خبرًا مُسنَدًا عن عُمان (1 صحيح و20 حسن). أبرزها: «الحرس الثوري الإيراني: اصطدام ناقلتي نفط بألغام قبالة سلطنة عُمان».",
+   "summary_en": "Over the last week Sanad graded 21 stories on Oman (1 verified · 20 credible).",
    "stories": [
     {
      "head": "الحرس الثوري الإيراني: اصطدام ناقلتي نفط بألغام قبالة سلطنة عُمان",
@@ -1584,12 +1443,44 @@
      }
     },
     {
+     "head": "الدولار بـ300 ألف تومان، ما هو رأيكم؟",
+     "he": "Dollar at 300,000 Tomans: What Do You Think?",
+     "grade": "حسن",
+     "src": "إيران إنترناشونال",
+     "link": "https://www.iranintl.com/202611281798",
+     "at": "2026-11-28T11:01+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 0,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "قروض البنوك في سلطنة عُمان ترتفع 13.2% بنهاية سبتمبر 2026",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN الاقتصادية",
+     "link": "https://cnnbusinessarabic.com/finance-markets/1153591/%D9%82%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-132-%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2026",
+     "at": "2026-11-28T09:36+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
      "head": "إيكونوميست: سلطنة عمان هي الرابح الأكبر من حرب إيران",
      "he": "",
      "grade": "حسن",
      "src": "جريدة القدس العربي | Alquds Alarabi Newspaper",
      "link": "https://www.alquds.co.uk/%D8%A5%D9%8A%D9%83%D9%88%D9%86%D9%88%D9%85%D9%8A%D8%B3%D8%AA-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%87%D9%8A-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%AD-%D8%A7%D9%84%D8%A3%D9%83%D8%A8/",
-     "at": "2026-11-27T09:56+00:00",
+     "at": "2026-11-27T09:49+00:00",
      "score": 5,
      "isnad": {
       "الاتصال": 2,
@@ -1648,22 +1539,6 @@
      }
     },
     {
-     "head": "مصرف قطر المركزي يوسع قبول بطاقة «هميان» في سلطنة عُمان",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN الاقتصادية",
-     "link": "https://cnnbusinessarabic.com/finance-markets/1153452/%D9%85%D8%B5%D8%B1%D9%81-%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D9%88%D8%B3%D8%B9-%D9%82%D8%A8%D9%88%D9%84-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%87%D9%85%D9%8A%D8%A7%D9%86-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86",
-     "at": "2026-11-26T10:38+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
      "head": "مصرف قطر المركزي يعلن عن قبول بطاقة هميان في سلطنة عُمان",
      "he": "",
      "grade": "حسن",
@@ -1678,14 +1553,280 @@
       "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
+    }
+   ]
+  },
+  {
+   "id": "ru",
+   "name": "روسيا",
+   "en": "Russia",
+   "n": 17,
+   "sahih": 0,
+   "hasan": 17,
+   "heat": 100,
+   "summary": "خلال آخر أسبوع رصد سَنَد 17 خبرًا مُسنَدًا عن روسيا (17 حسن). أبرزها: «قائمة الأهداف الروسية بأنحاء أوكرانيا خلال 24 ساعة.. سفينة وقاطرات وبنية تحتية».",
+   "summary_en": "Over the last week Sanad graded 17 stories on Russia (17 credible). Lead: “Russian Targets Across Ukraine in Past 24 Hours Include Ship, Locomotives, and Infrastructure”.",
+   "stories": [
+    {
+     "head": "قائمة الأهداف الروسية بأنحاء أوكرانيا خلال 24 ساعة.. سفينة وقاطرات وبنية تحتية",
+     "he": "Russian Targets Across Ukraine in Past 24 Hours Include Ship, Locomotives, and Infrastructure",
+     "grade": "حسن",
+     "src": "العربية",
+     "link": "https://www.alarabiya.net/arab-and-world/2026/11/28/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A8%D8%A7%D9%86%D8%AD%D8%A7%D8%A1-%D8%A7%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-24-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%88%D9%82%D8%A7%D8%B7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A8%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-",
+     "at": "2026-11-28T06:29+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
     },
     {
-     "head": "وزير شئون الديوان الأميري يستقبل سفراء تركيا وسلطنة عمان وأستراليا",
+     "head": "بعد إغراق ميركوري.. رويترز تكشف عودة أسطول روسي ثانٍ كان متجها إلى ليبيا",
      "he": "",
      "grade": "حسن",
-     "src": "جريدة الجريدة الكويتية",
-     "link": "https://www.aljarida.com/article/151538",
-     "at": "2026-11-25T10:29+00:00",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%b1%d9%88%d9%8a%d8%aa%d8%b1%d8%b2-%d8%a3%d8%b3%d8%b7%d9%88%d9%84-%d8%b1%d9%88%d8%b3%d9%8a-%d8%ab%d8%a7%d9%86-%d9%83%d8%a7%d9%86-%d9%85%d8%aa%d8%ac%d9%87%d8%a7-%d8%a5%d9%84%d9%89?traffic_source=rss",
+     "at": "2026-11-27T19:42+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "بوتين بين شي جينبينغ وترمب... صورة القوة تخفي واقع التبعية",
+     "he": "",
+     "grade": "حسن",
+     "src": "اندبندنت عربية",
+     "link": "https://www.independent.co.uk/news/world/xi-jinping-vladimir-putin-apec-china-russia-b3088611.html",
+     "at": "2026-11-27T13:14+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "زيلينسكي في مقابلة مع بي بي سي يصف صداقة ترامب وبوتين بأنها «غريبة»",
+     "he": "Zelensky Calls Trump-Putin Friendship 'Strange' in BBC Interview",
+     "grade": "حسن",
+     "src": "بي بي سي فارسي",
+     "link": "https://www.bbc.com/persian/articles/cxvg20vzpeero?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-27T11:58+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "أوكرانيا توسع ميدان المواجهة مع روسيا... والغرب قلق",
+     "he": "",
+     "grade": "حسن",
+     "src": "اندبندنت عربية",
+     "link": "https://www.independent.co.uk/independentpremium/voices/ukraine-russia-war-libya-navy-black-sea-strikes-b3089745.html",
+     "at": "2026-11-27T08:40+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "\"شخصية تاريخية\".. هكذا أشاد جاريد كوشنر بالرئيس بوتين",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/world/video/2026/11/26/v206022-jared-kushner-praises-putins-restraint-with-nuclear-weapons-vrtc",
+     "at": "2026-11-26T18:36+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "\"حمام دم\".. ترامب يطالب بوتين بوقف عملياته بأوروبا",
+     "he": "'Bloodbath': Trump Demands Putin Halt European Operations",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/world/1907356-%D8%AD%D9%85%D8%A7%D9%85-%D8%AF%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D8%A8%D9%88%D9%82%D9%81-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA%D9%87-%D8%A8%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
+     "at": "2026-11-26T16:59+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "بوتين يقيل حاكم منطقة موقوفاً بقضية فساد في خطوة «نادرة»",
+     "he": "",
+     "grade": "حسن",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/node/5345741",
+     "at": "2026-11-25T21:42+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "ye",
+   "name": "اليمن",
+   "en": "Yemen",
+   "n": 16,
+   "sahih": 0,
+   "hasan": 16,
+   "heat": 100,
+   "summary": "خلال آخر أسبوع رصد سَنَد 16 خبرًا مُسنَدًا عن اليمن (16 حسن). أبرزها: «اختطاف سفينة شحن قبالة سواحل اليمن، والسعودية تعلن اعتراض صاروخَين حوثيين باتجاه الرياض والجنوب».",
+   "summary_en": "Over the last week Sanad graded 16 stories on Yemen (16 credible). Lead: “Cargo Ship Hijacked off Yemen Coast; Saudi Arabia Intercepts Two Houthi Missiles Fired Toward Riyadh and the South”.",
+   "stories": [
+    {
+     "head": "اختطاف سفينة شحن قبالة سواحل اليمن، والسعودية تعلن اعتراض صاروخَين حوثيين باتجاه الرياض والجنوب",
+     "he": "Cargo Ship Hijacked off Yemen Coast; Saudi Arabia Intercepts Two Houthi Missiles Fired Toward Riyadh and the South",
+     "grade": "حسن",
+     "src": "BBC",
+     "link": "https://www.bbc.com/arabic/articles/cwj057rlqd82o",
+     "at": "2026-11-28T12:26+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "السعودية.. الأمن العام يعلن القبض على مقيم يمني ويكشف ما فعله",
+     "he": "Saudi Public Security Arrests Yemeni Resident and Details Offense",
+     "grade": "حسن",
+     "src": "CNN Arabic",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/saudi-security-arrests-a-yemeni-resident-drug",
+     "at": "2026-11-28T08:55+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "«أبي، أنا خائف»؛ رواية الحياة في الرياض بالتزامن مع تصاعد هجمات الحوثيين بالمسيرات والصواريخ على العاصمة السعودية",
+     "he": "'Dad, I'm Scared': Life in Riyadh Amid Escalating Houthi Drone and Missile Attacks",
+     "grade": "حسن",
+     "src": "بي بي سي فارسي",
+     "link": "https://www.bbc.com/persian/articles/cjr4ge1lnv1no?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-28T07:00+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "كيف تتسبب هجمات الحوثيين في فوضى عارمة في السعودية؟ - مقال في الإندبندنت",
+     "he": "How Houthi Attacks Are Causing Chaos in Saudi Arabia: Independent Article",
+     "grade": "حسن",
+     "src": "BBC",
+     "link": "https://www.bbc.com/arabic/articles/cr15el0nk085o",
+     "at": "2026-11-27T11:26+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "التحالف يعلن تدمير 50 هدفاً عسكرياً في اليمن بعد تعرض مصفاة جازان السعودية لهجوم من جماعة أنصار الله",
+     "he": "",
+     "grade": "حسن",
+     "src": "بي بي سي عربي",
+     "link": "https://www.bbc.com/arabic/articles/c6y0xqg0dp0do?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-26T19:53+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 0,
+      "الضبط": 1,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "السعودية واليمن: التحالف يعلن تدمير 50 هدفاً عسكرياً في اليمن بعد تعرض مصفاة جازان السعودية لهجوم من جماعة أنصار الله",
+     "he": "Saudi-Yemen Conflict: Coalition Destroys 50 Military Targets in Yemen Following Ansar Allah Attack on Jazan Refinery",
+     "grade": "حسن",
+     "src": "BBC",
+     "link": "https://www.bbc.com/arabic/articles/c6y0xqg0dp0do",
+     "at": "2026-11-26T18:50+00:00",
+     "score": 5,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "اليمن مباشر.. غارات على صنعاء والحديدة وهجمات حوثية تطال محيط ميناءي جدة وجازان",
+     "he": "",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/news/liveblog/2026/11/26/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%b5%d9%86%d8%b9%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d8%a9?traffic_source=rss",
+     "at": "2026-11-25T18:01+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
+     "he": "'Dawn of Yemen' Operations Continue: Houthi Militia Under Fire from Yemeni Forces",
+     "grade": "حسن",
+     "src": "العربية",
+     "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "at": "2026-11-25T06:22+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -1701,73 +1842,25 @@
    "id": "ua",
    "name": "أوكرانيا",
    "en": "Ukraine",
-   "n": 15,
+   "n": 12,
    "sahih": 0,
-   "hasan": 15,
+   "hasan": 12,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 15 خبرًا مُسنَدًا عن أوكرانيا (15 حسن). أبرزها: «فيديو.. أوكرانيا تسقط مسيّرة روسية بالليزر لأول مرة».",
-   "summary_en": "Over the last week Sanad graded 15 stories on Ukraine (15 credible).",
+   "summary": "خلال آخر أسبوع رصد سَنَد 12 خبرًا مُسنَدًا عن أوكرانيا (12 حسن). أبرزها: «قائمة الأهداف الروسية بأنحاء أوكرانيا خلال 24 ساعة.. سفينة وقاطرات وبنية تحتية».",
+   "summary_en": "Over the last week Sanad graded 12 stories on Ukraine (12 credible). Lead: “Russian Targets Across Ukraine in Past 24 Hours Include Ship, Locomotives, and Infrastructure”.",
    "stories": [
     {
-     "head": "فيديو.. أوكرانيا تسقط مسيّرة روسية بالليزر لأول مرة",
-     "he": "",
+     "head": "قائمة الأهداف الروسية بأنحاء أوكرانيا خلال 24 ساعة.. سفينة وقاطرات وبنية تحتية",
+     "he": "Russian Targets Across Ukraine in Past 24 Hours Include Ship, Locomotives, and Infrastructure",
      "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/world/1907641-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B3%D9%82%D8%B7-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9",
-     "at": "2026-11-28T00:58+00:00",
-     "score": 3,
+     "src": "العربية",
+     "link": "https://www.alarabiya.net/arab-and-world/2026/11/28/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A8%D8%A7%D9%86%D8%AD%D8%A7%D8%A1-%D8%A7%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-24-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%88%D9%82%D8%A7%D8%B7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A8%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-",
+     "at": "2026-11-28T06:29+00:00",
+     "score": 4,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "كيف شكَّك \"أقرب حلفاء\" بوتين في مزاعم روسية تبرر غزو أوكرانيا؟",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/world/article/2026/11/28/putins-biggest-ally-questions-claim-russia-uses-to-justify-invasion-of-ukraine",
-     "at": "2026-11-28T00:10+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "مالي تتهم أوكرانيا بتسليح جماعات \"إرهابية\" في الساحل الأفريقي",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d9%85%d8%a7%d9%84%d9%8a-%d8%aa%d8%aa%d9%87%d9%85-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a8%d8%aa%d8%b3%d9%84%d9%8a%d8%ad-%d8%ac%d9%85%d8%a7%d8%b9%d8%a7%d8%aa?traffic_source=rss",
-     "at": "2026-11-27T22:02+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "أوكرانيا تعرض هدنة في البحر الأسود وبوتين يدشن غواصة نووية جديدة",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%b9%d8%b1%d8%b6-%d9%87%d8%af%d9%86%d8%a9-%d8%a8%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af?traffic_source=rss",
-     "at": "2026-11-27T22:02+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
+      "الضبط": 1,
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
@@ -1835,131 +1928,6 @@
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
-    }
-   ]
-  },
-  {
-   "id": "ly",
-   "name": "ليبيا",
-   "en": "Libya",
-   "n": 13,
-   "sahih": 0,
-   "hasan": 13,
-   "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 13 خبرًا مُسنَدًا عن ليبيا (13 حسن). أبرزها: «أردوغان يدعو صدام حفتر إلى \"قمة توحيد السلطة في ليبيا\"».",
-   "summary_en": "Over the last week Sanad graded 13 stories on Libya (13 credible).",
-   "stories": [
-    {
-     "head": "أردوغان يدعو صدام حفتر إلى \"قمة توحيد السلطة في ليبيا\"",
-     "he": "",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1907651-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%AF%D8%B9%D9%88-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D9%81%D8%AA%D8%B1-%D9%82%D9%85%D8%A9-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
-     "at": "2026-11-28T03:09+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "ليبيا.. صدام حفتر يعلن عن ترتيبات لتوحيد مؤسسات الدولة",
-     "he": "",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1907649-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D9%81%D8%AA%D8%B1-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8%D8%A7%D8%AA-%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-     "at": "2026-11-28T02:44+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "لماذا تحظى زيارة خليفة حفتر، قائد الجيش الوطني الليبي، إلى تركيا بأهمية؟",
-     "he": "Why LNA Commander Khalifa Haftar's Visit to Turkey Matters",
-     "grade": "حسن",
-     "src": "بي بي سي فارسي",
-     "link": "https://www.bbc.com/persian/articles/c64gnl590ldgo?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-27T23:11+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "تأجيل القمة الإفريقية التركية المقررة في طرابلس",
-     "he": "",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/world/1907631-%D8%AA%D8%A3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%B1%D8%A9-%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3",
-     "at": "2026-11-27T21:55+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "بعد إغراق ميركوري.. رويترز تكشف عودة أسطول روسي ثانٍ كان متجها إلى ليبيا",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%b1%d9%88%d9%8a%d8%aa%d8%b1%d8%b2-%d8%a3%d8%b3%d8%b7%d9%88%d9%84-%d8%b1%d9%88%d8%b3%d9%8a-%d8%ab%d8%a7%d9%86-%d9%83%d8%a7%d9%86-%d9%85%d8%aa%d8%ac%d9%87%d8%a7-%d8%a5%d9%84%d9%89?traffic_source=rss",
-     "at": "2026-11-27T19:42+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "قلق أممي من تهديدات تمس سلامة نساء ليبيا",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5345738",
-     "at": "2026-11-25T21:31+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الدبيبة يحذر من الزج بليبيا في صراعات دولية",
-     "he": "",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1906641-%D8%A7%D9%84%D8%AF%D8%A8%D9%8A%D8%A8%D8%A9-%D9%8A%D8%AD%D8%B0%D8%B1-%D8%A7%D9%84%D8%B2%D8%AC-%D8%A8%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%B5%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
-     "at": "2026-11-23T22:11+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
     },
     {
      "head": "حسابات النفوذ.. لماذا دخلت ليبيا كساحة للصراع الأوكراني؟",
@@ -1976,75 +1944,14 @@
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
-    }
-   ]
-  },
-  {
-   "id": "ye",
-   "name": "اليمن",
-   "en": "Yemen",
-   "n": 13,
-   "sahih": 0,
-   "hasan": 13,
-   "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 13 خبرًا مُسنَدًا عن اليمن (13 حسن). أبرزها: «كيف تتسبب هجمات الحوثيين في فوضى عارمة في السعودية؟ - مقال في الإندبندنت».",
-   "summary_en": "Over the last week Sanad graded 13 stories on Yemen (13 credible). Lead: “How Houthi Attacks Are Causing Chaos in Saudi Arabia: The Independent”.",
-   "stories": [
-    {
-     "head": "كيف تتسبب هجمات الحوثيين في فوضى عارمة في السعودية؟ - مقال في الإندبندنت",
-     "he": "How Houthi Attacks Are Causing Chaos in Saudi Arabia: The Independent",
-     "grade": "حسن",
-     "src": "BBC",
-     "link": "https://www.bbc.com/arabic/articles/cr15el0nk085o",
-     "at": "2026-11-27T11:26+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
     },
     {
-     "head": "السعودية واليمن: التحالف يعلن اعتراض وتدمير مسيرة استهدفت جنوب السعودية بعد تعرض مصفاة جازان السعودية لهجوم من جماعة أنصار الله",
-     "he": "Saudi Arabia-Yemen: Coalition Intercepts Drone Fired at Southern Saudi Arabia Following Ansar Allah Attack on Jazan Refinery",
-     "grade": "حسن",
-     "src": "BBC",
-     "link": "https://www.bbc.com/arabic/articles/c6y0xqg0dp0do",
-     "at": "2026-11-27T00:29+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "التحالف يعلن تدمير 50 هدفاً عسكرياً في اليمن بعد تعرض مصفاة جازان السعودية لهجوم من جماعة أنصار الله",
-     "he": "",
-     "grade": "حسن",
-     "src": "بي بي سي عربي",
-     "link": "https://www.bbc.com/arabic/articles/c6y0xqg0dp0do?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-26T19:53+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 0,
-      "الضبط": 1,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "اليمن مباشر.. غارات على صنعاء والحديدة وهجمات حوثية تطال محيط ميناءي جدة وجازان",
+     "head": "مواجهة روسية أوكرانية في بنغازي توقظ الانقسام الداخلي وتهدد سيادة ليبيا",
      "he": "",
      "grade": "حسن",
      "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/liveblog/2026/11/26/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%b5%d9%86%d8%b9%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d8%a9?traffic_source=rss",
-     "at": "2026-11-25T18:01+00:00",
+     "link": "https://www.aljazeera.net/video/2026/11/24/%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a8%d9%86%d8%ba%d8%a7%d8%b2%d9%8a-%d8%aa%d9%88%d9%82%d8%b8?traffic_source=rss",
+     "at": "2026-11-23T18:05+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
@@ -2055,66 +1962,18 @@
      }
     },
     {
-     "head": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
-     "he": "'Dawn of Yemen' Operations Continue: Houthi Militia Under Fire from Yemeni Forces",
+     "head": "هجوم روسي يستهدف مبنى قرب المجمع الرئاسي وسط كييف",
+     "he": "Russian Attack Targets Building Near Presidential Compound in Central Kyiv",
      "grade": "حسن",
      "src": "العربية",
-     "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
-     "at": "2026-11-25T06:22+00:00",
+     "link": "https://www.alarabiya.net/arab-and-world/2026/11/23/%D9%87%D8%AC%D9%88%D9%85-%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%A8%D9%86%D9%89-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D9%88%D8%B3%D8%B7-%D9%83%D9%8A%D9%8A%D9%81",
+     "at": "2026-11-23T15:43+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
       "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "السعودية تطلب من المدنيين إخلاء ميناء الحديدة اليمني",
-     "he": "Saudi Arabia Urges Civilians to Evacuate Yemen's Hodeidah Port",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1906892-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A",
-     "at": "2026-11-24T22:43+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
-     "he": "'Fajr Al-Yemen' enters day 50 with heavy strikes against Houthis",
-     "grade": "حسن",
-     "src": "العربية",
-     "link": "https://www.alarabiya.net/arab-and-world/yemen/2026/11/24/%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%AA%D8%AF%D8%AE%D9%84-%D9%8A%D9%88%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D9%80-50-%D9%88%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%D9%83%D8%AB%D9%81%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
-     "at": "2026-11-24T16:47+00:00",
-     "score": 5,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 1,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "هجوم الحوثيين في اليمن على برج بالمركز المالي في الرياض يخلف 11 جريحاً",
-     "he": "Yemen's Houthis attack Riyadh financial center tower, injuring 11",
-     "grade": "حسن",
-     "src": "إيران إنترناشونال",
-     "link": "https://www.iranintl.com/202611249422",
-     "at": "2026-11-24T16:45+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 0,
-      "الضبط": 1,
-      "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     }
@@ -2128,9 +1987,25 @@
    "sahih": 0,
    "hasan": 11,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 11 خبرًا مُسنَدًا عن البحرين (11 حسن). أبرزها: «نشرة الخليج: تأشيرة خليجية وفضاء كويتي وإغاثة قطرية وتوضيح إماراتي وجواهر البحرين».",
+   "summary": "خلال آخر أسبوع رصد سَنَد 11 خبرًا مُسنَدًا عن البحرين (11 حسن). أبرزها: «البحرين تستدعي السفير اللبناني احتجاجاً على \"تصريحات مسيئة لقضائها\"».",
    "summary_en": "Over the last week Sanad graded 11 stories on Bahrain (11 credible).",
    "stories": [
+    {
+     "head": "البحرين تستدعي السفير اللبناني احتجاجاً على \"تصريحات مسيئة لقضائها\"",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/bahrain-summons-lebanons-ambassador",
+     "at": "2026-11-28T13:24+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
     {
      "head": "نشرة الخليج: تأشيرة خليجية وفضاء كويتي وإغاثة قطرية وتوضيح إماراتي وجواهر البحرين",
      "he": "",
@@ -2242,22 +2117,6 @@
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
-    },
-    {
-     "head": "السعودية والبحرين تعلنان التصدي لهجمات ليلية",
-     "he": "Saudi Arabia and Bahrain Announce Interception of Overnight Attacks",
-     "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1906260-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%B9%D9%84%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%84%D9%8A%D9%84%D9%8A%D8%A9",
-     "at": "2026-11-21T21:51+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
     }
    ]
   },
@@ -2269,16 +2128,32 @@
    "sahih": 0,
    "hasan": 11,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 11 خبرًا مُسنَدًا عن تركيا (11 حسن). أبرزها: «لماذا تحظى زيارة خليفة حفتر، قائد الجيش الوطني الليبي، إلى تركيا بأهمية؟».",
-   "summary_en": "Over the last week Sanad graded 11 stories on Turkey (11 credible). Lead: “Why LNA Commander Khalifa Haftar's Visit to Turkey Matters”.",
+   "summary": "خلال آخر أسبوع رصد سَنَد 11 خبرًا مُسنَدًا عن تركيا (11 حسن). أبرزها: «مالك شبكة إخبارية تركية واسعة الانتشار: الحكومة «دمّرت» شبكتنا».",
+   "summary_en": "Over the last week Sanad graded 11 stories on Turkey (11 credible). Lead: “Owner of Major Turkish News Outlet Says Government 'Destroyed' Network”.",
    "stories": [
     {
-     "head": "لماذا تحظى زيارة خليفة حفتر، قائد الجيش الوطني الليبي، إلى تركيا بأهمية؟",
-     "he": "Why LNA Commander Khalifa Haftar's Visit to Turkey Matters",
+     "head": "مالك شبكة إخبارية تركية واسعة الانتشار: الحكومة «دمّرت» شبكتنا",
+     "he": "Owner of Major Turkish News Outlet Says Government 'Destroyed' Network",
      "grade": "حسن",
      "src": "بي بي سي فارسي",
-     "link": "https://www.bbc.com/persian/articles/c64gnl590ldgo?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-27T23:11+00:00",
+     "link": "https://www.bbc.com/persian/articles/c6greqg0jzj4o?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-28T12:11+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "وزير دفاع السعودية يعلق بعد اجتماع \"حلف مكة الدفاعي\" مع تركيا وباكستان",
+     "he": "Saudi Defense Minister Comments Following 'Mecca Defense Pact' Meeting with Turkey and Pakistan",
+     "grade": "حسن",
+     "src": "CNN Arabic",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/saudi-defense-minister-mecca-alliance-reaction-new-meeting-session",
+     "at": "2026-11-28T05:30+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -2295,22 +2170,6 @@
      "src": "سكاي نيوز عربية",
      "link": "https://www.skynewsarabia.com/world/1907631-%D8%AA%D8%A3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%B1%D8%A9-%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3",
      "at": "2026-11-27T21:55+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الرياض وأنقرة تكثفان التعاون لتعزيز شراكتهما التقنية والعسكرية",
-     "he": "Riyadh and Ankara Step Up Cooperation to Boost Tech and Military Partnership",
-     "grade": "حسن",
-     "src": "العربية",
-     "link": "https://www.alarabiya.net/saudi-today/2026/11/27/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%A7%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D9%83%D8%AB%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B4%D8%B1%D8%A7%D9%83%D8%AA%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-",
-     "at": "2026-11-27T14:26+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -2403,23 +2262,39 @@
    ]
   },
   {
-   "id": "cn",
-   "name": "الصين",
-   "en": "China",
+   "id": "ly",
+   "name": "ليبيا",
+   "en": "Libya",
    "n": 10,
    "sahih": 0,
    "hasan": 10,
    "heat": 100,
-   "summary": "خلال آخر أسبوع رصد سَنَد 10 خبرًا مُسنَدًا عن الصين (10 حسن). أبرزها: «تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها».",
-   "summary_en": "Over the last week Sanad graded 10 stories on China (10 credible).",
+   "summary": "خلال آخر أسبوع رصد سَنَد 10 خبرًا مُسنَدًا عن ليبيا (10 حسن). أبرزها: «تأجيل القمة الإفريقية التركية المقررة في طرابلس».",
+   "summary_en": "Over the last week Sanad graded 10 stories on Libya (10 credible).",
    "stories": [
     {
-     "head": "تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها",
+     "head": "تأجيل القمة الإفريقية التركية المقررة في طرابلس",
+     "he": "",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/world/1907631-%D8%AA%D8%A3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%B1%D8%A9-%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3",
+     "at": "2026-11-27T21:55+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "بعد إغراق ميركوري.. رويترز تكشف عودة أسطول روسي ثانٍ كان متجها إلى ليبيا",
      "he": "",
      "grade": "حسن",
      "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%aa%d8%a7%d9%8a%d9%88%d8%a7%d9%86-%d8%aa%d8%b1%d8%b5%d8%af-33-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%8812-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%ad%d9%88%d9%84?traffic_source=rss",
-     "at": "2026-11-28T00:27+00:00",
+     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%b1%d9%88%d9%8a%d8%aa%d8%b1%d8%b2-%d8%a3%d8%b3%d8%b7%d9%88%d9%84-%d8%b1%d9%88%d8%b3%d9%8a-%d8%ab%d8%a7%d9%86-%d9%83%d8%a7%d9%86-%d9%85%d8%aa%d8%ac%d9%87%d8%a7-%d8%a5%d9%84%d9%89?traffic_source=rss",
+     "at": "2026-11-27T19:42+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -2430,12 +2305,12 @@
      }
     },
     {
-     "head": "العلاقات «المعلقة» بين إيران والصين",
-     "he": "The 'Suspended' Relations Between Iran and China",
+     "head": "قلق أممي من تهديدات تمس سلامة نساء ليبيا",
+     "he": "",
      "grade": "حسن",
-     "src": "بي بي سي فارسي",
-     "link": "https://www.bbc.com/persian/articles/cq62pnvmjne2o?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-27T06:00+00:00",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/node/5345738",
+     "at": "2026-11-25T21:31+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -2446,28 +2321,44 @@
      }
     },
     {
-     "head": "عملاق \"الرقائق الإلكترونية\" بين القيود الأمريكية والإغراءات الصينية",
-     "he": "Chip Giant Caught Between US Restrictions and Chinese Temptations",
+     "head": "الدبيبة يحذر من الزج بليبيا في صراعات دولية",
+     "he": "",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/middle-east/1906641-%D8%A7%D9%84%D8%AF%D8%A8%D9%8A%D8%A8%D8%A9-%D9%8A%D8%AD%D8%B0%D8%B1-%D8%A7%D9%84%D8%B2%D8%AC-%D8%A8%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%B5%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+     "at": "2026-11-23T22:11+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "حسابات النفوذ.. لماذا دخلت ليبيا كساحة للصراع الأوكراني؟",
+     "he": "",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/middle-east/1906623-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AF%D8%AE%D9%84%D8%AA-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%83%D8%B3%D8%A7%D8%AD%D8%A9-%D9%84%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A",
+     "at": "2026-11-23T19:08+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "مواجهة روسية أوكرانية في بنغازي توقظ الانقسام الداخلي وتهدد سيادة ليبيا",
+     "he": "",
      "grade": "حسن",
      "src": "الجزيرة نت",
-     "link": "https://www.ajnet.me/tech/2026/11/26/%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D9%8A%D9%88%D8%AF",
-     "at": "2026-11-26T19:05+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الرسوم الجمركية: الولايات المتحدة تعلن عن رسوم جمركية جديدة على مجموعة من الدول بينها الصين",
-     "he": "Tariffs: US Announces New Tariffs on Multiple Countries, Including China",
-     "grade": "حسن",
-     "src": "BBC",
-     "link": "https://www.bbc.com/arabic/articles/c61k9znpk8zvo",
-     "at": "2026-11-26T12:54+00:00",
+     "link": "https://www.aljazeera.net/video/2026/11/24/%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a8%d9%86%d8%ba%d8%a7%d8%b2%d9%8a-%d8%aa%d9%88%d9%82%d8%b8?traffic_source=rss",
+     "at": "2026-11-23T18:05+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
@@ -2478,12 +2369,12 @@
      }
     },
     {
-     "head": "الولايات المتحدة تعلن عن رسوم جمركية جديدة على مجموعة من الدول بينها الصين",
-     "he": "",
+     "head": "ليبيا تطالب بتحقيق دولي في شبهات بوجود عسكري أوكراني بعد غرق فرقاطة روسية وإصابة سفينة شحن على سواحلها",
+     "he": "Libya Seeks International Probe into Suspected Ukrainian Military Presence After Warship Sinking Off Its Coast",
      "grade": "حسن",
      "src": "بي بي سي عربي",
-     "link": "https://www.bbc.com/arabic/articles/c61k9znpk8zvo?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-26T12:49+00:00",
+     "link": "https://www.bbc.com/arabic/articles/cj5y1x9260kyo?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-23T12:44+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -2494,50 +2385,18 @@
      }
     },
     {
-     "head": "هواوي والرسوم.. التكنولوجيا تختبر تقارب واشنطن وبكين",
-     "he": "Huawei and Tariffs: Tech Tests Washington-Beijing Rapprochement",
+     "head": "زيلينسكي يكشف كيف استهدفت أوكرانيا وأغرقت سفينة حربية روسية في ليبيا",
+     "he": "Zelenskyy Details Ukrainian Strike That Sank Russian Warship in Libya",
      "grade": "حسن",
-     "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/technology/1907196-%D9%87%D9%88%D8%A7%D9%88%D9%8A-%D9%88%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%AA%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AA%D9%82%D8%A7%D8%B1%D8%A8-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%A8%D9%83%D9%8A%D9%86",
-     "at": "2026-11-26T05:40+00:00",
-     "score": 3,
+     "src": "CNN Arabic",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/23/ukrainian-drones-sink-russian-warship-in-north-africa",
+     "at": "2026-11-23T08:36+00:00",
+     "score": 4,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "إنفيديا بين ترمب والصين.. كيف تؤثر السياسة في قرارات عمالقة التكنولوجيا؟",
-     "he": "Nvidia caught between Trump and China: How politics sways tech giants",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/tech/2026/11/24/%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%87%D9%84-%D8%AA%D8%A4%D8%AB%D8%B1-%D8%A8%D9%83%D9%8A%D9%86",
-     "at": "2026-11-24T15:52+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الصين تختار التهدئة مع أمريكا رغم قيود الرقائق الجديدة",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/ebusiness/2026/11/24/%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d9%87%d8%af%d8%a6%d8%a9-%d9%85%d8%b9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%b1%d8%ba%d9%85-%d9%82%d9%8a%d9%88%d8%af?traffic_source=rss",
-     "at": "2026-11-24T15:14+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
+      "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     }
@@ -2685,23 +2544,23 @@
    ]
   },
   {
-   "id": "ml",
-   "name": "مالي",
-   "en": "Mali",
+   "id": "cn",
+   "name": "الصين",
+   "en": "China",
    "n": 9,
    "sahih": 0,
    "hasan": 9,
    "heat": 99,
-   "summary": "خلال آخر أسبوع رصد سَنَد 9 خبرًا مُسنَدًا عن مالي (9 حسن). أبرزها: «كوريا الشمالية وروسيا تتفقان على تعزيز المشروعات الاقتصادية المشتركة».",
-   "summary_en": "Over the last week Sanad graded 9 stories on Mali (9 credible).",
+   "summary": "خلال آخر أسبوع رصد سَنَد 9 خبرًا مُسنَدًا عن الصين (9 حسن). أبرزها: «علاقات «معلقة» بين إيران والصين».",
+   "summary_en": "Over the last week Sanad graded 9 stories on China (9 credible). Lead: “Iran-China Relations on Hold”.",
    "stories": [
     {
-     "head": "كوريا الشمالية وروسيا تتفقان على تعزيز المشروعات الاقتصادية المشتركة",
-     "he": "",
+     "head": "علاقات «معلقة» بين إيران والصين",
+     "he": "Iran-China Relations on Hold",
      "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346497",
-     "at": "2026-11-28T04:49+00:00",
+     "src": "بي بي سي فارسي",
+     "link": "https://www.bbc.com/persian/articles/cq62pnvmjne2o?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-27T06:00+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -2712,12 +2571,12 @@
      }
     },
     {
-     "head": "مالي تتهم أوكرانيا بتسليح جماعات \"إرهابية\" في الساحل الأفريقي",
-     "he": "",
+     "head": "عملاق \"الرقائق الإلكترونية\" بين القيود الأمريكية والإغراءات الصينية",
+     "he": "Chip Giant Caught Between US Restrictions and Chinese Incentives",
      "grade": "حسن",
      "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d9%85%d8%a7%d9%84%d9%8a-%d8%aa%d8%aa%d9%87%d9%85-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a8%d8%aa%d8%b3%d9%84%d9%8a%d8%ad-%d8%ac%d9%85%d8%a7%d8%b9%d8%a7%d8%aa?traffic_source=rss",
-     "at": "2026-11-27T22:02+00:00",
+     "link": "https://www.ajnet.me/tech/2026/11/26/%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D9%8A%D9%88%D8%AF",
+     "at": "2026-11-26T19:05+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -2728,28 +2587,12 @@
      }
     },
     {
-     "head": "الموازنة السعودية 2027.. الحيز المالي والقطاع غير النفطي يعززان النمو",
-     "he": "Saudi Budget 2027: Fiscal Space and Non-Oil Sector Boost Growth",
+     "head": "الرسوم الجمركية: الولايات المتحدة تعلن عن رسوم جمركية جديدة على مجموعة من الدول بينها الصين",
+     "he": "Tariffs: US Announces New Tariffs on Multiple Countries, Including China",
      "grade": "حسن",
-     "src": "العربية",
-     "link": "https://www.alarabiya.net/aswaq/special-stories/2026/11/25/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-2027-%D8%A7%D9%84%D8%AD%D9%8A%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D9%8A%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D9%85%D9%88",
-     "at": "2026-11-25T14:09+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 1,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "ما صحة \"الصورة الحصرية\" المزعومة لهجوم برج المركز المالي في الرياض؟",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/middle-east/article/2026/11/24/ai-alleged-image-attack-towers-financial-center-aftermath-riyadh",
-     "at": "2026-11-24T17:01+00:00",
+     "src": "BBC",
+     "link": "https://www.bbc.com/arabic/articles/c61k9znpk8zvo",
+     "at": "2026-11-26T12:54+00:00",
      "score": 4,
      "isnad": {
       "الاتصال": 1,
@@ -2760,66 +2603,82 @@
      }
     },
     {
-     "head": "هجوم الحوثيين في اليمن على برج بالمركز المالي في الرياض يخلف 11 جريحاً",
-     "he": "Yemen's Houthis attack Riyadh financial center tower, injuring 11",
+     "head": "الولايات المتحدة تعلن عن رسوم جمركية جديدة على مجموعة من الدول بينها الصين",
+     "he": "",
      "grade": "حسن",
-     "src": "إيران إنترناشونال",
-     "link": "https://www.iranintl.com/202611249422",
-     "at": "2026-11-24T16:45+00:00",
-     "score": 4,
+     "src": "بي بي سي عربي",
+     "link": "https://www.bbc.com/arabic/articles/c61k9znpk8zvo?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-26T12:49+00:00",
+     "score": 3,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 0,
-      "الضبط": 1,
+      "الضبط": 0,
       "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     },
     {
-     "head": "السعودية تعلن تعرض أحد أبراج المركز المالي لهجوم إرهابي",
-     "he": "Saudi Arabia announces terror attack on financial center tower",
+     "head": "هواوي والرسوم.. التكنولوجيا تختبر تقارب واشنطن وبكين",
+     "he": "Huawei and Tariffs: Tech Sector Tests Washington-Beijing Thaw",
      "grade": "حسن",
      "src": "سكاي نيوز عربية",
-     "link": "https://www.skynewsarabia.com/middle-east/1906817-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A",
-     "at": "2026-11-24T15:09+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "عودة هوانغ إلى إنفيديا.. ماذا تعني ماليا واقتصاديا لعملاق الذكاء الاصطناعي؟",
-     "he": "Huang's Return to Nvidia: Financial and Economic Implications for the AI Giant",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/ebusiness/2026/11/23/%D8%B9%D9%88%D8%AF%D8%A9-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D8%A5%D9%84%D9%89-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D9%86%D9%8A-%D9%85%D8%A7%D9%84%D9%8A%D8%A7",
-     "at": "2026-11-23T19:15+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "موريتانيا تُبعد المنقبين عن حدودها الشمالية بعد انسحاب «المينورسو» من الصحراء",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5344425",
-     "at": "2026-11-22T20:50+00:00",
+     "link": "https://www.skynewsarabia.com/technology/1907196-%D9%87%D9%88%D8%A7%D9%88%D9%8A-%D9%88%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%AA%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AA%D9%82%D8%A7%D8%B1%D8%A8-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%A8%D9%83%D9%8A%D9%86",
+     "at": "2026-11-26T05:40+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
       "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "إنفيديا بين ترمب والصين.. كيف تؤثر السياسة في قرارات عمالقة التكنولوجيا؟",
+     "he": "Nvidia caught between Trump and China: How politics sways tech giants",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/tech/2026/11/24/%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%87%D9%84-%D8%AA%D8%A4%D8%AB%D8%B1-%D8%A8%D9%83%D9%8A%D9%86",
+     "at": "2026-11-24T15:52+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "الصين تختار التهدئة مع أمريكا رغم قيود الرقائق الجديدة",
+     "he": "",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/ebusiness/2026/11/24/%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d9%87%d8%af%d8%a6%d8%a9-%d9%85%d8%b9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%b1%d8%ba%d9%85-%d9%82%d9%8a%d9%88%d8%af?traffic_source=rss",
+     "at": "2026-11-24T15:14+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "تقرير: الصين سعت للحصول على رقائق الذكاء الاصطناعي قبل فضيحة «إنفيديا» بسنوات",
+     "he": "Report: China Sought AI Chips Years Ahead of Nvidia Scandal",
+     "grade": "حسن",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A2%D8%B3%D9%8A%D8%A7/5344265-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%B3%D8%B9%D8%AA-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%82%D8%A8%D9%84-%D9%81%D8%B6%D9%8A%D8%AD%D8%A9-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A8%D8%B3%D9%86%D9%88%D8%A7%D8%AA",
+     "at": "2026-11-22T12:41+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     }
@@ -3092,16 +2951,157 @@
    ]
   },
   {
+   "id": "ml",
+   "name": "مالي",
+   "en": "Mali",
+   "n": 7,
+   "sahih": 0,
+   "hasan": 7,
+   "heat": 77,
+   "summary": "خلال آخر أسبوع رصد سَنَد 7 خبرًا مُسنَدًا عن مالي (7 حسن). أبرزها: «الموازنة السعودية 2027.. الحيز المالي والقطاع غير النفطي يعززان النمو».",
+   "summary_en": "Over the last week Sanad graded 7 stories on Mali (7 credible). Lead: “Saudi Budget 2027: Fiscal Space and Non-Oil Sector Boost Growth”.",
+   "stories": [
+    {
+     "head": "الموازنة السعودية 2027.. الحيز المالي والقطاع غير النفطي يعززان النمو",
+     "he": "Saudi Budget 2027: Fiscal Space and Non-Oil Sector Boost Growth",
+     "grade": "حسن",
+     "src": "العربية",
+     "link": "https://www.alarabiya.net/aswaq/special-stories/2026/11/25/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-2027-%D8%A7%D9%84%D8%AD%D9%8A%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D9%8A%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D9%85%D9%88",
+     "at": "2026-11-25T14:09+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "ما صحة \"الصورة الحصرية\" المزعومة لهجوم برج المركز المالي في الرياض؟",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/24/ai-alleged-image-attack-towers-financial-center-aftermath-riyadh",
+     "at": "2026-11-24T17:01+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "هجوم الحوثيين في اليمن على برج بالمركز المالي في الرياض يخلف 11 جريحاً",
+     "he": "Yemen's Houthis attack Riyadh financial center tower, injuring 11",
+     "grade": "حسن",
+     "src": "إيران إنترناشونال",
+     "link": "https://www.iranintl.com/202611249422",
+     "at": "2026-11-24T16:45+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 0,
+      "الضبط": 1,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "السعودية تعلن تعرض أحد أبراج المركز المالي لهجوم إرهابي",
+     "he": "Saudi Arabia announces terror attack on financial center tower",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/middle-east/1906817-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A",
+     "at": "2026-11-24T15:09+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "عودة هوانغ إلى إنفيديا.. ماذا تعني ماليا واقتصاديا لعملاق الذكاء الاصطناعي؟",
+     "he": "Huang's Return to Nvidia: Financial and Economic Implications for the AI Giant",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/ebusiness/2026/11/23/%D8%B9%D9%88%D8%AF%D8%A9-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D8%A5%D9%84%D9%89-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D9%86%D9%8A-%D9%85%D8%A7%D9%84%D9%8A%D8%A7",
+     "at": "2026-11-23T19:15+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "موريتانيا تُبعد المنقبين عن حدودها الشمالية بعد انسحاب «المينورسو» من الصحراء",
+     "he": "",
+     "grade": "حسن",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/node/5344425",
+     "at": "2026-11-22T20:50+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "السعودية تقرر توطين 17 مهنة مالية في القطاع الخاص بنسبة 50%",
+     "he": "Saudi Arabia to Saudize 17 Private-Sector Financial Professions by 50%",
+     "grade": "حسن",
+     "src": "العربية",
+     "link": "https://www.alarabiya.net/aswaq/economy/2026/11/22/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D9%82%D8%B1%D8%B1-%D8%AA%D9%88%D8%B7%D9%8A%D9%86-50-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%87%D9%86-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5",
+     "at": "2026-11-22T11:12+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    }
+   ]
+  },
+  {
    "id": "sy",
    "name": "سوريا",
    "en": "Syria",
-   "n": 5,
+   "n": 6,
    "sahih": 0,
-   "hasan": 5,
-   "heat": 55,
-   "summary": "خلال آخر أسبوع رصد سَنَد 5 خبرًا مُسنَدًا عن سوريا (5 حسن). أبرزها: «مقتل عنصري أمن في هجوم شرقي سوريا».",
-   "summary_en": "Over the last week Sanad graded 5 stories on Syria (5 credible).",
+   "hasan": 6,
+   "heat": 66,
+   "summary": "خلال آخر أسبوع رصد سَنَد 6 خبرًا مُسنَدًا عن سوريا (6 حسن). أبرزها: «أسواق حلب القديمة تعود ومعها روائح الغار والصابون».",
+   "summary_en": "Over the last week Sanad graded 6 stories on Syria (6 credible).",
    "stories": [
+    {
+     "head": "أسواق حلب القديمة تعود ومعها روائح الغار والصابون",
+     "he": "",
+     "grade": "حسن",
+     "src": "الشرق الأوسط",
+     "link": "https://aawsat.com/node/5346612",
+     "at": "2026-11-28T13:30+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
     {
      "head": "مقتل عنصري أمن في هجوم شرقي سوريا",
      "he": "",
@@ -3185,6 +3185,99 @@
    ]
   },
   {
+   "id": "pk",
+   "name": "باكستان",
+   "en": "Pakistan",
+   "n": 5,
+   "sahih": 0,
+   "hasan": 5,
+   "heat": 55,
+   "summary": "خلال آخر أسبوع رصد سَنَد 5 خبرًا مُسنَدًا عن باكستان (5 حسن). أبرزها: «وزير دفاع السعودية يعلق بعد اجتماع \"حلف مكة الدفاعي\" مع تركيا وباكستان».",
+   "summary_en": "Over the last week Sanad graded 5 stories on Pakistan (5 credible). Lead: “Saudi Defense Minister Comments Following 'Mecca Defense Pact' Meeting with Turkey and Pakistan”.",
+   "stories": [
+    {
+     "head": "وزير دفاع السعودية يعلق بعد اجتماع \"حلف مكة الدفاعي\" مع تركيا وباكستان",
+     "he": "Saudi Defense Minister Comments Following 'Mecca Defense Pact' Meeting with Turkey and Pakistan",
+     "grade": "حسن",
+     "src": "CNN Arabic",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/saudi-defense-minister-mecca-alliance-reaction-new-meeting-session",
+     "at": "2026-11-28T05:30+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "سفير إيران لدى باكستان لـCNN: مستعدون للتفاوض.. لكن ردنا سيكون حازمًا",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/middle-east/video/2026/11/28/v206080-reza-amiri-moghadam-pakistan-iran-conflict-saifi-latam-intl",
+     "at": "2026-11-27T20:10+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "اجتماع جديد لدول \"حلف مكة\" في باكستان.. وهذا ما بحثه",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/27/a-new-meeting-of-makkah-alliance-countries-in-pakistan",
+     "at": "2026-11-27T17:57+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "من مكة إلى إسلام آباد.. كيف تطور التحالف السعودي التركي الباكستاني؟",
+     "he": "",
+     "grade": "حسن",
+     "src": "الجزيرة نت",
+     "link": "https://www.aljazeera.net/politics/2026/11/27/%d9%85%d9%86-%d9%85%d9%83%d8%a9-%d8%a5%d9%84%d9%89-%d8%a5%d8%b3%d9%84%d8%a7%d9%85-%d8%a2%d8%a8%d8%a7%d8%af-%d9%83%d9%8a%d9%81-%d8%aa%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81?traffic_source=rss",
+     "at": "2026-11-26T19:02+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "الكويت: مقتل إيطاليين اثنين وإصابة كويتي وباكستاني إثر هجوم إيراني استهدف \"أحد المواقع الحيوية\"",
+     "he": "Kuwait: Two Italians Killed, Kuwaiti and Pakistani Injured in Iranian Attack on 'Vital Site'",
+     "grade": "حسن",
+     "src": "CNN Arabic",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/26/iranian-attack-on-kuwait-kills-two-italians-italys-foreign-minister-says",
+     "at": "2026-11-26T13:57+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    }
+   ]
+  },
+  {
    "id": "de",
    "name": "ألمانيا",
    "en": "Germany",
@@ -3213,7 +3306,7 @@
     },
     {
      "head": "برلين تشهد مظاهرة تضامنية مع فلسطين للمطالبة بوقف الإبادة في غزة",
-     "he": "Berlin Hosts Rally in Solidarity with Palestine to Demand Halt to Gaza Genocide",
+     "he": "Berlin Rally in Solidarity with Palestine Demands End to Gaza Genocide",
      "grade": "حسن",
      "src": "جريدة القدس العربي | Alquds Alarabi Newspaper",
      "link": "https://www.alquds.co.uk/%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D8%AA%D8%B4%D9%87%D8%AF-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%B9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%84%D9%84/",
@@ -3416,83 +3509,6 @@
    ]
   },
   {
-   "id": "pk",
-   "name": "باكستان",
-   "en": "Pakistan",
-   "n": 4,
-   "sahih": 0,
-   "hasan": 4,
-   "heat": 44,
-   "summary": "خلال آخر أسبوع رصد سَنَد 4 خبرًا مُسنَدًا عن باكستان (4 حسن). أبرزها: «سفير إيران لدى باكستان لـCNN: مستعدون للتفاوض.. لكن ردنا سيكون حازمًا».",
-   "summary_en": "Over the last week Sanad graded 4 stories on Pakistan (4 credible).",
-   "stories": [
-    {
-     "head": "سفير إيران لدى باكستان لـCNN: مستعدون للتفاوض.. لكن ردنا سيكون حازمًا",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/middle-east/video/2026/11/28/v206080-reza-amiri-moghadam-pakistan-iran-conflict-saifi-latam-intl",
-     "at": "2026-11-27T20:10+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "اجتماع جديد لدول \"حلف مكة\" في باكستان.. وهذا ما بحثه",
-     "he": "",
-     "grade": "حسن",
-     "src": "CNN بالعربية",
-     "link": "https://arabic.cnn.com/middle-east/article/2026/11/27/a-new-meeting-of-makkah-alliance-countries-in-pakistan",
-     "at": "2026-11-27T17:57+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "من مكة إلى إسلام آباد.. كيف تطور التحالف السعودي التركي الباكستاني؟",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/politics/2026/11/27/%d9%85%d9%86-%d9%85%d9%83%d8%a9-%d8%a5%d9%84%d9%89-%d8%a5%d8%b3%d9%84%d8%a7%d9%85-%d8%a2%d8%a8%d8%a7%d8%af-%d9%83%d9%8a%d9%81-%d8%aa%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81?traffic_source=rss",
-     "at": "2026-11-26T19:02+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "الكويت: مقتل إيطاليين اثنين وإصابة كويتي وباكستاني إثر هجوم إيراني استهدف \"أحد المواقع الحيوية\"",
-     "he": "Kuwait: Two Italians Killed, Kuwaiti and Pakistani Injured in Iranian Attack on 'Vital Site'",
-     "grade": "حسن",
-     "src": "CNN Arabic",
-     "link": "https://arabic.cnn.com/middle-east/article/2026/11/26/iranian-attack-on-kuwait-kills-two-italians-italys-foreign-minister-says",
-     "at": "2026-11-26T13:57+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
    "id": "es",
    "name": "إسبانيا",
    "en": "Spain",
@@ -3542,6 +3558,128 @@
      "src": "الجزيرة نت",
      "link": "https://www.aljazeera.net/sport/liveblog/2026/11/24/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d8%b6%d8%af-%d8%a2%d9%8a%d9%86%d8%af%d9%87%d9%88%d9%81%d9%86-%d9%81%d9%8a?traffic_source=rss",
      "at": "2026-11-24T15:25+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "kr",
+   "name": "كوريا الجنوبية",
+   "en": "South Korea",
+   "n": 3,
+   "sahih": 0,
+   "hasan": 3,
+   "heat": 33,
+   "summary": "خلال آخر أسبوع رصد سَنَد 3 خبرًا مُسنَدًا عن كوريا الجنوبية (3 حسن). أبرزها: «في بلد \"الكيبوب\".. لماذا يُحظر الرقص داخل المطاعم في كوريا الجنوبية؟».",
+   "summary_en": "Over the last week Sanad graded 3 stories on South Korea (3 credible).",
+   "stories": [
+    {
+     "head": "في بلد \"الكيبوب\".. لماذا يُحظر الرقص داخل المطاعم في كوريا الجنوبية؟",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/travel/article/2026/11/28/south-korea-ban-dance-restaurants-law-intl-hnk",
+     "at": "2026-11-28T13:08+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "تصدر النتائج بفضل الذكاء الاصطناعي.. الشرطة الكورية تطلب توقيف متهم بالغش في امتحان وطني",
+     "he": "Topping Scores via AI: South Korean Police Seek Arrest of Suspect in National Exam Cheating",
+     "grade": "حسن",
+     "src": "العربية",
+     "link": "https://www.alarabiya.net/technology/ai/2026/11/27/%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D8%A8-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D8%BA%D8%B4-%D9%81%D9%8A-%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86-%D9%88%D8%B7%D9%86%D9%8A",
+     "at": "2026-11-27T11:28+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "أين تهرب أموال المستثمرين؟.. أصول تجذب السيولة مع اضطرابات الأسواق العالمية",
+     "he": "Flight to Safety: Assets Drawing Liquidity Amid Global Market Turmoil",
+     "grade": "حسن",
+     "src": "العربية",
+     "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNcmcxTjFkQTVsNjJLejVuY3pFSGNfZHBKZk1DbW1HWEdPa0w5dmpFTkxiUmJlOFI1ZjZpRHdISkJNWHphSlVIZmEyLXQtbklidl9xemtfXzJoNEVqT1ZUVHM5U2lPZUY5OHlQSFpiWHJUUlh5SmNuYk9BTW52X2ljcHFFbEttS1lvSzNFRklNRHhqcWxIU2laZUtucVROejYtV09BUXJORGZxWG85S2hNaU1hdE9xOTk4MnVXM2NGa19aWUFfcVNjWTczRHlGckpJTmdVYjJxdGtSOGdEZHRaWGNkam15S2dYRmRPWVFZcVZ5RzNCdENvbXVybFBVaEZldmdZYjdNWFFEb0Y0MU94dVNURlpfZGxiRzgxVmFtR3g2TTRHcUZab0xxMWRIUlRacWlBdDNGV3F5c0o1UlVreGhKS3A5cW1lM1E4bWZacmlKVy1XQnZnUFk3eXA1aG53SVItMURQZHZYMlp0ZzNsNFJPS3o1Qy1QTnVNcXB5UTZvXzdQNHgtWllsV21Ydld4RzAxWDVMV21STDRYRXk1cHhQTE1HN3JuMVhEMG13R0VhSjIyQldaSkxHLTFJRUw0WkxoYk5sLTJzRVNUOGt3V1drcUc1X3BnQkcwalE3QWNJWUY5ZHhKOHJOa3RJNmxVT3BpZ3JVd2NNUGM2UlRHeFc0RnR6eGZq0gGOBEFVX3lxTE5BZ29ZQy1JOFFBSWJQazdLX0RqRF9XeXZ6eVpfWXV6RzdteUNJTm1GS0N1emoxYTZWQ2hmWG4wQlluMlhXOTYzODlzYk83akdnSVMyYzZZOXc0Y1V2RF9MZVVJUUpiSFc1eWhNMXktanB6RHJuY056QWU2S2E4Ry1lYnZMZG83SVRNT0JGdk5mMVNOMFU0RU9MeUJFZGNneDVFSEZLNy10WmJxWEI2MVRLOXFVMjFKMU1mR3I5czBCRzFsTXRjdWk4a2xCbVB4MWpEOTJ0ZGFfaGJnSjc4a3dsNTJHWnZoRFU5UXgwOU1KMFFOZXhDaE1uMVVaRDAycDFXVm83SXA5UFFib0dvR3BrVUJJQjhFeGNfM3RYbU55REZQZERHeURjNG9nUnI1MEdVek5yb25FTDhRcm1hVjBtemdzWWpWQVY1VDF2SDdILUFfdTgzT3BuYm0yU2psalNmVTlEMk1EQWhoRnpWT3lCRTFudXdDWVNVNzlxQ2Q0UHNTRVFfUlA1NmJ2cDVYbEJlRTIxV3RIOGl6NjBjV1ZkNlNBMEtoeHVuSmJQRmdXRkxLcWZ1WWljS3RfeW94RGRDVXc4VHNFclJoVzBSbkNtRVN0MUt0VEY4MUhudmVjYmItWjVaQTJ6YmhKRjlRcmR1a0FNUUJuRjNVUnp1R0k2X05jaFdCRzVXTjVjblE?oc=5",
+     "at": "2026-11-22T11:44+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "lb",
+   "name": "لبنان",
+   "en": "Lebanon",
+   "n": 3,
+   "sahih": 0,
+   "hasan": 3,
+   "heat": 33,
+   "summary": "خلال آخر أسبوع رصد سَنَد 3 خبرًا مُسنَدًا عن لبنان (3 حسن). أبرزها: «البحرين تستدعي السفير اللبناني احتجاجاً على \"تصريحات مسيئة لقضائها\"».",
+   "summary_en": "Over the last week Sanad graded 3 stories on Lebanon (3 credible).",
+   "stories": [
+    {
+     "head": "البحرين تستدعي السفير اللبناني احتجاجاً على \"تصريحات مسيئة لقضائها\"",
+     "he": "",
+     "grade": "حسن",
+     "src": "CNN بالعربية",
+     "link": "https://arabic.cnn.com/middle-east/article/2026/11/28/bahrain-summons-lebanons-ambassador",
+     "at": "2026-11-28T13:24+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "غارات وتفجيرات إسرائيلية تطال بلدات جنوب لبنان",
+     "he": "",
+     "grade": "حسن",
+     "src": "سكاي نيوز عربية",
+     "link": "https://www.skynewsarabia.com/middle-east/1907745-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+     "at": "2026-11-28T13:21+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "وسائل إعلام لبنانية: ضغوط أمريكية وسعودية وراء نبرة عون الأكثر حدة ضد حزب الله وإيران",
+     "he": "Lebanese Media: US and Saudi Pressure Behind Aoun's Sharper Tone on Hezbollah and Iran",
+     "grade": "حسن",
+     "src": "بي بي سي فارسي",
+     "link": "https://www.bbc.com/persian/articles/cwp9d0j9yjego?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-25T18:43+00:00",
      "score": 3,
      "isnad": {
       "الاتصال": 1,
@@ -3609,6 +3747,51 @@
       "عدالة المصدر": 1,
       "الضبط": 0,
       "عدم الشذوذ": 0,
+      "انتفاء العلة": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "af",
+   "name": "أفغانستان",
+   "en": "Afghanistan",
+   "n": 2,
+   "sahih": 0,
+   "hasan": 2,
+   "heat": 22,
+   "summary": "خلال آخر أسبوع رصد سَنَد 2 خبرًا مُسنَدًا عن أفغانستان (2 حسن). أبرزها: «7 قتلى وحوالي 100 مصاب إثر انفجار قرب مدرسة شرقي أفغانستان».",
+   "summary_en": "Over the last week Sanad graded 2 stories on Afghanistan (2 credible). Lead: “7 Dead, About 100 Injured in Explosion Near School in Eastern Afghanistan”.",
+   "stories": [
+    {
+     "head": "7 قتلى وحوالي 100 مصاب إثر انفجار قرب مدرسة شرقي أفغانستان",
+     "he": "7 Dead, About 100 Injured in Explosion Near School in Eastern Afghanistan",
+     "grade": "حسن",
+     "src": "BBC",
+     "link": "https://www.bbc.com/arabic/articles/cx30g6mq5y9mo",
+     "at": "2026-11-28T12:11+00:00",
+     "score": 5,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 1,
+      "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    },
+    {
+     "head": "مقتل وإصابة عدد من الأطفال في انفجار داخل مدرسة بأفغانستان",
+     "he": "Children Killed and Injured in Explosion Inside Afghan School",
+     "grade": "حسن",
+     "src": "بي بي سي فارسي",
+     "link": "https://www.bbc.com/persian/articles/cvde1rlyyd81o?at_medium=RSS&at_campaign=rss",
+     "at": "2026-11-28T11:05+00:00",
+     "score": 4,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 1,
+      "الضبط": 0,
+      "عدم الشذوذ": 1,
       "انتفاء العلة": 1
      }
     }
@@ -3687,8 +3870,8 @@
      }
     },
     {
-     "head": "وكيل صوتي باللغات الهندية باستخدام CUGA",
-     "he": "Voice Agent for Indic Languages Built with CUGA",
+     "head": "وكيل صوتي للغات الهندية باستخدام CUGA",
+     "he": "Voice Agent for Indic Languages Using CUGA",
      "grade": "حسن",
      "src": "هَغِنغ فيس",
      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
@@ -3697,51 +3880,6 @@
      "isnad": {
       "الاتصال": 2,
       "عدالة المصدر": 2,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
-   "id": "kr",
-   "name": "كوريا الجنوبية",
-   "en": "South Korea",
-   "n": 2,
-   "sahih": 0,
-   "hasan": 2,
-   "heat": 22,
-   "summary": "خلال آخر أسبوع رصد سَنَد 2 خبرًا مُسنَدًا عن كوريا الجنوبية (2 حسن). أبرزها: «تصدر النتائج بفضل الذكاء الاصطناعي.. الشرطة الكورية تطلب توقيف متهم بالغش في امتحان وطني».",
-   "summary_en": "Over the last week Sanad graded 2 stories on South Korea (2 credible). Lead: “Topped Exam Using AI: South Korean Police Seek Arrest of National Test Cheater”.",
-   "stories": [
-    {
-     "head": "تصدر النتائج بفضل الذكاء الاصطناعي.. الشرطة الكورية تطلب توقيف متهم بالغش في امتحان وطني",
-     "he": "Topped Exam Using AI: South Korean Police Seek Arrest of National Test Cheater",
-     "grade": "حسن",
-     "src": "العربية",
-     "link": "https://www.alarabiya.net/technology/ai/2026/11/27/%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D8%A8-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D8%BA%D8%B4-%D9%81%D9%8A-%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86-%D9%88%D8%B7%D9%86%D9%8A",
-     "at": "2026-11-27T11:28+00:00",
-     "score": 4,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "أين تهرب أموال المستثمرين؟.. أصول تجذب السيولة مع اضطرابات الأسواق العالمية",
-     "he": "Flight to Safety: Assets Drawing Liquidity Amid Global Market Turmoil",
-     "grade": "حسن",
-     "src": "العربية",
-     "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNcmcxTjFkQTVsNjJLejVuY3pFSGNfZHBKZk1DbW1HWEdPa0w5dmpFTkxiUmJlOFI1ZjZpRHdISkJNWHphSlVIZmEyLXQtbklidl9xemtfXzJoNEVqT1ZUVHM5U2lPZUY5OHlQSFpiWHJUUlh5SmNuYk9BTW52X2ljcHFFbEttS1lvSzNFRklNRHhqcWxIU2laZUtucVROejYtV09BUXJORGZxWG85S2hNaU1hdE9xOTk4MnVXM2NGa19aWUFfcVNjWTczRHlGckpJTmdVYjJxdGtSOGdEZHRaWGNkam15S2dYRmRPWVFZcVZ5RzNCdENvbXVybFBVaEZldmdZYjdNWFFEb0Y0MU94dVNURlpfZGxiRzgxVmFtR3g2TTRHcUZab0xxMWRIUlRacWlBdDNGV3F5c0o1UlVreGhKS3A5cW1lM1E4bWZacmlKVy1XQnZnUFk3eXA1aG53SVItMURQZHZYMlp0ZzNsNFJPS3o1Qy1QTnVNcXB5UTZvXzdQNHgtWllsV21Ydld4RzAxWDVMV21STDRYRXk1cHhQTE1HN3JuMVhEMG13R0VhSjIyQldaSkxHLTFJRUw0WkxoYk5sLTJzRVNUOGt3V1drcUc1X3BnQkcwalE3QWNJWUY5ZHhKOHJOa3RJNmxVT3BpZ3JVd2NNUGM2UlRHeFc0RnR6eGZq0gGOBEFVX3lxTE5BZ29ZQy1JOFFBSWJQazdLX0RqRF9XeXZ6eVpfWXV6RzdteUNJTm1GS0N1emoxYTZWQ2hmWG4wQlluMlhXOTYzODlzYk83akdnSVMyYzZZOXc0Y1V2RF9MZVVJUUpiSFc1eWhNMXktanB6RHJuY056QWU2S2E4Ry1lYnZMZG83SVRNT0JGdk5mMVNOMFU0RU9MeUJFZGNneDVFSEZLNy10WmJxWEI2MVRLOXFVMjFKMU1mR3I5czBCRzFsTXRjdWk4a2xCbVB4MWpEOTJ0ZGFfaGJnSjc4a3dsNTJHWnZoRFU5UXgwOU1KMFFOZXhDaE1uMVVaRDAycDFXVm83SXA5UFFib0dvR3BrVUJJQjhFeGNfM3RYbU55REZQZERHeURjNG9nUnI1MEdVek5yb25FTDhRcm1hVjBtemdzWWpWQVY1VDF2SDdILUFfdTgzT3BuYm0yU2psalNmVTlEMk1EQWhoRnpWT3lCRTFudXdDWVNVNzlxQ2Q0UHNTRVFfUlA1NmJ2cDVYbEJlRTIxV3RIOGl6NjBjV1ZkNlNBMEtoeHVuSmJQRmdXRkxLcWZ1WWljS3RfeW94RGRDVXc4VHNFclJoVzBSbkNtRVN0MUt0VEY4MUhudmVjYmItWjVaQTJ6YmhKRjlRcmR1a0FNUUJuRjNVUnp1R0k2X05jaFdCRzVXTjVjblE?oc=5",
-     "at": "2026-11-22T11:44+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
       "الضبط": 0,
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
@@ -3788,51 +3926,6 @@
       "الاتصال": 1,
       "عدالة المصدر": 1,
       "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
-   "id": "mx",
-   "name": "المكسيك",
-   "en": "Mexico",
-   "n": 2,
-   "sahih": 0,
-   "hasan": 2,
-   "heat": 22,
-   "summary": "خلال آخر أسبوع رصد سَنَد 2 خبرًا مُسنَدًا عن المكسيك (2 حسن). أبرزها: «المكسيك تتقدم بشكوى بشأن خط ساخن أميركي للإبلاغ عن عصابات المخدرات على أراضيها».",
-   "summary_en": "Over the last week Sanad graded 2 stories on Mexico (2 credible).",
-   "stories": [
-    {
-     "head": "المكسيك تتقدم بشكوى بشأن خط ساخن أميركي للإبلاغ عن عصابات المخدرات على أراضيها",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346492",
-     "at": "2026-11-28T01:04+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    },
-    {
-     "head": "المكسيك: مقتل 16 مشتبها بهم وأربعة عسكريين خلال عملية توقيف زعيم مخدرات بارز",
-     "he": "Mexico: 16 Suspects, 4 Soldiers Killed in Operation Targeting Top Drug Lord",
-     "grade": "حسن",
-     "src": "فرانس ٢٤ عربي",
-     "link": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261123-%D9%82%D8%AA%D9%84%D9%89-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D9%8A%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B2%D8%B9%D9%8A%D9%85-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83",
-     "at": "2026-11-23T21:07+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 0,
-      "الضبط": 1,
       "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
@@ -4088,64 +4181,6 @@
    ]
   },
   {
-   "id": "kp",
-   "name": "كوريا الشمالية",
-   "en": "North Korea",
-   "n": 1,
-   "sahih": 0,
-   "hasan": 1,
-   "heat": 11,
-   "summary": "خلال آخر أسبوع رصد سَنَد 1 خبرًا مُسنَدًا عن كوريا الشمالية (1 حسن). أبرزها: «كوريا الشمالية وروسيا تتفقان على تعزيز المشروعات الاقتصادية المشتركة».",
-   "summary_en": "Over the last week Sanad graded 1 stories on North Korea (1 credible).",
-   "stories": [
-    {
-     "head": "كوريا الشمالية وروسيا تتفقان على تعزيز المشروعات الاقتصادية المشتركة",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346497",
-     "at": "2026-11-28T04:49+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
-   "id": "lb",
-   "name": "لبنان",
-   "en": "Lebanon",
-   "n": 1,
-   "sahih": 0,
-   "hasan": 1,
-   "heat": 11,
-   "summary": "خلال آخر أسبوع رصد سَنَد 1 خبرًا مُسنَدًا عن لبنان (1 حسن). أبرزها: «وسائل إعلام لبنانية: ضغوط أمريكية وسعودية وراء نبرة عون الأكثر حدة ضد حزب الله وإيران».",
-   "summary_en": "Over the last week Sanad graded 1 stories on Lebanon (1 credible). Lead: “Lebanese Media: US and Saudi Pressure Behind Aoun's Sharper Tone on Hezbollah and Iran”.",
-   "stories": [
-    {
-     "head": "وسائل إعلام لبنانية: ضغوط أمريكية وسعودية وراء نبرة عون الأكثر حدة ضد حزب الله وإيران",
-     "he": "Lebanese Media: US and Saudi Pressure Behind Aoun's Sharper Tone on Hezbollah and Iran",
-     "grade": "حسن",
-     "src": "بي بي سي فارسي",
-     "link": "https://www.bbc.com/persian/articles/cwp9d0j9yjego?at_medium=RSS&at_campaign=rss",
-     "at": "2026-11-25T18:43+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
    "id": "mm",
    "name": "ميانمار",
    "en": "Myanmar",
@@ -4169,6 +4204,35 @@
       "عدالة المصدر": 0,
       "الضبط": 0,
       "عدم الشذوذ": 1,
+      "انتفاء العلة": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "mx",
+   "name": "المكسيك",
+   "en": "Mexico",
+   "n": 1,
+   "sahih": 0,
+   "hasan": 1,
+   "heat": 11,
+   "summary": "خلال آخر أسبوع رصد سَنَد 1 خبرًا مُسنَدًا عن المكسيك (1 حسن). أبرزها: «المكسيك: مقتل 16 مشتبها بهم وأربعة عسكريين خلال عملية توقيف زعيم مخدرات بارز».",
+   "summary_en": "Over the last week Sanad graded 1 stories on Mexico (1 credible). Lead: “Mexico: 16 Suspects, 4 Soldiers Killed in Operation Targeting Top Drug Lord”.",
+   "stories": [
+    {
+     "head": "المكسيك: مقتل 16 مشتبها بهم وأربعة عسكريين خلال عملية توقيف زعيم مخدرات بارز",
+     "he": "Mexico: 16 Suspects, 4 Soldiers Killed in Operation Targeting Top Drug Lord",
+     "grade": "حسن",
+     "src": "فرانس ٢٤ عربي",
+     "link": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261123-%D9%82%D8%AA%D9%84%D9%89-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D9%8A%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B2%D8%B9%D9%8A%D9%85-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83",
+     "at": "2026-11-23T21:07+00:00",
+     "score": 3,
+     "isnad": {
+      "الاتصال": 1,
+      "عدالة المصدر": 0,
+      "الضبط": 1,
+      "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
     }
@@ -4204,35 +4268,6 @@
    ]
   },
   {
-   "id": "nl",
-   "name": "هولندا",
-   "en": "Netherlands",
-   "n": 1,
-   "sahih": 0,
-   "hasan": 1,
-   "heat": 11,
-   "summary": "خلال آخر أسبوع رصد سَنَد 1 خبرًا مُسنَدًا عن هولندا (1 حسن). أبرزها: «بسبب التصوير الخفي.. دعوى تطالب بحظر نظارات ميتا الذكية في هولندا».",
-   "summary_en": "Over the last week Sanad graded 1 stories on Netherlands (1 credible). Lead: “Lawsuit in Netherlands Seeks Ban on Meta Smart Glasses Over Hidden Filming”.",
-   "stories": [
-    {
-     "head": "بسبب التصوير الخفي.. دعوى تطالب بحظر نظارات ميتا الذكية في هولندا",
-     "he": "Lawsuit in Netherlands Seeks Ban on Meta Smart Glasses Over Hidden Filming",
-     "grade": "حسن",
-     "src": "العربية",
-     "link": "https://www.alarabiya.net/technology/smart-phones/2026/11/27/%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D9%81%D9%8A-%D8%AF%D8%B9%D9%88%D9%89-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AD%D8%B8%D8%B1-%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D9%8A%D8%AA%D8%A7-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D9%87%D9%88%D9%84%D9%86%D8%AF%D8%A7",
-     "at": "2026-11-27T08:10+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
    "id": "no",
    "name": "النرويج",
    "en": "Norway",
@@ -4256,93 +4291,6 @@
       "عدالة المصدر": 1,
       "الضبط": 0,
       "عدم الشذوذ": 1,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
-   "id": "pe",
-   "name": "بيرو",
-   "en": "Peru",
-   "n": 1,
-   "sahih": 0,
-   "hasan": 1,
-   "heat": 11,
-   "summary": "خلال آخر أسبوع رصد سَنَد 1 خبرًا مُسنَدًا عن بيرو (1 حسن). أبرزها: «مقتل ثمانية أشخاص في حادث تحطم مروحية عسكرية في البيرو».",
-   "summary_en": "Over the last week Sanad graded 1 stories on Peru (1 credible).",
-   "stories": [
-    {
-     "head": "مقتل ثمانية أشخاص في حادث تحطم مروحية عسكرية في البيرو",
-     "he": "",
-     "grade": "حسن",
-     "src": "الشرق الأوسط",
-     "link": "https://aawsat.com/node/5346495",
-     "at": "2026-11-28T03:58+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
-   "id": "rs",
-   "name": "صربيا",
-   "en": "Serbia",
-   "n": 1,
-   "sahih": 0,
-   "hasan": 1,
-   "heat": 11,
-   "summary": "خلال آخر أسبوع رصد سَنَد 1 خبرًا مُسنَدًا عن صربيا (1 حسن). أبرزها: «الحراك الطلابي يرشّح كيميائياً لانتخابات الرئاسة في صربيا».",
-   "summary_en": "Over the last week Sanad graded 1 stories on Serbia (1 credible).",
-   "stories": [
-    {
-     "head": "الحراك الطلابي يرشّح كيميائياً لانتخابات الرئاسة في صربيا",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%83-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a-%d9%8a%d8%b1%d8%b4%d8%ad-%d9%83%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a%d8%a7?traffic_source=rss",
-     "at": "2026-11-27T21:17+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
-      "انتفاء العلة": 1
-     }
-    }
-   ]
-  },
-  {
-   "id": "tw",
-   "name": "تايوان",
-   "en": "Taiwan",
-   "n": 1,
-   "sahih": 0,
-   "hasan": 1,
-   "heat": 11,
-   "summary": "خلال آخر أسبوع رصد سَنَد 1 خبرًا مُسنَدًا عن تايوان (1 حسن). أبرزها: «تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها».",
-   "summary_en": "Over the last week Sanad graded 1 stories on Taiwan (1 credible).",
-   "stories": [
-    {
-     "head": "تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها",
-     "he": "",
-     "grade": "حسن",
-     "src": "الجزيرة نت",
-     "link": "https://www.aljazeera.net/news/2026/11/28/%d8%aa%d8%a7%d9%8a%d9%88%d8%a7%d9%86-%d8%aa%d8%b1%d8%b5%d8%af-33-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%8812-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%ad%d9%88%d9%84?traffic_source=rss",
-     "at": "2026-11-28T00:27+00:00",
-     "score": 3,
-     "isnad": {
-      "الاتصال": 1,
-      "عدالة المصدر": 1,
-      "الضبط": 0,
-      "عدم الشذوذ": 0,
       "انتفاء العلة": 1
      }
     }
@@ -4376,18 +4324,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "af",
-   "name": "أفغانستان",
-   "en": "Afghanistan",
-   "n": 0,
-   "sahih": 0,
-   "hasan": 0,
-   "heat": 0,
-   "summary": "لا أخبار مُسنَدة عن أفغانستان خلال آخر أسبوع في حصيلة سَنَد.",
-   "summary_en": "No authenticated Sanad stories on Afghanistan in the last week.",
-   "stories": []
   },
   {
    "id": "al",
@@ -4882,6 +4818,18 @@
    "stories": []
   },
   {
+   "id": "kp",
+   "name": "كوريا الشمالية",
+   "en": "North Korea",
+   "n": 0,
+   "sahih": 0,
+   "hasan": 0,
+   "heat": 0,
+   "summary": "لا أخبار مُسنَدة عن كوريا الشمالية خلال آخر أسبوع في حصيلة سَنَد.",
+   "summary_en": "No authenticated Sanad stories on North Korea in the last week.",
+   "stories": []
+  },
+  {
    "id": "kz",
    "name": "كازاخستان",
    "en": "Kazakhstan",
@@ -5038,6 +4986,18 @@
    "stories": []
   },
   {
+   "id": "nl",
+   "name": "هولندا",
+   "en": "Netherlands",
+   "n": 0,
+   "sahih": 0,
+   "hasan": 0,
+   "heat": 0,
+   "summary": "لا أخبار مُسنَدة عن هولندا خلال آخر أسبوع في حصيلة سَنَد.",
+   "summary_en": "No authenticated Sanad stories on Netherlands in the last week.",
+   "stories": []
+  },
+  {
    "id": "np",
    "name": "نيبال",
    "en": "Nepal",
@@ -5071,6 +5031,18 @@
    "heat": 0,
    "summary": "لا أخبار مُسنَدة عن بنما خلال آخر أسبوع في حصيلة سَنَد.",
    "summary_en": "No authenticated Sanad stories on Panama in the last week.",
+   "stories": []
+  },
+  {
+   "id": "pe",
+   "name": "بيرو",
+   "en": "Peru",
+   "n": 0,
+   "sahih": 0,
+   "hasan": 0,
+   "heat": 0,
+   "summary": "لا أخبار مُسنَدة عن بيرو خلال آخر أسبوع في حصيلة سَنَد.",
+   "summary_en": "No authenticated Sanad stories on Peru in the last week.",
    "stories": []
   },
   {
@@ -5131,6 +5103,18 @@
    "heat": 0,
    "summary": "لا أخبار مُسنَدة عن رومانيا خلال آخر أسبوع في حصيلة سَنَد.",
    "summary_en": "No authenticated Sanad stories on Romania in the last week.",
+   "stories": []
+  },
+  {
+   "id": "rs",
+   "name": "صربيا",
+   "en": "Serbia",
+   "n": 0,
+   "sahih": 0,
+   "hasan": 0,
+   "heat": 0,
+   "summary": "لا أخبار مُسنَدة عن صربيا خلال آخر أسبوع في حصيلة سَنَد.",
+   "summary_en": "No authenticated Sanad stories on Serbia in the last week.",
    "stories": []
   },
   {
@@ -5251,6 +5235,18 @@
    "heat": 0,
    "summary": "لا أخبار مُسنَدة عن تركمانستان خلال آخر أسبوع في حصيلة سَنَد.",
    "summary_en": "No authenticated Sanad stories on Turkmenistan in the last week.",
+   "stories": []
+  },
+  {
+   "id": "tw",
+   "name": "تايوان",
+   "en": "Taiwan",
+   "n": 0,
+   "sahih": 0,
+   "hasan": 0,
+   "heat": 0,
+   "summary": "لا أخبار مُسنَدة عن تايوان خلال آخر أسبوع في حصيلة سَنَد.",
+   "summary_en": "No authenticated Sanad stories on Taiwan in the last week.",
    "stories": []
   },
   {
